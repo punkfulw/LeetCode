@@ -10,7 +10,7 @@ Return the *shuffled string.*</p>
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
-![image](picture or gif url)
+![image](https://github.com/punkfulw/LeetCode/blob/main/leetcode/1528.%20Shuffle%20String/1528.jpg)
 
 <pre><strong>Input:</strong> s = "codeleet", indices = [4,5,6,7,0,2,1,3]
 <strong>Output:</strong> "leetcode"
