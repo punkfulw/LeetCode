@@ -1,0 +1,17 @@
+// OJ: https://leetcode.com/problems/number-of-good-pairs/
+// Author: github.com/punkfulw
+// Time: O(N^2)
+// Space: O(1)
+class Solution {
+public:
+    int numIdenticalPairs(vector<int>& nums) {
+        int ans {};
+        for (int i = 0; i < nums.size()-1; i++){
+            for (int j = i + 1; j < nums.size(); j++){
+                 if (nums.at(i) == nums.at(j))
+                    ans++;
+            }  
+        }
+        return ans;
+    }
+};
