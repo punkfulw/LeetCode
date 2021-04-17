@@ -30,7 +30,7 @@ My C++ Code for LeetCode OJ.
 1486 | XOR Operation in an Array | Easy | [Solution](leetcode/1486.%20XOR%20Operation%20in%20an%20Array)
 1491 | Average Salary Excluding the Minimum and Maximum Salary | Easy | [Solution](leetcode/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary)
 1512 | Number of Good Pairs | Easy | [Solution](leetcode/1512.%20Number%20of%20Good%20Pairs)
-1528
+1528 | Shuffle String | Easy | [Solution](leetcode/1528.%20Shuffle%20String)
 1603 | Design Parking System | Easy | [Solution](leetcode/1603.%20Design%20Parking%20System)
 1614 | Maximum Nesting Depth of the Parentheses | Easy | [Solution](leetcode/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses)
 1662 | Check If Two String Arrays are Equivalent | Easy | [Solution](leetcode/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent)
