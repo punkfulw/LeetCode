@@ -18,6 +18,7 @@ My C++ Code for LeetCode OJ.
 1108 | Defanging an IP Address | Easy | [Solution](leetcode/1108.%20Defanging%20an%20IP%20Address)
 1221 | Split a String in Balanced Strings | Easy | [Solution](leetcode/1221.%20Split%20a%20String%20in%20Balanced%20Strings)
 1281 | Subtract the Product and Sum of Digits of an Integer | Easy | [Solution](leetcode/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer)
+1290 | Convert Binary Number in a Linked List to Integer | Easy | [Solution](leetcode/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer)
 1295 | Find Numbers with Even Number of Digits | Easy | [Solution](leetcode/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits)
 1304 | Find N Unique Integers Sum up to Zero | Easy | [Solution](leetcode/1304.%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero)
 1313 | Decompress Run-Length Encoded List | Easy | [Solution](leetcode/1313.%20Decompress%20Run-Length%20Encoded%20List)
