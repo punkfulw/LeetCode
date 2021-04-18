@@ -41,6 +41,7 @@ My C++ Code for LeetCode OJ.
 1684 | Count the Number of Consistent Strings | Easy | [Solution](leetcode/1684.%20Count%20the%20Number%20of%20Consistent%20Strings)
 1688 | Count of Matches in Tournament | Easy | [Solution](leetcode/1688.%20Count%20of%20Matches%20in%20Tournament)
 1720 | Decode XORed Array | Easy | [Solution](leetcode/1720.%20Decode%20XORed%20Array)
+1732 | Find the Highest Altitude | Easy | [Solution](leetcode/1732.%20Find%20the%20Highest%20Altitude)
 1773 | Count Items Matching a Rule | Easy | [Solution](leetcode/1773.%20Count%20Items%20Matching%20a%20Rule)
 1792 | Maximum Average Pass Ratio | Medium | [Solution](leetcode/1792.%20Maximum%20Average%20Pass%20Ratio)
 1822 | Sign of the Product of an Array | Easy | [Solution](leetcode/1822.%20Sign%20of%20the%20Product%20of%20an%20Array)
