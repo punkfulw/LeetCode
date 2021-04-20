@@ -15,6 +15,7 @@ My C++ Code for LeetCode OJ.
 807 | Max Increase to Keep City Skyline | Medium | [Solution](leetcode/807.%20Max%20Increase%20to%20Keep%20City%20Skyline)
 938 | Range Sum of BST | Easy | [Solution](leetcode/938.%20Range%20Sum%20of%20BST)
 953 | Verifying an Alien Dictionary | Easy | [Solution](leetcode/953.%20Verifying%20an%20Alien%20Dictionary)
+1021 | Remove Outermost Parentheses | Easy | [Solution](leetcode/1021.%20Remove%20Outermost%20Parentheses)
 1108 | Defanging an IP Address | Easy | [Solution](leetcode/1108.%20Defanging%20an%20IP%20Address)
 1221 | Split a String in Balanced Strings | Easy | [Solution](leetcode/1221.%20Split%20a%20String%20in%20Balanced%20Strings)
 1266 | Minimum Time Visiting All Points | Easy | [Solution](leetcode/1266.%20Minimum%20Time%20Visiting%20All%20Points)
