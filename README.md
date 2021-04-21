@@ -48,5 +48,6 @@ My C++ Code for LeetCode OJ.
 1732 | Find the Highest Altitude | Easy | [Solution](leetcode/1732.%20Find%20the%20Highest%20Altitude)
 1773 | Count Items Matching a Rule | Easy | [Solution](leetcode/1773.%20Count%20Items%20Matching%20a%20Rule)
 1792 | Maximum Average Pass Ratio | Medium | [Solution](leetcode/1792.%20Maximum%20Average%20Pass%20Ratio)
+1816 | Truncate Sentence | Easy | [Solution](leetcode/1816.%20Truncate%20Sentence)
 1822 | Sign of the Product of an Array | Easy | [Solution](leetcode/1822.%20Sign%20of%20the%20Product%20of%20an%20Array)
 1827 | Minimum Operations to Make the Array Increasing | Easy | [Solution](leetcode/1827.%20Minimum%20Operations%20to%20Make%20the%20Array%20Increasing)
