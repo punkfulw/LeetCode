@@ -7,6 +7,7 @@ My C++ Code for LeetCode OJ.
 
 \# | Title | Difficulty | Solution
 ---|---|---|---
+1 | Two Sum | Easy | [Solution](leetcode/1.%20Two%20Sum)
 7 | Reverse Integer | Easy | [Solution](leetcode/7.%20Reverse%20Integer)
 75 | Sort Colors | Medium | [Solution](leetcode/75.%20Sort%20Colors)
 175 | Combine Two Tables | Easy | [Solution](leetcode/175.%20Combine%20Two%20Tables)
