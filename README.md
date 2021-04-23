@@ -32,6 +32,7 @@ My C++ Code for LeetCode OJ.
 1309 | Decrypt String from Alphabet to Integer Mapping | Easy | [Solution](leetcode/1309.%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping)
 1313 | Decompress Run-Length Encoded List | Easy | [Solution](leetcode/1313.%20Decompress%20Run-Length%20Encoded%20List)
 1323 | Maximum 69 Number | Easy | [Solution](leetcode/1323.%20Maximum%2069%20Number)
+1324 | Print Words Vertically | Medium | [Solution](leetcode/1324.%20Print%20Words%20Vertically)
 1342 | Number of Steps to Reduce a Number to Zero | Easy | [Solution](leetcode/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero)
 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | [Solution](leetcode/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number)
 1389 | Create Target Array in the Given Order | Easy | [Solution](leetcode/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order)
