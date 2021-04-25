@@ -36,6 +36,7 @@ My C++ Code for LeetCode OJ.
 1324 | Print Words Vertically | Medium | [Solution](leetcode/1324.%20Print%20Words%20Vertically)
 1342 | Number of Steps to Reduce a Number to Zero | Easy | [Solution](leetcode/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero)
 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | [Solution](leetcode/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number)
+1370 | Increasing Decreasing String | Easy | [Solution](leetcode/1370.%20Increasing%20Decreasing%20String)
 1389 | Create Target Array in the Given Order | Easy | [Solution](leetcode/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order)
 1431 | Kids With the Greatest Number of Candies | Easy | [Solution](leetcode/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies)
 1470 | Shuffle the Array | Easy | [Solution](leetcode/1470.%20Shuffle%20the%20Array)
