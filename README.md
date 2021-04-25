@@ -44,6 +44,7 @@ My C++ Code for LeetCode OJ.
 1491 | Average Salary Excluding the Minimum and Maximum Salary | Easy | [Solution](leetcode/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary)
 1512 | Number of Good Pairs | Easy | [Solution](leetcode/1512.%20Number%20of%20Good%20Pairs)
 1528 | Shuffle String | Easy | [Solution](leetcode/1528.%20Shuffle%20String)
+1572 | Matrix Diagonal Sum | Easy | [Solution](leetcode/1572.%20Matrix%20Diagonal%20Sum)
 1588 | Sum of All Odd Length Subarrays | Easy | [Solution](leetcode/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays)
 1603 | Design Parking System | Easy | [Solution](leetcode/1603.%20Design%20Parking%20System)
 1614 | Maximum Nesting Depth of the Parentheses | Easy | [Solution](leetcode/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses)
