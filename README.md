@@ -40,6 +40,7 @@ My C++ Code for LeetCode OJ.
 1389 | Create Target Array in the Given Order | Easy | [Solution](leetcode/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order)
 1431 | Kids With the Greatest Number of Candies | Easy | [Solution](leetcode/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies)
 1436 | Destination City | Easy | [Solution](leetcode/1436.%20Destination%20City)
+1464 | Maximum Product of Two Elements in an Array | Easy | [Solution](leetcode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array)
 1470 | Shuffle the Array | Easy | [Solution](leetcode/1470.%20Shuffle%20the%20Array)
 1480 | Running Sum of 1d Array | Easy | [Solution](leetcode/1480.%20Running%20Sum%20of%201d%20Array)
 1486 | XOR Operation in an Array | Easy | [Solution](leetcode/1486.%20XOR%20Operation%20in%20an%20Array)
