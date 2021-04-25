@@ -13,6 +13,7 @@ My C++ Code for LeetCode OJ.
 175 | Combine Two Tables | Easy | [Solution](leetcode/175.%20Combine%20Two%20Tables)
 413 | Arithmetic Slices | Medium | [Solution](leetcode/413.%20Arithmetic%20Slices)
 415 | Add Strings | Easy | [Solution](leetcode/415.%20Add%20Strings)
+450 | Delete Node in a BST | Medium | [Solution](leetcode/450.%20Delete%20Node%20in%20a%20BST)
 709 | To Lower Case | Easy | [Solution](leetcode/709.%20To%20Lower%20Case)
 771 | Jewels and Stones | Easy | [Solution](leetcode/771.%20Jewels%20and%20Stones)
 804 | Unique Morse Code Words | Easy | [Solution](leetcode/804.%20Unique%20Morse%20Code%20Words)
