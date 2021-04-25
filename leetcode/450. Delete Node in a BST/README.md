@@ -15,15 +15,15 @@
 
 ![image](https://github.com/punkfulw/LeetCode/blob/main/leetcode/450.%20Delete%20Node%20in%20a%20BST/del_node_1.jpg)
 <pre>
-![image](https://github.com/punkfulw/LeetCode/blob/main/leetcode/450.%20Delete%20Node%20in%20a%20BST/del_node_1.jpg)
 <strong>Input: </strong>root = [5,3,6,2,4,null,7], key = 3
 <strong>Output: </strong>[5,4,6,2,null,null,7]
 <strong>Explanation: </strong>
 Given key to delete is 3. So we find the node with value 3 and delete it.
 One valid answer is [5,4,6,2,null,null,7], shown in the above BST.
 Please notice that another valid answer is [5,2,6,null,4,null,7] and it's also accepted.
-![image](https://github.com/punkfulw/LeetCode/blob/main/leetcode/450.%20Delete%20Node%20in%20a%20BST/del_node_supp.jpg)
 </pre>
+![image](https://github.com/punkfulw/LeetCode/blob/main/leetcode/450.%20Delete%20Node%20in%20a%20BST/del_node_supp.jpg)
+<pre></pre>
 
 
 <p><strong>Example 2:</strong></p>
