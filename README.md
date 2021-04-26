@@ -58,6 +58,7 @@ My C++ Code for LeetCode OJ.
 1588 | Sum of All Odd Length Subarrays | Easy | [Solution](leetcode/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays)
 1603 | Design Parking System | Easy | [Solution](leetcode/1603.%20Design%20Parking%20System)
 1614 | Maximum Nesting Depth of the Parentheses | Easy | [Solution](leetcode/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses)
+1653 | Minimum Deletions to Make String Balanced | Medium | [Solution](leetcode/1653.%20Minimum%20Deletions%20to%20Make%20String%20Balanced)
 1662 | Check If Two String Arrays are Equivalent | Easy | [Solution](leetcode/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent)
 1672 | Richest Customer Wealth | Easy | [Solution](leetcode/1672.%20Richest%20Customer%20Wealth)
 1678 | Goal Parser Interpretation | Easy | [Solution](leetcode/1678.%20Goal%20Parser%20Interpretation)
