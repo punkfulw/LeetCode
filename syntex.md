@@ -4,3 +4,5 @@
 
 
 ![image](https://github.com/punkfulw/LeetCode/blob/main/leetcode/1528.%20Shuffle%20String/1528.jpg)
+
+<img alt="" src="https://github.com/punkfulw/LeetCode/blob/main/leetcode/1528.%20Shuffle%20String/1528.jpg" style="width: 600px; height: 150px;">
