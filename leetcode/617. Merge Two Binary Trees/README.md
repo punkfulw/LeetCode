@@ -14,7 +14,7 @@ The merge rule is that if two nodes overlap, then sum node values up as the new 
 <p><strong>Example 1:</strong></p>
 
 <pre>
-<img alt="" src="https://github.com/punkfulw/LeetCode/blob/main/leetcode/1528.%20Shuffle%20String/1528.jpg" style="width: 600px; height: 150px;">
+<img alt="" src="https://github.com/punkfulw/LeetCode/blob/main/leetcode/617.%20Merge%20Two%20Binary%20Trees/merge.jpg" style="width: 700px; height: 150px;">
 <strong>Input: </strong>root1 = [1,3,2,5], root2 = [2,1,3,null,4,null,7]
 <strong>Output: </strong>[3,4,5,5,4,null,7]
 </pre>
@@ -33,6 +33,9 @@ The merge rule is that if two nodes overlap, then sum node values up as the new 
 	<li>The number of nodes in both trees is in the range <code>[0, 2000]</code>.</li>
 	<li><code>-10<sup>4</sup> &lt;= Node.val &lt;&nbsp;= 10<sup>4</sup></code></li>
 </ul>
+
+**Related Topics**:  
+[Tree](https://leetcode.com/tag/tree/)
 
 
 ## Solution 1.
