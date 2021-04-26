@@ -45,7 +45,7 @@ The merge rule is that if two nodes overlap, then sum node values up as the new 
 // OJ: https://leetcode.com/problems/merge-two-binary-trees
 // Author: github.com/punkfulw
 // Time: O(N)
-// Space: O(1)
+// Space: O(N)
 class Solution {
 public:
     TreeNode* mergeTrees(TreeNode* root1, TreeNode* root2) {
