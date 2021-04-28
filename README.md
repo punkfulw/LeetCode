@@ -15,6 +15,7 @@ My C++ Code for LeetCode OJ.
 413 | Arithmetic Slices | Medium | [Solution](leetcode/413.%20Arithmetic%20Slices)
 415 | Add Strings | Easy | [Solution](leetcode/415.%20Add%20Strings)
 450 | Delete Node in a BST | Medium | [Solution](leetcode/450.%20Delete%20Node%20in%20a%20BST)
+561 | Array Partition I |  | [Solution](leetcode/561.%20Array%20Partition%20I)
 617 | Merge Two Binary Trees | Easy | [Solution](leetcode/617.%20Merge%20Two%20Binary%20Trees)
 709 | To Lower Case | Easy | [Solution](leetcode/709.%20To%20Lower%20Case)
 728 | Self Dividing Numbers | Easy | [Solution](leetcode/728.%20Self%20Dividing%20Numbers)
