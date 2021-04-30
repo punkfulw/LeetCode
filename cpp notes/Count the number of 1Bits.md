@@ -1,13 +1,6 @@
-<p>__builtin_popcount is a gcc macro that count the number of 1 you can have in a binary representation.
-As the Problem description say : 
-  "You have to sort the integers in the array in ascending order by the number of 1's in their binary representation 
-  and in case of two or more integers have the same number of 1's you have to sort them in ascending order"</p>
-<p>lets say I have [5,3,8,10] -> [101, 011, 1000, 1010]</p>
-<p>In the compare function:
-I compare c1== c2, to check if two number can have the same amount of 1's in their binary representation,
-for exemple : 3 and 10 have the same amount, so I will take 10, as 10 is greeter than 3</p>
-<p>otherwise:
-I just compare c1 < c2, to check which number have the most 1's in their binary representation.</p>
+<p><b>__builtin_popcount</b> is a gcc macro that count the number of 1 you can have in a binary representation.
+
+<p> make_pair(cnt(arr[i]), arr[i]); </p>
 
 
 ```cpp
@@ -32,3 +25,28 @@ public:
 };
 ```
 
+
+```cpp
+// OJ: https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
+// Author: github.com/lzl124631x
+// Time: O(NlogN)
+// Space: O(N)
+class Solution {
+    int cnt(int n) {
+        int c = 0;
+        for (; n; n >>= 1) {
+            if (n & 1) ++c;
+        }
+        return c;
+    }
+public:
+    vector<int> sortByBits(vector<int>& arr) {
+        int N = arr.size();
+        vector<pair<int, int>> v(N);
+        for (int i = 0; i < N; ++i) v[i] = make_pair(cnt(arr[i]), arr[i]);
+        sort(v.begin(), v.end());
+        for (int i = 0; i < N; ++i) arr[i] = v[i].second;
+        return arr;
+    }
+};
+```
