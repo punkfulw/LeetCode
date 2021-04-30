@@ -51,6 +51,7 @@ My C++ Code for LeetCode OJ.
 1389 | Create Target Array in the Given Order | Easy | [Solution](leetcode/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order)
 1431 | Kids With the Greatest Number of Candies | Easy | [Solution](leetcode/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies)
 1436 | Destination City | Easy | [Solution](leetcode/1436.%20Destination%20City)
+1441 | Build an Array With Stack Operations |  | [Solution](leetcode/1441.%20Build%20an%20Array%20With%20Stack%20Operations)
 1450 | Number of Students Doing Homework at a Given Time | Easy | [Solution](leetcode/1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time)
 1464 | Maximum Product of Two Elements in an Array | Easy | [Solution](leetcode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array)
 1470 | Shuffle the Array | Easy | [Solution](leetcode/1470.%20Shuffle%20the%20Array)
