@@ -9,7 +9,7 @@ My C++ Code for LeetCode OJ.
 ---|---|---|---
 1 | Two Sum | Easy | [Solution](leetcode/1.%20Two%20Sum)
 7 | Reverse Integer | Easy | [Solution](leetcode/7.%20Reverse%20Integer)
-34 | Search for a Range | Medium | [Solution](leetcode/34.%20Search%20for%20a%20Range)
+34 | Find First and Last Position of Element in Sorted Array | Medium | [Solution](leetcode/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array)
 48 | Rotate Image | Medium | [Solution](leetcode/48.%20Rotate%20Image)
 75 | Sort Colors | Medium | [Solution](leetcode/75.%20Sort%20Colors)
 175 | Combine Two Tables | Easy | [Solution](leetcode/175.%20Combine%20Two%20Tables)
