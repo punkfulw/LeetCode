@@ -51,6 +51,7 @@ My C++ Code for LeetCode OJ.
 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | [Solution](leetcode/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number)
 1370 | Increasing Decreasing String | Easy | [Solution](leetcode/1370.%20Increasing%20Decreasing%20String)
 1374 | Generate a String With Characters That Have Odd Counts | Easy | [Solution](leetcode/1374.%20Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts)
+1387 | Sort Integers by The Power Value | Medium | [Solution](leetcode/1387.%20Sort%20Integers%20by%20The%20Power%20Value)
 1389 | Create Target Array in the Given Order | Easy | [Solution](leetcode/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order)
 1431 | Kids With the Greatest Number of Candies | Easy | [Solution](leetcode/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies)
 1436 | Destination City | Easy | [Solution](leetcode/1436.%20Destination%20City)
