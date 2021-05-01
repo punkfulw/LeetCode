@@ -77,6 +77,7 @@ My C++ Code for LeetCode OJ.
 1720 | Decode XORed Array | Easy | [Solution](leetcode/1720.%20Decode%20XORed%20Array)
 1725 | Number Of Rectangles That Can Form The Largest Square | Easy | [Solution](leetcode/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square)
 1732 | Find the Highest Altitude | Easy | [Solution](leetcode/1732.%20Find%20the%20Highest%20Altitude)
+1748 | Sum of Unique Elements | Easy | [Solution](leetcode/1748.%20Sum%20of%20Unique%20Elements)
 1768 | Merge Strings Alternately | Easy | [Solution](leetcode/1768.%20Merge%20Strings%20Alternately)
 1773 | Count Items Matching a Rule | Easy | [Solution](leetcode/1773.%20Count%20Items%20Matching%20a%20Rule)
 1792 | Maximum Average Pass Ratio | Medium | [Solution](leetcode/1792.%20Maximum%20Average%20Pass%20Ratio)
