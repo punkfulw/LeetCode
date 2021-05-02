@@ -23,6 +23,7 @@ My C++ Code for LeetCode OJ.
 771 | Jewels and Stones | Easy | [Solution](leetcode/771.%20Jewels%20and%20Stones)
 804 | Unique Morse Code Words | Easy | [Solution](leetcode/804.%20Unique%20Morse%20Code%20Words)
 807 | Max Increase to Keep City Skyline | Medium | [Solution](leetcode/807.%20Max%20Increase%20to%20Keep%20City%20Skyline)
+821 | Shortest Distance to a Character | Easy | [Solution](leetcode/821.%20Shortest%20Distance%20to%20a%20Character)
 832 | Flipping an Image | Easy | [Solution](leetcode/832.%20Flipping%20an%20Image)
 897 | Increasing Order Search Tree | Easy | [Solution](leetcode/897.%20Increasing%20Order%20Search%20Tree)
 905 | Sort Array By Parity | Easy | [Solution](leetcode/905.%20Sort%20Array%20By%20Parity)
