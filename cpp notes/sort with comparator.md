@@ -1,4 +1,6 @@
 ## 1710. Maximum Units on a Truck
+
+```cpp
 class Solution {
 public:
     bool static comparator(vector<int> &x,vector<int> &y){
@@ -18,3 +20,4 @@ public:
         return ans;
     }
 };
+```
