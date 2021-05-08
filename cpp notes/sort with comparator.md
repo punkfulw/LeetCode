@@ -21,3 +21,52 @@ public:
     }
 };
 ```
+
+
+## 1030. Matrix Cells in Distance Order
+
+
+```cpp
+class Solution {
+public:
+    vector<vector<int>> allCellsDistOrder(int R, int C, int r0, int c0) {
+        vector<vector<int>> ans {};
+        
+        auto comp = [r0, c0](vector<int> &a, vector<int> &b)
+        {
+            return abs(a[0]-r0) + abs(a[1]-c0) < abs(b[0]-r0) + abs(b[1]-c0);
+        };
+        
+        for (int i = 0; i < R; i++){
+            for (int j = 0; j < C; j++){
+                ans.push_back({i, j});                
+            }
+        }
+        
+        sort(ans.begin(), ans.end(), comp);
+        
+        return ans;
+    }
+};
+```
+
+```cpp
+class Solution {
+public:
+    vector<vector<int>> allCellsDistOrder(int R, int C, int r0, int c0) {
+        vector<vector<int>> ans;
+        for (int i = 0; i < R; i++)
+            for (int j = 0; j < C; j++)
+                ans.push_back({i, j, abs(i - r0) + abs(j - c0)});
+
+        sort(ans.begin(), ans.end(), [](vector<int>& c1, vector<int>& c2) {
+            return c1[2] < c2[2];
+        });
+
+        for (vector<int>& d: ans) 
+            d.pop_back();
+
+        return ans;
+    }
+};
+```
