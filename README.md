@@ -18,6 +18,7 @@ My C++ Code for LeetCode OJ.
 450 | Delete Node in a BST | Medium | [Solution](leetcode/450.%20Delete%20Node%20in%20a%20BST)
 559 | Maximum Depth of N-ary Tree | Easy | [Solution](leetcode/559.%20Maximum%20Depth%20of%20N-ary%20Tree)
 561 | Array Partition I | Easy | [Solution](leetcode/561.%20Array%20Partition%20I)
+583 | Delete Operation for Two Strings | Medium | [Solution](leetcode/583.%20Delete%20Operation%20for%20Two%20Strings)
 617 | Merge Two Binary Trees | Easy | [Solution](leetcode/617.%20Merge%20Two%20Binary%20Trees)
 709 | To Lower Case | Easy | [Solution](leetcode/709.%20To%20Lower%20Case)
 728 | Self Dividing Numbers | Easy | [Solution](leetcode/728.%20Self%20Dividing%20Numbers)
