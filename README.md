@@ -100,6 +100,7 @@ My C++ Code for LeetCode OJ.
 1816 | Truncate Sentence | Easy | [Solution](leetcode/1816.%20Truncate%20Sentence)
 1822 | Sign of the Product of an Array | Easy | [Solution](leetcode/1822.%20Sign%20of%20the%20Product%20of%20an%20Array)
 1827 | Minimum Operations to Make the Array Increasing | Easy | [Solution](leetcode/1827.%20Minimum%20Operations%20to%20Make%20the%20Array%20Increasing)
+1828 | Queries on Number of Points Inside a Circle | Medium | [Solution](leetcode/1828.%20Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle)
 1837 | Sum of Digits in Base K | Easy | [Solution](leetcode/1837.%20Sum%20of%20Digits%20in%20Base%20K)
 1839 | Longest Substring Of All Vowels in Order | Medium | [Solution](leetcode/1839.%20Longest%20Substring%20Of%20All%20Vowels%20in%20Order)
 1844 | Replace All Digits with Characters | Easy | [Solution](leetcode/1844.%20Replace%20All%20Digits%20with%20Characters)
