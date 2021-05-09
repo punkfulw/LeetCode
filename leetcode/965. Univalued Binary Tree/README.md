@@ -6,7 +6,7 @@
 
 
 <p><strong>Example 1:</strong></p>
-![image](https://github.com/punkfulw/LeetCode/blob/main/leetcode/965.%20Univalued%20Binary%20Tree/unival_bst_1.png)
+<img alt="" src="https://github.com/punkfulw/LeetCode/blob/main/leetcode/965.%20Univalued%20Binary%20Tree/unival_bst_1.png" style="width: 600px; height: 150px;">
 <pre>
 <strong>Input:</strong> [1,1,1,1,1,null,1]
 <strong>Output:</strong> true
@@ -14,7 +14,7 @@
 
 
 <p><strong>Example 2:</strong></p>
-![image](https://github.com/punkfulw/LeetCode/blob/main/leetcode/965.%20Univalued%20Binary%20Tree/unival_bst_2.png)
+<img alt="" src="https://github.com/punkfulw/LeetCode/blob/main/leetcode/965.%20Univalued%20Binary%20Tree/unival_bst_2.png" style="width: 600px; height: 150px;">
 <pre>
 <strong>Input:</strong> [2,2,2,5,2]
 <strong>Output:</strong> false
