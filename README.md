@@ -36,6 +36,7 @@ My C++ Code for LeetCode OJ.
 938 | Range Sum of BST | Easy | [Solution](leetcode/938.%20Range%20Sum%20of%20BST)
 953 | Verifying an Alien Dictionary | Easy | [Solution](leetcode/953.%20Verifying%20an%20Alien%20Dictionary)
 961 | N-Repeated Element in Size 2N Array | Easy | [Solution](leetcode/961.%20N-Repeated%20Element%20in%20Size%202N%20Array)
+965 | Univalued Binary Tree | Easy | [Solution](leetcode/965.%20Univalued%20Binary%20Tree)
 970 | Powerful Integers | Medium | [Solution](leetcode/970.%20Powerful%20Integers)
 1021 | Remove Outermost Parentheses | Easy | [Solution](leetcode/1021.%20Remove%20Outermost%20Parentheses)
 1030 | Matrix Cells in Distance Order | Easy | [Solution](leetcode/1030.%20Matrix%20Cells%20in%20Distance%20Order)
