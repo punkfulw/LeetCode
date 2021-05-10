@@ -1,7 +1,7 @@
 // OJ: https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
 // Author: github.com/punkfulw
 // Time: O(N)
-// Space: O(N)
+// Space: O(H)
 class Solution {
 public:
     int ans {};
