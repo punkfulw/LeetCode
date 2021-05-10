@@ -95,6 +95,7 @@ My C++ Code for LeetCode OJ.
 1732 | Find the Highest Altitude | Easy | [Solution](leetcode/1732.%20Find%20the%20Highest%20Altitude)
 1748 | Sum of Unique Elements | Easy | [Solution](leetcode/1748.%20Sum%20of%20Unique%20Elements)
 1768 | Merge Strings Alternately | Easy | [Solution](leetcode/1768.%20Merge%20Strings%20Alternately)
+1769 | Minimum Number of Operations to Move All Balls to Each Box | Medium | [Solution](leetcode/1769.%20Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box)
 1773 | Count Items Matching a Rule | Easy | [Solution](leetcode/1773.%20Count%20Items%20Matching%20a%20Rule)
 1792 | Maximum Average Pass Ratio | Medium | [Solution](leetcode/1792.%20Maximum%20Average%20Pass%20Ratio)
 1812 | Determine Color of a Chessboard Square | Easy | [Solution](leetcode/1812.%20Determine%20Color%20of%20a%20Chessboard%20Square)
