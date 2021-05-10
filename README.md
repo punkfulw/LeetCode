@@ -55,6 +55,7 @@ My C++ Code for LeetCode OJ.
 1304 | Find N Unique Integers Sum up to Zero | Easy | [Solution](leetcode/1304.%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero)
 1309 | Decrypt String from Alphabet to Integer Mapping | Easy | [Solution](leetcode/1309.%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping)
 1313 | Decompress Run-Length Encoded List | Easy | [Solution](leetcode/1313.%20Decompress%20Run-Length%20Encoded%20List)
+1315 | Sum of Nodes with Even-Valued Grandparent | Medium | [Solution](leetcode/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent)
 1323 | Maximum 69 Number | Easy | [Solution](leetcode/1323.%20Maximum%2069%20Number)
 1324 | Print Words Vertically | Medium | [Solution](leetcode/1324.%20Print%20Words%20Vertically)
 1332 | Remove Palindromic Subsequences | Easy | [Solution](leetcode/1332.%20Remove%20Palindromic%20Subsequences)
