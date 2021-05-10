@@ -88,6 +88,7 @@ My C++ Code for LeetCode OJ.
 1678 | Goal Parser Interpretation | Easy | [Solution](leetcode/1678.%20Goal%20Parser%20Interpretation)
 1684 | Count the Number of Consistent Strings | Easy | [Solution](leetcode/1684.%20Count%20the%20Number%20of%20Consistent%20Strings)
 1688 | Count of Matches in Tournament | Easy | [Solution](leetcode/1688.%20Count%20of%20Matches%20in%20Tournament)
+1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Medium | [Solution](leetcode/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers)
 1704 | Determine if String Halves Are Alike | Easy | [Solution](leetcode/1704.%20Determine%20if%20String%20Halves%20Are%20Alike)
 1720 | Decode XORed Array | Easy | [Solution](leetcode/1720.%20Decode%20XORed%20Array)
 1725 | Number Of Rectangles That Can Form The Largest Square | Easy | [Solution](leetcode/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square)
