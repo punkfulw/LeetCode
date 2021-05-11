@@ -41,6 +41,7 @@ My C++ Code for LeetCode OJ.
 970 | Powerful Integers | Medium | [Solution](leetcode/970.%20Powerful%20Integers)
 1021 | Remove Outermost Parentheses | Easy | [Solution](leetcode/1021.%20Remove%20Outermost%20Parentheses)
 1030 | Matrix Cells in Distance Order | Easy | [Solution](leetcode/1030.%20Matrix%20Cells%20in%20Distance%20Order)
+1038 | Binary Search Tree to Greater Sum Tree | Medium | [Solution](leetcode/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree)
 1108 | Defanging an IP Address | Easy | [Solution](leetcode/1108.%20Defanging%20an%20IP%20Address)
 1122 | Relative Sort Array | Easy | [Solution](leetcode/1122.%20Relative%20Sort%20Array)
 1160 | Find Words That Can Be Formed by Characters | Easy | [Solution](leetcode/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters)
