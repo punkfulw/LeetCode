@@ -18,6 +18,7 @@ My C++ Code for LeetCode OJ.
 413 | Arithmetic Slices | Medium | [Solution](leetcode/413.%20Arithmetic%20Slices)
 415 | Add Strings | Easy | [Solution](leetcode/415.%20Add%20Strings)
 450 | Delete Node in a BST | Medium | [Solution](leetcode/450.%20Delete%20Node%20in%20a%20BST)
+461 | Hamming Distance | Easy | [Solution](leetcode/461.%20Hamming%20Distance)
 559 | Maximum Depth of N-ary Tree | Easy | [Solution](leetcode/559.%20Maximum%20Depth%20of%20N-ary%20Tree)
 561 | Array Partition I | Easy | [Solution](leetcode/561.%20Array%20Partition%20I)
 583 | Delete Operation for Two Strings | Medium | [Solution](leetcode/583.%20Delete%20Operation%20for%20Two%20Strings)
