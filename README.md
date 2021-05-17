@@ -82,6 +82,7 @@ My C++ Code for LeetCode OJ.
 1436 | Destination City | Easy | [Solution](leetcode/1436.%20Destination%20City)
 1441 | Build an Array With Stack Operations | Easy | [Solution](leetcode/1441.%20Build%20an%20Array%20With%20Stack%20Operations)
 1450 | Number of Students Doing Homework at a Given Time | Easy | [Solution](leetcode/1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time)
+1460 | Make Two Arrays Equal by Reversing Sub-arrays | Easy | [Solution](leetcode/1460.%20Make%20Two%20Arrays%20Equal%20by%20Reversing%20Sub-arrays)
 1464 | Maximum Product of Two Elements in an Array | Easy | [Solution](leetcode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array)
 1470 | Shuffle the Array | Easy | [Solution](leetcode/1470.%20Shuffle%20the%20Array)
 1480 | Running Sum of 1d Array | Easy | [Solution](leetcode/1480.%20Running%20Sum%20of%201d%20Array)
