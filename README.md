@@ -43,6 +43,7 @@ My C++ Code for LeetCode OJ.
 961 | N-Repeated Element in Size 2N Array | Easy | [Solution](leetcode/961.%20N-Repeated%20Element%20in%20Size%202N%20Array)
 965 | Univalued Binary Tree | Easy | [Solution](leetcode/965.%20Univalued%20Binary%20Tree)
 970 | Powerful Integers | Medium | [Solution](leetcode/970.%20Powerful%20Integers)
+977 | Squares of a Sorted Array | Easy | [Solution](leetcode/977.%20Squares%20of%20a%20Sorted%20Array)
 1021 | Remove Outermost Parentheses | Easy | [Solution](leetcode/1021.%20Remove%20Outermost%20Parentheses)
 1030 | Matrix Cells in Distance Order | Easy | [Solution](leetcode/1030.%20Matrix%20Cells%20in%20Distance%20Order)
 1038 | Binary Search Tree to Greater Sum Tree | Medium | [Solution](leetcode/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree)
