@@ -1,13 +1,18 @@
 # [852. Peak Index in a Mountain Array (Easy)](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 
-<p>Let's call an array <code>A</code> a <em>mountain</em>&nbsp;if the following properties hold:</p>
+<p>Let's call an array <code>arr</code> a <b>mountain</b> if the following properties hold:</p>
 
 <ul>
-	<li><code>A.length &gt;= 3</code></li>
-	<li>There exists some <code>0 &lt; i&nbsp;&lt; A.length - 1</code> such that <code>A[0] &lt; A[1] &lt; ... A[i-1] &lt; A[i] &gt; A[i+1] &gt; ... &gt; A[A.length - 1]</code></li>
+	<li><code>arr.length &gt;= 3</code></li>
+	<li>There exists <code>i</code> with <code>0 &lt; i&nbsp;&lt; A.length - 1</code> such that: </li>
+	<ul>
+		<li><code>arr[0] < arr[1] < ... arr[i-1] < arr[i]</code></li>
+		<li><code>arr[i] > arr[i+1] > ... > arr[arr.length - 1]</code></li>
+	</ul>
 </ul>
 
-<p>Given an array that is definitely a mountain, return any&nbsp;<code>i</code>&nbsp;such that&nbsp;<code>A[0] &lt; A[1] &lt; ... A[i-1] &lt; A[i] &gt; A[i+1] &gt; ... &gt; A[A.length - 1]</code>.</p>
+<p>Given an integer array <code>arr</code> that is <b>guaranteed</b> to be a mountain,
+return any <code>i</code> such that <code>arr[0] < arr[1] < ... arr[i - 1] < arr[i] > arr[i + 1] > ... > arr[arr.length - 1]</code>.</p>
 
 <p><strong>Example 1:</strong></p>
 
@@ -22,12 +27,12 @@
 <strong>Output: </strong><span id="example-output-2">1</span></pre>
 </div>
 
-<p><strong>Note:</strong></p>
+<p><strong>Constraints:</strong></p>
 
 <ol>
-	<li><code>3 &lt;= A.length &lt;= 10000</code></li>
-	<li><code><font face="monospace">0 &lt;= A[i] &lt;= 10^6</font></code></li>
-	<li>A&nbsp;is a mountain, as defined above.</li>
+	<li><code>3 &lt;= A.length &lt;= 10<sup>4</sup></code></li>
+	<li><code><font face="monospace">0 &lt;= A[i] &lt;= 10<sup>6</sup></font></code></li>
+	<li>arr&nbsp; is <b>guaranteed</b> to be a mountain array.</li>
 </ol>
 
 
