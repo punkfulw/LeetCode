@@ -35,6 +35,7 @@ My C++ Code for LeetCode OJ.
 807 | Max Increase to Keep City Skyline | Medium | [Solution](leetcode/807.%20Max%20Increase%20to%20Keep%20City%20Skyline)
 821 | Shortest Distance to a Character | Easy | [Solution](leetcode/821.%20Shortest%20Distance%20to%20a%20Character)
 832 | Flipping an Image | Easy | [Solution](leetcode/832.%20Flipping%20an%20Image)
+852 | Peak Index in a Mountain Array | Easy | [Solution](leetcode/852.%20Peak%20Index%20in%20a%20Mountain%20Array)
 876 | Middle of the Linked List | Easy | [Solution](leetcode/876.%20Middle%20of%20the%20Linked%20List)
 897 | Increasing Order Search Tree | Easy | [Solution](leetcode/897.%20Increasing%20Order%20Search%20Tree)
 905 | Sort Array By Parity | Easy | [Solution](leetcode/905.%20Sort%20Array%20By%20Parity)
