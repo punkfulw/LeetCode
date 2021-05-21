@@ -16,7 +16,7 @@
 </ul>
 
 <p>If you add a plus <code>'+'</code> in the <b>local name</b>, everything after the first plus sign <b>will be ignored</b>.
-  This allows certain emails to be filtered. Note that this rule <b>does not apply</b> to <b>domain names</b>.</p>.
+  This allows certain emails to be filtered. Note that this rule <b>does not apply</b> to <b>domain names</b>.</p>
   
 <ul>
   <li>For example, <code>"m.y+name@email.com"</code> will be forwarded to <code>"my@email.com"</code>.</li>
