@@ -147,7 +147,7 @@ public:
     }
 };
 ```
-## String to char
+## Char to string
 1002. Find Common Characters
 
 <b>string(1, i + 'a')</b>
