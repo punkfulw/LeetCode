@@ -48,6 +48,7 @@ My C++ Code for LeetCode OJ.
 905 | Sort Array By Parity | Easy | [Solution](leetcode/905.%20Sort%20Array%20By%20Parity)
 922 | Sort Array By Parity II | Easy | [Solution](leetcode/922.%20Sort%20Array%20By%20Parity%20II)
 926 | Flip String to Monotone Increasing | Medium | [Solution](leetcode/926.%20Flip%20String%20to%20Monotone%20Increasing)
+929 | Unique Email Addresses | Easy | [Solution](leetcode/929.%20Unique%20Email%20Addresses)
 933 | Number of Recent Calls | Easy | [Solution](leetcode/933.%20Number%20of%20Recent%20Calls)
 938 | Range Sum of BST | Easy | [Solution](leetcode/938.%20Range%20Sum%20of%20BST)
 944 | Delete Columns to Make Sorted | Easy | [Solution](leetcode/944.%20Delete%20Columns%20to%20Make%20Sorted)
