@@ -94,6 +94,28 @@ public:
 };
 ```
 
+1636. Sort Array by Increasing Frequency
+```cpp
+// OJ: https://leetcode.com/problems/relative-sort-array/
+// Author: github.com/punkfulw
+// Time: O(NlogN)
+// Space: O(1)
+class Solution {
+public:
+    vector<int> frequencySort(vector<int>& nums) {
+        map<int, int> cnt;
+        for (int i: nums){
+            cnt[i]++;
+        }
+        sort(nums.begin(), nums.end(), [&](int a, int b) {
+            return cnt[a] == cnt[b] ? a > b : cnt[a] < cnt[b];
+        });
+
+        return nums;
+    }
+};
+```
+
 ## Count the number of 1Bits
 <p><b>__builtin_popcount</b> is a gcc macro that count the number of 1 you can have in a binary representation.
 
