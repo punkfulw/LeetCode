@@ -87,6 +87,7 @@ My C++ Code for LeetCode OJ.
 1315 | Sum of Nodes with Even-Valued Grandparent | Medium | [Solution](leetcode/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent)
 1323 | Maximum 69 Number | Easy | [Solution](leetcode/1323.%20Maximum%2069%20Number)
 1324 | Print Words Vertically | Medium | [Solution](leetcode/1324.%20Print%20Words%20Vertically)
+1329 | Sort the Matrix Diagonally | Medium | [Solution](leetcode/1329.%20Sort%20the%20Matrix%20Diagonally)
 1332 | Remove Palindromic Subsequences | Easy | [Solution](leetcode/1332.%20Remove%20Palindromic%20Subsequences)
 1342 | Number of Steps to Reduce a Number to Zero | Easy | [Solution](leetcode/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero)
 1351 | Count Negative Numbers in a Sorted Matrix | Easy | [Solution](leetcode/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix)
