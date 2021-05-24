@@ -14,6 +14,7 @@ My C++ Code for LeetCode OJ.
 75 | Sort Colors | Medium | [Solution](leetcode/75.%20Sort%20Colors)
 102 | Binary Tree Level Order Traversal | Medium | [Solution](leetcode/102.%20Binary%20Tree%20Level%20Order%20Traversal)
 104 | Maximum Depth of Binary Tree | Easy | [Solution](leetcode/104.%20Maximum%20Depth%20of%20Binary%20Tree)
+136 | Single Number | Easy | [Solution](leetcode/136.%20Single%20Number)
 175 | Combine Two Tables | Easy | [Solution](leetcode/175.%20Combine%20Two%20Tables)
 204 | Count Primes | Easy | [Solution](leetcode/204.%20Count%20Primes)
 226 | Invert Binary Tree | Easy | [Solution](leetcode/226.%20Invert%20Binary%20Tree)
