@@ -12,6 +12,7 @@ My C++ Code for LeetCode OJ.
 34 | Find First and Last Position of Element in Sorted Array | Medium | [Solution](leetcode/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array)
 48 | Rotate Image | Medium | [Solution](leetcode/48.%20Rotate%20Image)
 75 | Sort Colors | Medium | [Solution](leetcode/75.%20Sort%20Colors)
+94 | Binary Tree Inorder Traversal | Easy | [Solution](leetcode/94.%20Binary%20Tree%20Inorder%20Traversal)
 102 | Binary Tree Level Order Traversal | Medium | [Solution](leetcode/102.%20Binary%20Tree%20Level%20Order%20Traversal)
 104 | Maximum Depth of Binary Tree | Easy | [Solution](leetcode/104.%20Maximum%20Depth%20of%20Binary%20Tree)
 136 | Single Number | Easy | [Solution](leetcode/136.%20Single%20Number)
