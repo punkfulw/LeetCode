@@ -20,6 +20,7 @@ My C++ Code for LeetCode OJ.
 204 | Count Primes | Easy | [Solution](leetcode/204.%20Count%20Primes)
 226 | Invert Binary Tree | Easy | [Solution](leetcode/226.%20Invert%20Binary%20Tree)
 237 | Delete Node in a Linked List | Easy | [Solution](leetcode/237.%20Delete%20Node%20in%20a%20Linked%20List)
+338 | Counting Bits | Easy | [Solution](leetcode/338.%20Counting%20Bits)
 344 | Reverse String | Easy | [Solution](leetcode/344.%20Reverse%20String)
 413 | Arithmetic Slices | Medium | [Solution](leetcode/413.%20Arithmetic%20Slices)
 415 | Add Strings | Easy | [Solution](leetcode/415.%20Add%20Strings)
