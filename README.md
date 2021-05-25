@@ -34,6 +34,7 @@ My C++ Code for LeetCode OJ.
 561 | Array Partition I | Easy | [Solution](leetcode/561.%20Array%20Partition%20I)
 583 | Delete Operation for Two Strings | Medium | [Solution](leetcode/583.%20Delete%20Operation%20for%20Two%20Strings)
 617 | Merge Two Binary Trees | Easy | [Solution](leetcode/617.%20Merge%20Two%20Binary%20Trees)
+637 | Average of Levels in Binary Tree | Easy | [Solution](leetcode/637.%20Average%20of%20Levels%20in%20Binary%20Tree)
 657 | Robot Return to Origin | Easy | [Solution](leetcode/657.%20Robot%20Return%20to%20Origin)
 682 | Baseball Game | Easy | [Solution](leetcode/682.%20Baseball%20Game)
 700 | Search in a Binary Search Tree | Easy | [Solution](leetcode/700.%20Search%20in%20a%20Binary%20Search%20Tree)
