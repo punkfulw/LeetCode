@@ -37,7 +37,7 @@ Hence return [3, 14.5, 11].
 * [Binary Tree Level Order Traversal (Medium)](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 * [Binary Tree Level Order Traversal II (Easy)](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 
-## Solution 1. Level-order Traversal
+## Solution 1. Queue
 
 ```cpp
 // OJ: https://leetcode.com/problems/average-of-levels-in-binary-tree/
