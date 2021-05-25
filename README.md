@@ -51,6 +51,7 @@ My C++ Code for LeetCode OJ.
 893 | Groups of Special-Equivalent Strings | Easy | [Solution](leetcode/893.%20Groups%20of%20Special-Equivalent%20Strings)
 897 | Increasing Order Search Tree | Easy | [Solution](leetcode/897.%20Increasing%20Order%20Search%20Tree)
 905 | Sort Array By Parity | Easy | [Solution](leetcode/905.%20Sort%20Array%20By%20Parity)
+908 | Smallest Range I | Easy | [Solution](leetcode/908.%20Smallest%20Range%20I)
 922 | Sort Array By Parity II | Easy | [Solution](leetcode/922.%20Sort%20Array%20By%20Parity%20II)
 926 | Flip String to Monotone Increasing | Medium | [Solution](leetcode/926.%20Flip%20String%20to%20Monotone%20Increasing)
 929 | Unique Email Addresses | Easy | [Solution](leetcode/929.%20Unique%20Email%20Addresses)
