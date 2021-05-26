@@ -18,6 +18,7 @@ My C++ Code for LeetCode OJ.
 136 | Single Number | Easy | [Solution](leetcode/136.%20Single%20Number)
 175 | Combine Two Tables | Easy | [Solution](leetcode/175.%20Combine%20Two%20Tables)
 204 | Count Primes | Easy | [Solution](leetcode/204.%20Count%20Primes)
+206 | Reverse Linked List | Easy | [Solution](leetcode/206.%20Reverse%20Linked%20List)
 226 | Invert Binary Tree | Easy | [Solution](leetcode/226.%20Invert%20Binary%20Tree)
 237 | Delete Node in a Linked List | Easy | [Solution](leetcode/237.%20Delete%20Node%20in%20a%20Linked%20List)
 338 | Counting Bits | Easy | [Solution](leetcode/338.%20Counting%20Bits)
