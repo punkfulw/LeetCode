@@ -9,7 +9,7 @@ public:
         int n = words.size();
         vector<bitset<26>> map(n);
         int ans = 0;
-        
+         
         
         for (int i = 0; i < n; i++){
             for (auto& c: words[i])
