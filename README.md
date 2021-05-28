@@ -163,5 +163,5 @@ My C++ Code for LeetCode OJ.
 1844 | Replace All Digits with Characters | Easy | [Solution](leetcode/1844.%20Replace%20All%20Digits%20with%20Characters)
 1846 | Maximum Element After Decreasing and Rearranging | Medium | [Solution](leetcode/1846.%20Maximum%20Element%20After%20Decreasing%20and%20Rearranging)
 1854 | Maximum Population Year | Easy | [Solution](leetcode/1854.%20Maximum%20Population%20Year)
-1855 | Maximum Distance Between a Pair of Values | Mediu | [Solution](leetcode/1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values)
+1855 | Maximum Distance Between a Pair of Values | Medium | [Solution](leetcode/1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values)
 1869 | Longer Contiguous Segments of Ones than Zeros | Easy | [Solution](leetcode/1869.%20Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros)
