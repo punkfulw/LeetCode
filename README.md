@@ -125,6 +125,7 @@ My C++ Code for LeetCode OJ.
 1502 | Can Make Arithmetic Progression From Sequence | Easy | [Solution](leetcode/1502.%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence)
 1512 | Number of Good Pairs | Easy | [Solution](leetcode/1512.%20Number%20of%20Good%20Pairs)
 1528 | Shuffle String | Easy | [Solution](leetcode/1528.%20Shuffle%20String)
+1534 | Count Good Triplets | Easy | [Solution](leetcode/1534.%20Count%20Good%20Triplets)
 1572 | Matrix Diagonal Sum | Easy | [Solution](leetcode/1572.%20Matrix%20Diagonal%20Sum)
 1588 | Sum of All Odd Length Subarrays | Easy | [Solution](leetcode/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays)
 1603 | Design Parking System | Easy | [Solution](leetcode/1603.%20Design%20Parking%20System)
