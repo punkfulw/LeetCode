@@ -168,3 +168,5 @@ My C++ Code for LeetCode OJ.
 1869 | Longer Contiguous Segments of Ones than Zeros | Easy | [Solution](leetcode/1869.%20Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros)
 1880 | Check if Word Equals Summation of Two Words | Easy | [Solution](leetcode/1880.%20Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words)
 1881 | Maximum Value after Insertion | Medium | [Solution](leetcode/1881.%20Maximum%20Value%20after%20Insertion)
+1876 | Substrings of Size Three with Distinct Characters | Easy | [Solution](leetcode/1876.%20Substrings%20of%20Size%20Three%20with%20Distinct%20Characters)
+1877 | Minimize Maximum Pair Sum in Array | Medium | [Solution](leetcode/1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array)
