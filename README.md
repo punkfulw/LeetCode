@@ -167,3 +167,4 @@ My C++ Code for LeetCode OJ.
 1855 | Maximum Distance Between a Pair of Values | Medium | [Solution](leetcode/1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values)
 1869 | Longer Contiguous Segments of Ones than Zeros | Easy | [Solution](leetcode/1869.%20Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros)
 1880 | Check if Word Equals Summation of Two Words | Easy | [Solution](leetcode/1880.%20Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words)
+1881 | Maximum Value after Insertion | Medium | [Solution](leetcode/1881.%20Maximum%20Value%20after%20Insertion)
