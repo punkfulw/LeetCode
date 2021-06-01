@@ -45,6 +45,7 @@ My C++ Code for LeetCode OJ.
 700 | Search in a Binary Search Tree | Easy | [Solution](leetcode/700.%20Search%20in%20a%20Binary%20Search%20Tree)
 709 | To Lower Case | Easy | [Solution](leetcode/709.%20To%20Lower%20Case)
 728 | Self Dividing Numbers | Easy | [Solution](leetcode/728.%20Self%20Dividing%20Numbers)
+766 | Toeplitz Matrix | Easy | [Solution](leetcode/766.%20Toeplitz%20Matrix)
 771 | Jewels and Stones | Easy | [Solution](leetcode/771.%20Jewels%20and%20Stones)
 804 | Unique Morse Code Words | Easy | [Solution](leetcode/804.%20Unique%20Morse%20Code%20Words)
 807 | Max Increase to Keep City Skyline | Medium | [Solution](leetcode/807.%20Max%20Increase%20to%20Keep%20City%20Skyline)
