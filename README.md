@@ -118,6 +118,7 @@ My C++ Code for LeetCode OJ.
 1389 | Create Target Array in the Given Order | Easy | [Solution](leetcode/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order)
 1403 | Minimum Subsequence in Non-Increasing Order | Easy | [Solution](leetcode/1403.%20Minimum%20Subsequence%20in%20Non-Increasing%20Order)
 1409 | Queries on a Permutation With Key | Medium | [Solution](leetcode/1409.%20Queries%20on%20a%20Permutation%20With%20Key)
+1413 | Minimum Value to Get Positive Step by Step Sum | Easy | [Solution](leetcode/1413.%20Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum)
 1423 | Maximum Points You Can Obtain from Cards | Medium | [Solution](leetcode/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards)
 1431 | Kids With the Greatest Number of Candies | Easy | [Solution](leetcode/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies)
 1436 | Destination City | Easy | [Solution](leetcode/1436.%20Destination%20City)
