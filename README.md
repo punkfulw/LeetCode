@@ -130,6 +130,7 @@ My C++ Code for LeetCode OJ.
 1455 | Check If a Word Occurs As a Prefix of Any Word in a Sentence | Easy | [Solution](leetcode/1455.%20Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence)
 1460 | Make Two Arrays Equal by Reversing Sub-arrays | Easy | [Solution](leetcode/1460.%20Make%20Two%20Arrays%20Equal%20by%20Reversing%20Sub-arrays)
 1464 | Maximum Product of Two Elements in an Array | Easy | [Solution](leetcode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array)
+1465 | Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts | Medium | [Solution](leetcode/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts)
 1470 | Shuffle the Array | Easy | [Solution](leetcode/1470.%20Shuffle%20the%20Array)
 1480 | Running Sum of 1d Array | Easy | [Solution](leetcode/1480.%20Running%20Sum%20of%201d%20Array)
 1486 | XOR Operation in an Array | Easy | [Solution](leetcode/1486.%20XOR%20Operation%20in%20an%20Array)
