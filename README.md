@@ -116,6 +116,7 @@ My C++ Code for LeetCode OJ.
 1385 | Find the Distance Value Between Two Arrays | Easy | [Solution](leetcode/1385.%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays)
 1387 | Sort Integers by The Power Value | Medium | [Solution](leetcode/1387.%20Sort%20Integers%20by%20The%20Power%20Value)
 1389 | Create Target Array in the Given Order | Easy | [Solution](leetcode/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order)
+1399 | Count Largest Group | Easy | [Solution](leetcode/1399.%20Count%20Largest%20Group)
 1403 | Minimum Subsequence in Non-Increasing Order | Easy | [Solution](leetcode/1403.%20Minimum%20Subsequence%20in%20Non-Increasing%20Order)
 1409 | Queries on a Permutation With Key | Medium | [Solution](leetcode/1409.%20Queries%20on%20a%20Permutation%20With%20Key)
 1413 | Minimum Value to Get Positive Step by Step Sum | Easy | [Solution](leetcode/1413.%20Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum)
