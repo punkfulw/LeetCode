@@ -156,6 +156,7 @@ My C++ Code for LeetCode OJ.
 1684 | Count the Number of Consistent Strings | Easy | [Solution](leetcode/1684.%20Count%20the%20Number%20of%20Consistent%20Strings)
 1688 | Count of Matches in Tournament | Easy | [Solution](leetcode/1688.%20Count%20of%20Matches%20in%20Tournament)
 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Medium | [Solution](leetcode/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers)
+1694 | Reformat Phone Number | Easy | [Solution](leetcode/1694.%20Reformat%20Phone%20Number)
 1700 | Number of Students Unable to Eat Lunch | Easy | [Solution](leetcode/1700.%20Number%20of%20Students%20Unable%20to%20Eat%20Lunch)
 1704 | Determine if String Halves Are Alike | Easy | [Solution](leetcode/1704.%20Determine%20if%20String%20Halves%20Are%20Alike)
 1720 | Decode XORed Array | Easy | [Solution](leetcode/1720.%20Decode%20XORed%20Array)
