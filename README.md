@@ -169,6 +169,7 @@ My C++ Code for LeetCode OJ.
 1779 | Find Nearest Point That Has the Same X or Y Coordinate | Easy | [Solution](leetcode/1779.%20Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate)
 1791 | Find Center of Star Graph | Medium | [Solution](leetcode/1791.%20Find%20Center%20of%20Star%20Graph)
 1792 | Maximum Average Pass Ratio | Medium | [Solution](leetcode/1792.%20Maximum%20Average%20Pass%20Ratio)
+1800 | Maximum Ascending Subarray Sum | Easy | [Solution](leetcode/1800.%20Maximum%20Ascending%20Subarray%20Sum)
 1812 | Determine Color of a Chessboard Square | Easy | [Solution](leetcode/1812.%20Determine%20Color%20of%20a%20Chessboard%20Square)
 1816 | Truncate Sentence | Easy | [Solution](leetcode/1816.%20Truncate%20Sentence)
 1822 | Sign of the Product of an Array | Easy | [Solution](leetcode/1822.%20Sign%20of%20the%20Product%20of%20an%20Array)
