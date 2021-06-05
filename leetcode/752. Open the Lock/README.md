@@ -1,0 +1,118 @@
+# [752. Open the Lock (Medium)](https://leetcode.com/problems/open-the-lock/)
+
+<p>You have a lock in front of you with 4 circular wheels. Each wheel has 10 slots: <code>'0', '1', '2', '3', '4', '5', '6', '7', '8', '9'</code>. The wheels can rotate freely and wrap around: for example we can turn <code>'9'</code> to be <code>'0'</code>, or <code>'0'</code> to be <code>'9'</code>. Each move consists of turning one wheel one slot.</p>
+
+<p>The lock initially starts at <code>'0000'</code>, a string representing the state of the 4 wheels.</p>
+
+<p>You are given a list of <code>deadends</code> dead ends, meaning if the lock displays any of these codes, the wheels of the lock will stop turning and you will be unable to open it.</p>
+
+<p>Given a <code>target</code> representing the value of the wheels that will unlock the lock, return the minimum total number of turns required to open the lock, or -1 if it is impossible.</p>
+
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
+
+<pre><strong>Input:</strong> deadends = ["0201","0101","0102","1212","2002"], target = "0202"
+<strong>Output:</strong> 6
+<strong>Explanation:</strong>
+A sequence of valid moves would be "0000" -&gt; "1000" -&gt; "1100" -&gt; "1200" -&gt; "1201" -&gt; "1202" -&gt; "0202".
+Note that a sequence like "0000" -&gt; "0001" -&gt; "0002" -&gt; "0102" -&gt; "0202" would be invalid,
+because the wheels of the lock become stuck after the display becomes the dead end "0102".
+</pre>
+
+<p><strong>Example 2:</strong></p>
+
+<pre><strong>Input:</strong> deadends = ["8888"], target = "0009"
+<strong>Output:</strong> 1
+<strong>Explanation:</strong>
+We can turn the last wheel in reverse to move from "0000" -&gt; "0009".
+</pre>
+
+<p><strong>Example 3:</strong></p>
+
+<pre><strong>Input:</strong> deadends = ["8887","8889","8878","8898","8788","8988","7888","9888"], target = "8888"
+<strong>Output:</strong> -1
+Explanation:
+We can't reach the target without getting stuck.
+</pre>
+
+<p><strong>Example 4:</strong></p>
+
+<pre><strong>Input:</strong> deadends = ["0000"], target = "8888"
+<strong>Output:</strong> -1
+</pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>1 &lt;=&nbsp;deadends.length &lt;= 500</code></li>
+	<li><code><font face="monospace">deadends[i].length == 4</font></code></li>
+	<li><code><font face="monospace">target.length == 4</font></code></li>
+	<li>target <strong>will not be</strong> in the list <code>deadends</code>.</li>
+	<li><code>target</code> and <code>deadends[i]</code> consist of digits only.</li>
+</ul>
+
+
+**Companies**:  
+[Google](https://leetcode.com/company/google), [Amazon](https://leetcode.com/company/amazon), [Citadel](https://leetcode.com/company/citadel)
+
+**Related Topics**:  
+[Breadth-first Search](https://leetcode.com/tag/breadth-first-search/)
+
+## Solution 1. BFS
+
+```cpp
+// OJ: https://leetcode.com/problems/open-the-lock/
+// Author: github.com/punkfulw
+// Reference: https://leetcode.com/problems/open-the-lock/discuss/110230/BFS-solution-C%2B%2B
+// Time: O(N^2 * A^N + D), where N is number of dials (4 in our case), A is number of alphabet (10 in our case), D is size of deadends
+// Space: O(A^N)
+class Solution {
+public:
+    int openLock(vector<string>& deadends, string target) {
+        int ans {};
+        unordered_set<string> dd(deadends.begin(), deadends.end());
+        unordered_set<string> visited;
+        queue<string> bfs; 
+        string start {"0000"};
+        
+        if (dd.find(start) != dd.end()) 
+            return -1;
+        if (target == start)
+            return 0;
+        bfs.push(start);
+        visited.insert(start);
+        
+        while (!bfs.empty()){
+            int sz = bfs.size();
+            for (int i = 0; i < sz; i++){
+                string key = bfs.front(); bfs.pop();
+                vector<string> nbrs = nbrStrs(key);
+                for (auto s: nbrs){
+                    if (s == target)
+                        return ++ans;
+                    if (visited.find(s) != visited.end()) continue;
+                    if (dd.find(s) == dd.end()){
+                        bfs.push(s);
+                        visited.insert(s);
+                    }
+                }
+            }
+            ans++;
+        }
+        return -1;
+    }
+    
+    vector<string> nbrStrs(string key){
+        vector<string> res;
+        for (int i = 0; i < 4; i++){
+            string temp = key;
+            temp[i] = (key[i]-'0' + 1) % 10 + '0';
+            res.push_back(temp);
+            temp[i] = (key[i]-'0' - 1 + 10) % 10 + '0';
+            res.push_back(temp);
+        }
+        return res;
+    }
+};
+```
