@@ -118,6 +118,7 @@ My C++ Code for LeetCode OJ.
 1374 | Generate a String With Characters That Have Odd Counts | Easy | [Solution](leetcode/1374.%20Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts)
 1379 | Find a Corresponding Node of a Binary Tree in a Clone of That Tree | Medium | [Solution](leetcode/1379.%20Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree)
 1380 | Lucky Numbers in a Matrix | Easy | [Solution](leetcode/1380.%20Lucky%20Numbers%20in%20a%20Matrix)
+1383 | Maximum Performance of a Team | Hard | [Solution](leetcode/1383.%20Maximum%20Performance%20of%20a%20Team)
 1385 | Find the Distance Value Between Two Arrays | Easy | [Solution](leetcode/1385.%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays)
 1387 | Sort Integers by The Power Value | Medium | [Solution](leetcode/1387.%20Sort%20Integers%20by%20The%20Power%20Value)
 1389 | Create Target Array in the Given Order | Easy | [Solution](leetcode/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order)
