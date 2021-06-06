@@ -148,6 +148,7 @@ My C++ Code for LeetCode OJ.
 1588 | Sum of All Odd Length Subarrays | Easy | [Solution](leetcode/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays)
 1603 | Design Parking System | Easy | [Solution](leetcode/1603.%20Design%20Parking%20System)
 1614 | Maximum Nesting Depth of the Parentheses | Easy | [Solution](leetcode/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses)
+1619 | Mean of Array After Removing Some Elements | Easy | [Solution](leetcode/1619.%20Mean%20of%20Array%20After%20Removing%20Some%20Elements)
 1636 | Sort Array by Increasing Frequency | Easy | [Solution](leetcode/1636.%20Sort%20Array%20by%20Increasing%20Frequency)
 1637 | Widest Vertical Area Between Two Points Containing No Points | Medium | [Solution](leetcode/1637.%20Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points)
 1642 | Furthest Building You Can Reach | Medium | [Solution](leetcode/1642.%20Furthest%20Building%20You%20Can%20Reach)
