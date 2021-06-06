@@ -38,11 +38,11 @@ We have the maximum performance of the team by selecting engineer 2 (with speed=
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= n &lt;= 10^5</code></li>
+	<li><code>1 &lt;= n &lt;= 10<sup>5</sup></code></li>
 	<li><code>speed.length == n</code></li>
 	<li><code>efficiency.length == n</code></li>
-	<li><code>1 &lt;= speed[i] &lt;= 10^5</code></li>
-	<li><code>1 &lt;= efficiency[i] &lt;= 10^8</code></li>
+	<li><code>1 &lt;= speed[i] &lt;= 10<sup>5</sup></code></li>
+	<li><code>1 &lt;= efficiency[i] &lt;= 10<sup>8</sup></code></li>
 	<li><code>1 &lt;= k &lt;= n</code></li>
 </ul>
 
