@@ -192,3 +192,4 @@ My C++ Code for LeetCode OJ.
 1881 | Maximum Value after Insertion | Medium | [Solution](leetcode/1881.%20Maximum%20Value%20after%20Insertion)
 1876 | Substrings of Size Three with Distinct Characters | Easy | [Solution](leetcode/1876.%20Substrings%20of%20Size%20Three%20with%20Distinct%20Characters)
 1877 | Minimize Maximum Pair Sum in Array | Medium | [Solution](leetcode/1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array)
+1886 | Determine Whether Matrix Can Be Obtained By Rotation | Easy | [Solution](leetcode/1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation)
