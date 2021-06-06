@@ -193,3 +193,4 @@ My C++ Code for LeetCode OJ.
 1876 | Substrings of Size Three with Distinct Characters | Easy | [Solution](leetcode/1876.%20Substrings%20of%20Size%20Three%20with%20Distinct%20Characters)
 1877 | Minimize Maximum Pair Sum in Array | Medium | [Solution](leetcode/1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array)
 1886 | Determine Whether Matrix Can Be Obtained By Rotation | Easy | [Solution](leetcode/1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation)
+1887 | Reduction Operations to Make the Array Elements Equal | Medium | [Solution](leetcode/1887.%20Reduction%20Operations%20to%20Make%20the%20Array%20Elements%20Equal)
