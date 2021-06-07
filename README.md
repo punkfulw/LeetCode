@@ -165,6 +165,7 @@ My C++ Code for LeetCode OJ.
 1694 | Reformat Phone Number | Easy | [Solution](leetcode/1694.%20Reformat%20Phone%20Number)
 1700 | Number of Students Unable to Eat Lunch | Easy | [Solution](leetcode/1700.%20Number%20of%20Students%20Unable%20to%20Eat%20Lunch)
 1704 | Determine if String Halves Are Alike | Easy | [Solution](leetcode/1704.%20Determine%20if%20String%20Halves%20Are%20Alike)
+1716 | Calculate Money in Leetcode Bank | Easy | [Solution](leetcode/1716.%20Calculate%20Money%20in%20Leetcode%20Bank)
 1720 | Decode XORed Array | Easy | [Solution](leetcode/1720.%20Decode%20XORed%20Array)
 1725 | Number Of Rectangles That Can Form The Largest Square | Easy | [Solution](leetcode/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square)
 1732 | Find the Highest Altitude | Easy | [Solution](leetcode/1732.%20Find%20the%20Highest%20Altitude)
