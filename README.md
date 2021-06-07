@@ -15,6 +15,7 @@ My C++ Code for LeetCode OJ.
 94 | Binary Tree Inorder Traversal | Easy | [Solution](leetcode/94.%20Binary%20Tree%20Inorder%20Traversal)
 102 | Binary Tree Level Order Traversal | Medium | [Solution](leetcode/102.%20Binary%20Tree%20Level%20Order%20Traversal)
 104 | Maximum Depth of Binary Tree | Easy | [Solution](leetcode/104.%20Maximum%20Depth%20of%20Binary%20Tree)
+128 | Longest Consecutive Sequence | Medium | [Solution](leetcode/128.%20Longest%20Consecutive%20Sequence)
 136 | Single Number | Easy | [Solution](leetcode/136.%20Single%20Number)
 150 | Evaluate Reverse Polish Notation | Medium | [Solution](leetcode/150.%20Evaluate%20Reverse%20Polish%20Notation)
 164 | Maximum Gap | Hard | [Solution](leetcode/164.%20Maximum%20Gap)
