@@ -28,6 +28,7 @@ My C++ Code for LeetCode OJ.
 338 | Counting Bits | Easy | [Solution](leetcode/338.%20Counting%20Bits)
 344 | Reverse String | Easy | [Solution](leetcode/344.%20Reverse%20String)
 349 | Intersection of Two Arrays | Easy | [Solution](leetcode/349.%20Intersection%20of%20Two%20Arrays)
+412 | Fizz Buzz | Easy | [Solution](leetcode/412.%20Fizz%20Buzz)
 413 | Arithmetic Slices | Medium | [Solution](leetcode/413.%20Arithmetic%20Slices)
 415 | Add Strings | Easy | [Solution](leetcode/415.%20Add%20Strings)
 450 | Delete Node in a BST | Medium | [Solution](leetcode/450.%20Delete%20Node%20in%20a%20BST)
