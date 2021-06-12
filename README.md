@@ -103,6 +103,7 @@ My C++ Code for LeetCode OJ.
 1217 | Minimum Cost to Move Chips to The Same Position | Easy | [Solution](leetcode/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position)
 1221 | Split a String in Balanced Strings | Easy | [Solution](leetcode/1221.%20Split%20a%20String%20in%20Balanced%20Strings)
 1252 | Cells with Odd Values in a Matrix | Easy | [Solution](leetcode/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix)
+1260 | Shift 2D Grid | Easy | [Solution](leetcode/1260.%20Shift%202D%20Grid)
 1266 | Minimum Time Visiting All Points | Easy | [Solution](leetcode/1266.%20Minimum%20Time%20Visiting%20All%20Points)
 1268 | Search Suggestions System | Medium | [Solution](leetcode/1268.%20Search%20Suggestions%20System)
 1281 | Subtract the Product and Sum of Digits of an Integer | Easy | [Solution](leetcode/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer)
