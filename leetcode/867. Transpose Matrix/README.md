@@ -18,12 +18,6 @@
 <strong>Output:</strong> [[1,4],[2,5],[3,6]]
 </pre>
 
-m == matrix.length
-n == matrix[i].length
-1 <= m, n <= 1000
-1 <= m * n <= 105
--109 <= matrix[i][j] <= 109
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
