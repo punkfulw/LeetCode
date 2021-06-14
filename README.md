@@ -49,6 +49,7 @@ My C++ Code for LeetCode OJ.
 657 | Robot Return to Origin | Easy | [Solution](leetcode/657.%20Robot%20Return%20to%20Origin)
 682 | Baseball Game | Easy | [Solution](leetcode/682.%20Baseball%20Game)
 695 | Max Area of Island | Medium | [Solution](leetcode/695.%20Max%20Area%20of%20Island)
+696 | Count Binary Substrings | Easy | [Solution](leetcode/696.%20Count%20Binary%20Substrings)
 700 | Search in a Binary Search Tree | Easy | [Solution](leetcode/700.%20Search%20in%20a%20Binary%20Search%20Tree)
 709 | To Lower Case | Easy | [Solution](leetcode/709.%20To%20Lower%20Case)
 728 | Self Dividing Numbers | Easy | [Solution](leetcode/728.%20Self%20Dividing%20Numbers)
