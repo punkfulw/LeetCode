@@ -213,5 +213,6 @@ My C++ Code for LeetCode OJ.
 1877 | Minimize Maximum Pair Sum in Array | Medium | [Solution](leetcode/1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array)
 1886 | Determine Whether Matrix Can Be Obtained By Rotation | Easy | [Solution](leetcode/1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation)
 1887 | Reduction Operations to Make the Array Elements Equal | Medium | [Solution](leetcode/1887.%20Reduction%20Operations%20to%20Make%20the%20Array%20Elements%20Equal)
+1894 | Find the Student that Will Replace the Chalk | Medium | [Solution](leetcode/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk)
 1897 | Redistribute Characters to Make All Strings Equal | Easy | [Solution](leetcode/1897.%20Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal)
 1899 | Merge Triplets to Form Target Triplet | Medium | [Solution](leetcode/1899.%20Merge%20Triplets%20to%20Form%20Target%20Triplet)
