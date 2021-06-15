@@ -51,6 +51,7 @@ My C++ Code for LeetCode OJ.
 695 | Max Area of Island | Medium | [Solution](leetcode/695.%20Max%20Area%20of%20Island)
 696 | Count Binary Substrings | Easy | [Solution](leetcode/696.%20Count%20Binary%20Substrings)
 700 | Search in a Binary Search Tree | Easy | [Solution](leetcode/700.%20Search%20in%20a%20Binary%20Search%20Tree)
+701 | Insert into a Binary Search Tree | Medium | [Solution](leetcode/701.%20Insert%20into%20a%20Binary%20Search%20Tree)
 709 | To Lower Case | Easy | [Solution](leetcode/709.%20To%20Lower%20Case)
 728 | Self Dividing Numbers | Easy | [Solution](leetcode/728.%20Self%20Dividing%20Numbers)
 746 | Min Cost Climbing Stairs | Easy | [Solution](leetcode/746.%20Min%20Cost%20Climbing%20Stairs)
