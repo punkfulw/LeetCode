@@ -36,7 +36,7 @@
 ```cpp
 // OJ: https://leetcode.com/problems/generate-parentheses/
 // Author: github.com/punkfulw
-// Reference: 
+// Reference: https://leetcode.com/problems/generate-parentheses/discuss/10105/Concise-recursive-C%2B%2B-solution
 // Time: O(N)
 // Space: O(N)
 class Solution {
