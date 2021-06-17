@@ -90,6 +90,7 @@ My C++ Code for LeetCode OJ.
 965 | Univalued Binary Tree | Easy | [Solution](leetcode/965.%20Univalued%20Binary%20Tree)
 970 | Powerful Integers | Medium | [Solution](leetcode/970.%20Powerful%20Integers)
 977 | Squares of a Sorted Array | Easy | [Solution](leetcode/977.%20Squares%20of%20a%20Sorted%20Array)
+985 | Sum of Even Numbers After Queries | Easy | [Solution](leetcode/985.%20Sum%20of%20Even%20Numbers%20After%20Queries)
 999 | Available Captures for Rook | Easy | [Solution](leetcode/999.%20Available%20Captures%20for%20Rook)
 1002 | Find Common Characters | Easy | [Solution](leetcode/1002.%20Find%20Common%20Characters)
 1009 | Complement of Base 10 Integer | Easy | [Solution](leetcode/1009.%20Complement%20of%20Base%2010%20Integer)
