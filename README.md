@@ -179,6 +179,7 @@ My C++ Code for LeetCode OJ.
 1636 | Sort Array by Increasing Frequency | Easy | [Solution](leetcode/1636.%20Sort%20Array%20by%20Increasing%20Frequency)
 1637 | Widest Vertical Area Between Two Points Containing No Points | Medium | [Solution](leetcode/1637.%20Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points)
 1642 | Furthest Building You Can Reach | Medium | [Solution](leetcode/1642.%20Furthest%20Building%20You%20Can%20Reach)
+1652 | Defuse the Bomb | Easy | [Solution](leetcode/1652.%20Defuse%20the%20Bomb)
 1653 | Minimum Deletions to Make String Balanced | Medium | [Solution](leetcode/1653.%20Minimum%20Deletions%20to%20Make%20String%20Balanced)
 1662 | Check If Two String Arrays are Equivalent | Easy | [Solution](leetcode/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent)
 1669 | Merge In Between Linked Lists | Medium | [Solution](leetcode/1669.%20Merge%20In%20Between%20Linked%20Lists)
