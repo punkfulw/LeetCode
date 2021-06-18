@@ -166,6 +166,7 @@ My C++ Code for LeetCode OJ.
 1502 | Can Make Arithmetic Progression From Sequence | Easy | [Solution](leetcode/1502.%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence)
 1507 | Reformat Date | Easy | [Solution](leetcode/1507.%20Reformat%20Date)
 1512 | Number of Good Pairs | Easy | [Solution](leetcode/1512.%20Number%20of%20Good%20Pairs)
+1518 | Water Bottles | Easy | [Solution](leetcode/1518.%20Water%20Bottles)
 1528 | Shuffle String | Easy | [Solution](leetcode/1528.%20Shuffle%20String)
 1534 | Count Good Triplets | Easy | [Solution](leetcode/1534.%20Count%20Good%20Triplets)
 1550 | Three Consecutive Odds | Easy | [Solution](leetcode/1550.%20Three%20Consecutive%20Odds)
