@@ -164,6 +164,7 @@ My C++ Code for LeetCode OJ.
 1486 | XOR Operation in an Array | Easy | [Solution](leetcode/1486.%20XOR%20Operation%20in%20an%20Array)
 1491 | Average Salary Excluding the Minimum and Maximum Salary | Easy | [Solution](leetcode/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary)
 1502 | Can Make Arithmetic Progression From Sequence | Easy | [Solution](leetcode/1502.%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence)
+1507 | Reformat Date | Easy | [Solution](leetcode/1507.%20Reformat%20Date)
 1512 | Number of Good Pairs | Easy | [Solution](leetcode/1512.%20Number%20of%20Good%20Pairs)
 1528 | Shuffle String | Easy | [Solution](leetcode/1528.%20Shuffle%20String)
 1534 | Count Good Triplets | Easy | [Solution](leetcode/1534.%20Count%20Good%20Triplets)
