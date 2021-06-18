@@ -67,7 +67,7 @@
 ```cpp
 // OJ: https://leetcode.com/problems/surface-area-of-3d-shapes/
 // Author: github.com/punkfulw
-// Time: O(N^2)
+// Time: O(N^2) 
 // Space: O(1)
 class Solution {
 public:
