@@ -78,7 +78,7 @@ public:
             for (int j = 0; j < n; j++){
                 int cur = grid[i][j];
                 if (cur != 0){
-                    ans += cnt_surface(cur);
+                    ans += cur * 4 + 2;
                     if (j + 1 < n)
                         ans -= 2 * min(cur, grid[i][j+1]);
                     if (i + 1 < n)
@@ -87,12 +87,6 @@ public:
             }
         }
         return ans;
-    }
-    
-    int cnt_surface(int n){
-        if (n == 1)
-            return 6;
-        return (5 * 2) + (4 * (n - 2)); 
     }
 };
 ```
