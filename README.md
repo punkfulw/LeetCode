@@ -200,6 +200,7 @@ My C++ Code for LeetCode OJ.
 1725 | Number Of Rectangles That Can Form The Largest Square | Easy | [Solution](leetcode/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square)
 1732 | Find the Highest Altitude | Easy | [Solution](leetcode/1732.%20Find%20the%20Highest%20Altitude)
 1742 | Maximum Number of Balls in a Box | Easy | [Solution](leetcode/1742.%20Maximum%20Number%20of%20Balls%20in%20a%20Box)
+1743 | Restore the Array From Adjacent Pairs | Medium | [Solution](leetcode/1743.%20Restore%20the%20Array%20From%20Adjacent%20Pairs)
 1748 | Sum of Unique Elements | Easy | [Solution](leetcode/1748.%20Sum%20of%20Unique%20Elements)
 1768 | Merge Strings Alternately | Easy | [Solution](leetcode/1768.%20Merge%20Strings%20Alternately)
 1769 | Minimum Number of Operations to Move All Balls to Each Box | Medium | [Solution](leetcode/1769.%20Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box)
