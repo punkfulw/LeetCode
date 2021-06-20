@@ -234,3 +234,4 @@ My C++ Code for LeetCode OJ.
 1897 | Redistribute Characters to Make All Strings Equal | Easy | [Solution](leetcode/1897.%20Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal)
 1899 | Merge Triplets to Form Target Triplet | Medium | [Solution](leetcode/1899.%20Merge%20Triplets%20to%20Form%20Target%20Triplet)
 1903 | Largest Odd Number in String | Easy | [Solution](leetcode/1903.%20Largest%20Odd%20Number%20in%20String)
+1904 | The Number of Full Rounds You Have Played | Medium | [Solution](leetcode/1904.%20The%20Number%20of%20Full%20Rounds%20You%20Have%20Played)
