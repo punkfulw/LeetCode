@@ -233,3 +233,4 @@ My C++ Code for LeetCode OJ.
 1894 | Find the Student that Will Replace the Chalk | Medium | [Solution](leetcode/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk)
 1897 | Redistribute Characters to Make All Strings Equal | Easy | [Solution](leetcode/1897.%20Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal)
 1899 | Merge Triplets to Form Target Triplet | Medium | [Solution](leetcode/1899.%20Merge%20Triplets%20to%20Form%20Target%20Triplet)
+1903 | Largest Odd Number in String | Easy | [Solution](leetcode/1903.%20Largest%20Odd%20Number%20in%20String)
