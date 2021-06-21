@@ -17,6 +17,7 @@ My C++ Code for LeetCode OJ.
 102 | Binary Tree Level Order Traversal | Medium | [Solution](leetcode/102.%20Binary%20Tree%20Level%20Order%20Traversal)
 104 | Maximum Depth of Binary Tree | Easy | [Solution](leetcode/104.%20Maximum%20Depth%20of%20Binary%20Tree)
 108 | Convert Sorted Array to Binary Search Tree | Easy | [Solution](leetcode/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree)
+118 | Pascal's Triangle | Easy | [Solution](leetcode/118.%20Pascal%27s%20Triangle)
 128 | Longest Consecutive Sequence | Medium | [Solution](leetcode/128.%20Longest%20Consecutive%20Sequence)
 136 | Single Number | Easy | [Solution](leetcode/136.%20Single%20Number)
 150 | Evaluate Reverse Polish Notation | Medium | [Solution](leetcode/150.%20Evaluate%20Reverse%20Polish%20Notation)
