@@ -73,6 +73,7 @@ My C++ Code for LeetCode OJ.
 821 | Shortest Distance to a Character | Easy | [Solution](leetcode/821.%20Shortest%20Distance%20to%20a%20Character)
 832 | Flipping an Image | Easy | [Solution](leetcode/832.%20Flipping%20an%20Image)
 852 | Peak Index in a Mountain Array | Easy | [Solution](leetcode/852.%20Peak%20Index%20in%20a%20Mountain%20Array)
+861 | Score After Flipping Matrix | Medium | [Solution](leetcode/861.%20Score%20After%20Flipping%20Matrix)
 867 | Transpose Matrix | Easy | [Solution](leetcode/867.%20Transpose%20Matrix)
 868 | Binary Gap | Easy | [Solution](leetcode/868.%20Binary%20Gap)
 872 | Leaf-Similar Trees | Easy | [Solution](leetcode/872.%20Leaf-Similar%20Trees)
