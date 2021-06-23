@@ -130,6 +130,7 @@ My C++ Code for LeetCode OJ.
 1299 | Replace Elements with Greatest Element on Right Side | Easy | [Solution](leetcode/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side)
 1302 | Deepest Leaves Sum | Medium | [Solution](leetcode/1302.%20Deepest%20Leaves%20Sum)
 1304 | Find N Unique Integers Sum up to Zero | Easy | [Solution](leetcode/1304.%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero)
+1305 | All Elements in Two Binary Search Trees | Medium | [Solution](leetcode/1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees)
 1309 | Decrypt String from Alphabet to Integer Mapping | Easy | [Solution](leetcode/1309.%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping)
 1313 | Decompress Run-Length Encoded List | Easy | [Solution](leetcode/1313.%20Decompress%20Run-Length%20Encoded%20List)
 1315 | Sum of Nodes with Even-Valued Grandparent | Medium | [Solution](leetcode/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent)
