@@ -101,6 +101,7 @@ My C++ Code for LeetCode OJ.
 985 | Sum of Even Numbers After Queries | Easy | [Solution](leetcode/985.%20Sum%20of%20Even%20Numbers%20After%20Queries)
 999 | Available Captures for Rook | Easy | [Solution](leetcode/999.%20Available%20Captures%20for%20Rook)
 1002 | Find Common Characters | Easy | [Solution](leetcode/1002.%20Find%20Common%20Characters)
+1008 | Construct Binary Search Tree from Preorder Traversal | Medium | [Solution](leetcode/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal)
 1009 | Complement of Base 10 Integer | Easy | [Solution](leetcode/1009.%20Complement%20of%20Base%2010%20Integer)
 1021 | Remove Outermost Parentheses | Easy | [Solution](leetcode/1021.%20Remove%20Outermost%20Parentheses)
 1022 | Sum of Root To Leaf Binary Numbers | Easy | [Solution](leetcode/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers)
