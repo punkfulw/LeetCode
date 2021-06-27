@@ -249,3 +249,4 @@ My C++ Code for LeetCode OJ.
 1899 | Merge Triplets to Form Target Triplet | Medium | [Solution](leetcode/1899.%20Merge%20Triplets%20to%20Form%20Target%20Triplet)
 1903 | Largest Odd Number in String | Easy | [Solution](leetcode/1903.%20Largest%20Odd%20Number%20in%20String)
 1904 | The Number of Full Rounds You Have Played | Medium | [Solution](leetcode/1904.%20The%20Number%20of%20Full%20Rounds%20You%20Have%20Played)
+1913 | Maximum Product Difference Between Two Pairs | Easy | [Solution](leetcode/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs)
