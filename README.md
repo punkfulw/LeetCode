@@ -9,6 +9,7 @@ My C++ Code for LeetCode OJ.
 ---|---|---|---
 1 | Two Sum | Easy | [Solution](leetcode/1.%20Two%20Sum)
 5 | Longest Palindromic Substring | Medium | [Solution](leetcode/5.%20Longest%20Palindromic%20Substring)
+6 | ZigZag Conversion | Medium | [Solution](leetcode/6.%20ZigZag%20Conversion)
 7 | Reverse Integer | Easy | [Solution](leetcode/7.%20Reverse%20Integer)
 12 | Integer to Roman | Medium | [Solution](leetcode/12.%20Integer%20to%20Roman)
 15 | 3Sum | Medium | [Solution](leetcode/15.%203Sum)
