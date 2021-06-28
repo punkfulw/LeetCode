@@ -17,6 +17,7 @@ My C++ Code for LeetCode OJ.
 22 | Generate Parentheses | Medium | [Solution](leetcode/22.%20Generate%20Parentheses)
 27 | Remove Element | Easy | [Solution](leetcode/27.%20Remove%20Element)
 34 | Find First and Last Position of Element in Sorted Array | Medium | [Solution](leetcode/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array)
+46 | Permutations | Medium | [Solution](leetcode/46.%20Permutations)
 48 | Rotate Image | Medium | [Solution](leetcode/48.%20Rotate%20Image)
 75 | Sort Colors | Medium | [Solution](leetcode/75.%20Sort%20Colors)
 92 | Reverse Linked List II | Medium | [Solution](leetcode/92.%20Reverse%20Linked%20List%20II)
