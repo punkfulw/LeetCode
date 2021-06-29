@@ -11,6 +11,7 @@ My C++ Code for LeetCode OJ.
 5 | Longest Palindromic Substring | Medium | [Solution](leetcode/5.%20Longest%20Palindromic%20Substring)
 6 | ZigZag Conversion | Medium | [Solution](leetcode/6.%20ZigZag%20Conversion)
 7 | Reverse Integer | Easy | [Solution](leetcode/7.%20Reverse%20Integer)
+9 | Palindrome Number | Easy | [Solution](leetcode/9.%20Palindrome%20Number)
 12 | Integer to Roman | Medium | [Solution](leetcode/12.%20Integer%20to%20Roman)
 15 | 3Sum | Medium | [Solution](leetcode/15.%203Sum)
 16 | 3Sum Closest | Medium | [Solution](leetcode/16.%203Sum%20Closest)
