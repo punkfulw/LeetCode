@@ -1,7 +1,7 @@
 // OJ: https://leetcode.com/problems/max-consecutive-ones-iii/
 // Author: github.com/punkfulw
 // Time: O(N)
-// Space: O(k)
+// Space: O(N)
 class Solution {
 public:
     int longestOnes(vector<int>& nums, int k) {
