@@ -32,6 +32,7 @@ My C++ Code for LeetCode OJ.
 136 | Single Number | Easy | [Solution](leetcode/136.%20Single%20Number)
 150 | Evaluate Reverse Polish Notation | Medium | [Solution](leetcode/150.%20Evaluate%20Reverse%20Polish%20Notation)
 164 | Maximum Gap | Hard | [Solution](leetcode/164.%20Maximum%20Gap)
+167 | Two Sum II - Input array is sorted | Easy | [Solution](leetcode/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted)
 169 | Majority Element | Easy | [Solution](leetcode/169.%20Majority%20Element)
 175 | Combine Two Tables | Easy | [Solution](leetcode/175.%20Combine%20Two%20Tables)
 204 | Count Primes | Easy | [Solution](leetcode/204.%20Count%20Primes)
