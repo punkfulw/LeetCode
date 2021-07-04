@@ -35,6 +35,7 @@ My C++ Code for LeetCode OJ.
 167 | Two Sum II - Input array is sorted | Easy | [Solution](leetcode/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted)
 169 | Majority Element | Easy | [Solution](leetcode/169.%20Majority%20Element)
 175 | Combine Two Tables | Easy | [Solution](leetcode/175.%20Combine%20Two%20Tables)
+191 | Number of 1 Bits | Easy | [Solution](leetcode/191.%20Number%20of%201%20Bits)
 204 | Count Primes | Easy | [Solution](leetcode/204.%20Count%20Primes)
 206 | Reverse Linked List | Easy | [Solution](leetcode/206.%20Reverse%20Linked%20List)
 226 | Invert Binary Tree | Easy | [Solution](leetcode/226.%20Invert%20Binary%20Tree)
