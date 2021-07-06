@@ -13,6 +13,7 @@ My C++ Code for LeetCode OJ.
 7 | Reverse Integer | Easy | [Solution](leetcode/7.%20Reverse%20Integer)
 9 | Palindrome Number | Easy | [Solution](leetcode/9.%20Palindrome%20Number)
 12 | Integer to Roman | Medium | [Solution](leetcode/12.%20Integer%20to%20Roman)
+13 | Roman to Integer | Easy | [Solution](leetcode/13.%20Roman%20to%20Integer)
 15 | 3Sum | Medium | [Solution](leetcode/15.%203Sum)
 16 | 3Sum Closest | Medium | [Solution](leetcode/16.%203Sum%20Closest)
 21 | Merge Two Sorted Lists | Easy | [Solution](leetcode/21.%20Merge%20Two%20Sorted%20Lists)
