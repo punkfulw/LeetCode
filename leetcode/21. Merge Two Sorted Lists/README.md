@@ -49,7 +49,7 @@
 ```cpp
 // OJ: https://leetcode.com/problems/merge-two-sorted-lists/
 // Author: github.com/punkfulw
-// Time: O(A + B)
+// Time: O(m + n)
 // Space: O(1)
 class Solution {
 public:
