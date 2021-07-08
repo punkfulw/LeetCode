@@ -16,6 +16,7 @@ My C++ Code for LeetCode OJ.
 13 | Roman to Integer | Easy | [Solution](leetcode/13.%20Roman%20to%20Integer)
 15 | 3Sum | Medium | [Solution](leetcode/15.%203Sum)
 16 | 3Sum Closest | Medium | [Solution](leetcode/16.%203Sum%20Closest)
+20 | Valid Parentheses | Easy | [Solution](leetcode/20.%20Valid%20Parentheses)
 21 | Merge Two Sorted Lists | Easy | [Solution](leetcode/21.%20Merge%20Two%20Sorted%20Lists)
 22 | Generate Parentheses | Medium | [Solution](leetcode/22.%20Generate%20Parentheses)
 27 | Remove Element | Easy | [Solution](leetcode/27.%20Remove%20Element)
