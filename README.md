@@ -46,6 +46,7 @@ My C++ Code for LeetCode OJ.
 226 | Invert Binary Tree | Easy | [Solution](leetcode/226.%20Invert%20Binary%20Tree)
 236 | Lowest Common Ancestor of a Binary Tree | Medium | [Solution](leetcode/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree)
 237 | Delete Node in a Linked List | Easy | [Solution](leetcode/237.%20Delete%20Node%20in%20a%20Linked%20List)
+300 | Longest Increasing Subsequence | Medium | [Solution](leetcode/300.%20Longest%20Increasing%20Subsequence)
 318 | Maximum Product of Word Lengths | Medium | [Solution](leetcode/318.%20Maximum%20Product%20of%20Word%20Lengths)
 338 | Counting Bits | Easy | [Solution](leetcode/338.%20Counting%20Bits)
 344 | Reverse String | Easy | [Solution](leetcode/344.%20Reverse%20String)
