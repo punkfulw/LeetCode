@@ -274,3 +274,5 @@ My C++ Code for LeetCode OJ.
 1920 | Build Array from Permutation | Easy | [Solution](leetcode/1920.%20Build%20Array%20from%20Permutation)
 1921 | Eliminate Maximum Number of Monsters | Medium | [Solution](leetcode/1921.%20Eliminate%20Maximum%20Number%20of%20Monsters)
 1922 | Count Good Numbers | Medium | [Solution](leetcode/1922.%20Count%20Good%20Numbers)
+1929 | Concatenation of Array | Easy | [Solution](leetcode/1929.%20Concatenation%20of%20Array)
+1930 | Unique Length-3 Palindromic Subsequences | Medium | [Solution](leetcode/1930.%20Unique%20Length-3%20Palindromic%20Subsequences)
