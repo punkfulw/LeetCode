@@ -45,6 +45,7 @@ My C++ Code for LeetCode OJ.
 175 | Combine Two Tables | Easy | [Solution](leetcode/175.%20Combine%20Two%20Tables)
 191 | Number of 1 Bits | Easy | [Solution](leetcode/191.%20Number%20of%201%20Bits)
 204 | Count Primes | Easy | [Solution](leetcode/204.%20Count%20Primes)
+205 | Isomorphic Strings | Easy | [Solution](leetcode/205.%20Isomorphic%20Strings)
 206 | Reverse Linked List | Easy | [Solution](leetcode/206.%20Reverse%20Linked%20List)
 226 | Invert Binary Tree | Easy | [Solution](leetcode/226.%20Invert%20Binary%20Tree)
 236 | Lowest Common Ancestor of a Binary Tree | Medium | [Solution](leetcode/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree)
