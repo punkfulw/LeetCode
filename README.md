@@ -93,6 +93,7 @@ My C++ Code for LeetCode OJ.
 762 | Prime Number of Set Bits in Binary Representation | Easy | [Solution](leetcode/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation)
 766 | Toeplitz Matrix | Easy | [Solution](leetcode/766.%20Toeplitz%20Matrix)
 771 | Jewels and Stones | Easy | [Solution](leetcode/771.%20Jewels%20and%20Stones)
+791 | Custom Sort String | Medium | [Solution](leetcode/791.%20Custom%20Sort%20String)
 792 | Number of Matching Subsequences | Medium | [Solution](leetcode/792.%20Number%20of%20Matching%20Subsequences)
 795 | Number of Subarrays with Bounded Maximum | Medium | [Solution](leetcode/795.%20Number%20of%20Subarrays%20with%20Bounded%20Maximum)
 804 | Unique Morse Code Words | Easy | [Solution](leetcode/804.%20Unique%20Morse%20Code%20Words)
