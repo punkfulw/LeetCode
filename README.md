@@ -25,6 +25,7 @@ My C++ Code for LeetCode OJ.
 26 | Remove Duplicates from Sorted Array | Easy | [Solution](leetcode/26.%20Remove%20Duplicates%20from%20Sorted%20Array)
 27 | Remove Element | Easy | [Solution](leetcode/27.%20Remove%20Element)
 34 | Find First and Last Position of Element in Sorted Array | Medium | [Solution](leetcode/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array)
+36 | Valid Sudoku |  | [Solution](leetcode/36.%20Valid%20Sudoku)
 46 | Permutations | Medium | [Solution](leetcode/46.%20Permutations)
 48 | Rotate Image | Medium | [Solution](leetcode/48.%20Rotate%20Image)
 70 | Climbing Stairs | Easy | [Solution](leetcode/70.%20Climbing%20Stairs)
