@@ -28,6 +28,7 @@ My C++ Code for LeetCode OJ.
 36 | Valid Sudoku | Medium | [Solution](leetcode/36.%20Valid%20Sudoku)
 46 | Permutations | Medium | [Solution](leetcode/46.%20Permutations)
 48 | Rotate Image | Medium | [Solution](leetcode/48.%20Rotate%20Image)
+67 | Add Binary | Easy | [Solution](leetcode/67.%20Add%20Binary)
 70 | Climbing Stairs | Easy | [Solution](leetcode/70.%20Climbing%20Stairs)
 75 | Sort Colors | Medium | [Solution](leetcode/75.%20Sort%20Colors)
 92 | Reverse Linked List II | Medium | [Solution](leetcode/92.%20Reverse%20Linked%20List%20II)
