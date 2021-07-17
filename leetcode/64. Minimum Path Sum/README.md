@@ -18,11 +18,6 @@
 <strong>Output:</strong> 12
 </pre>
 
-m == grid.length
-n == grid[i].length
-1 <= m, n <= 200
-0 <= grid[i][j] <= 100
-
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
@@ -30,7 +25,7 @@ n == grid[i].length
 <ul>
   <li><code>m == grid.length</code></li>
   <li><code>n == grid[i].length</code></li>
-  <li><code>1 &lt;= m, n &lt;= 200/code></li>
+  <li><code>1 &lt;= m, n &lt;= 200</code></li>
   <li><code>0 &lt;= grid[i][j] &lt;= 100</code></li>
 </ul>
 
