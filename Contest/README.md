@@ -1,5 +1,5 @@
 ## [Weekly Contest 250  ](https://leetcode.com/contest/weekly-contest-248/)
-![image](https://github.com/punkfulw/LeetCode/blob/main/Contest/Image/Contest%20245.JPG)
+![image](https://github.com/punkfulw/LeetCode/blob/main/Contest/Image/Contest%20250.JPG)
 
 ## [Weekly Contest 249  ](https://leetcode.com/contest/weekly-contest-248/)
 ![image](https://github.com/punkfulw/LeetCode/blob/main/Contest/Image/Contest%20249.JPG)
