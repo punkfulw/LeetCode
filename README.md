@@ -288,3 +288,4 @@ My C++ Code for LeetCode OJ.
 1929 | Concatenation of Array | Easy | [Solution](leetcode/1929.%20Concatenation%20of%20Array)
 1930 | Unique Length-3 Palindromic Subsequences | Medium | [Solution](leetcode/1930.%20Unique%20Length-3%20Palindromic%20Subsequences)
 1935 | Maximum Number of Words You Can Type | Easy | [Solution](leetcode/1935.%20Maximum%20Number%20of%20Words%20You%20Can%20Type)
+1936 | Add Minimum Number of Rungs | Medium | [Solution](leetcode/1936.%20Add%20Minimum%20Number%20of%20Rungs)
