@@ -67,6 +67,7 @@ My C++ Code for LeetCode OJ.
 412 | Fizz Buzz | Easy | [Solution](leetcode/412.%20Fizz%20Buzz)
 413 | Arithmetic Slices | Medium | [Solution](leetcode/413.%20Arithmetic%20Slices)
 415 | Add Strings | Easy | [Solution](leetcode/415.%20Add%20Strings)
+429 | N-ary Tree Level Order Traversal | Medium | [Solution](leetcode/429.%20N-ary%20Tree%20Level%20Order%20Traversal)
 450 | Delete Node in a BST | Medium | [Solution](leetcode/450.%20Delete%20Node%20in%20a%20BST)
 461 | Hamming Distance | Easy | [Solution](leetcode/461.%20Hamming%20Distance)
 462 | Minimum Moves to Equal Array Elements II | Medium | [Solution](leetcode/462.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II)
