@@ -54,6 +54,7 @@ My C++ Code for LeetCode OJ.
 205 | Isomorphic Strings | Easy | [Solution](leetcode/205.%20Isomorphic%20Strings)
 206 | Reverse Linked List | Easy | [Solution](leetcode/206.%20Reverse%20Linked%20List)
 226 | Invert Binary Tree | Easy | [Solution](leetcode/226.%20Invert%20Binary%20Tree)
+235 | Lowest Common Ancestor of a Binary Search Tree | Easy | [Solution](leetcode/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)
 236 | Lowest Common Ancestor of a Binary Tree | Medium | [Solution](leetcode/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree)
 237 | Delete Node in a Linked List | Easy | [Solution](leetcode/237.%20Delete%20Node%20in%20a%20Linked%20List)
 295 | Find Median from Data Stream | Hard | [Solution](leetcode/295.%20Find%20Median%20from%20Data%20Stream)
