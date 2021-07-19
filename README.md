@@ -132,6 +132,7 @@ My C++ Code for LeetCode OJ.
 933 | Number of Recent Calls | Easy | [Solution](leetcode/933.%20Number%20of%20Recent%20Calls)
 938 | Range Sum of BST | Easy | [Solution](leetcode/938.%20Range%20Sum%20of%20BST)
 944 | Delete Columns to Make Sorted | Easy | [Solution](leetcode/944.%20Delete%20Columns%20to%20Make%20Sorted)
+950 | Reveal Cards In Increasing Order | Medium | [Solution](leetcode/950.%20Reveal%20Cards%20In%20Increasing%20Order)
 953 | Verifying an Alien Dictionary | Easy | [Solution](leetcode/953.%20Verifying%20an%20Alien%20Dictionary)
 961 | N-Repeated Element in Size 2N Array | Easy | [Solution](leetcode/961.%20N-Repeated%20Element%20in%20Size%202N%20Array)
 965 | Univalued Binary Tree | Easy | [Solution](leetcode/965.%20Univalued%20Binary%20Tree)
