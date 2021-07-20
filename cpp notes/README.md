@@ -1,3 +1,6 @@
+## Array on heap
+Just a C++ tip... In your code above, you have the line "int *zeroOne = new int[2];", which creates an int array dynamically (on the heap). In C++, it's significantly faster to create that same array on the stack using the syntax "int zeroOne[2];". Additionally, since you're creating the array on the heap, you should be calling "delete[] zeroOne;" after you're done using it in order to clean up the heap-allocated memory. However, if you instead created the array on the stack, you would have the additional advantage of not needing to call "delete" at all :)
+
 ## Sort with comparator
 1710. Maximum Units on a Truck
 
