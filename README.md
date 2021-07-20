@@ -74,6 +74,7 @@ My C++ Code for LeetCode OJ.
 462 | Minimum Moves to Equal Array Elements II | Medium | [Solution](leetcode/462.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II)
 463 | Island Perimeter | Easy | [Solution](leetcode/463.%20Island%20Perimeter)
 476 | Number Complement | Easy | [Solution](leetcode/476.%20Number%20Complement)
+477 | Total Hamming Distance | Medium | [Solution](leetcode/477.%20Total%20Hamming%20Distance)
 500 | Keyboard Row | Easy | [Solution](leetcode/500.%20Keyboard%20Row)
 509 | Fibonacci Number | Easy | [Solution](leetcode/509.%20Fibonacci%20Number)
 515 | Find Largest Value in Each Tree Row | Medium | [Solution](leetcode/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row)
