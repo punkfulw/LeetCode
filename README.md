@@ -23,6 +23,7 @@ My C++ Code for LeetCode OJ.
 20 | Valid Parentheses | Easy | [Solution](leetcode/20.%20Valid%20Parentheses)
 21 | Merge Two Sorted Lists | Easy | [Solution](leetcode/21.%20Merge%20Two%20Sorted%20Lists)
 22 | Generate Parentheses | Medium | [Solution](leetcode/22.%20Generate%20Parentheses)
+24 | Swap Nodes in Pairs | Medium | [Solution](leetcode/24.%20Swap%20Nodes%20in%20Pairs)
 25 | Reverse Nodes in k-Group | Hard | [Solution](leetcode/25.%20Reverse%20Nodes%20in%20k-Group)
 26 | Remove Duplicates from Sorted Array | Easy | [Solution](leetcode/26.%20Remove%20Duplicates%20from%20Sorted%20Array)
 27 | Remove Element | Easy | [Solution](leetcode/27.%20Remove%20Element)
