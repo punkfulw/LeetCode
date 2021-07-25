@@ -309,3 +309,4 @@ My C++ Code for LeetCode OJ.
 1930 | Unique Length-3 Palindromic Subsequences | Medium | [Solution](leetcode/1930.%20Unique%20Length-3%20Palindromic%20Subsequences)
 1935 | Maximum Number of Words You Can Type | Easy | [Solution](leetcode/1935.%20Maximum%20Number%20of%20Words%20You%20Can%20Type)
 1936 | Add Minimum Number of Rungs | Medium | [Solution](leetcode/1936.%20Add%20Minimum%20Number%20of%20Rungs)
+1941 | Check if All Characters Have Equal Number of Occurrences | Easy | [Solution](leetcode/1941.%20Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences)
