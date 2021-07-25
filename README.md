@@ -311,3 +311,4 @@ My C++ Code for LeetCode OJ.
 1936 | Add Minimum Number of Rungs | Medium | [Solution](leetcode/1936.%20Add%20Minimum%20Number%20of%20Rungs)
 1941 | Check if All Characters Have Equal Number of Occurrences | Easy | [Solution](leetcode/1941.%20Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences)
 1945 | Sum of Digits of String After Convert | Easy | [Solution](leetcode/1945.%20Sum%20of%20Digits%20of%20String%20After%20Convert)
+1946 | Largest Number After Mutating Substring | Medium | [Solution](leetcode/1946.%20Largest%20Number%20After%20Mutating%20Substring)
