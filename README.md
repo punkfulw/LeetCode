@@ -93,6 +93,7 @@ My C++ Code for LeetCode OJ.
 566 | Reshape the Matrix | Easy | [Solution](leetcode/566.%20Reshape%20the%20Matrix)
 575 | Distribute Candies | Easy | [Solution](leetcode/575.%20Distribute%20Candies)
 583 | Delete Operation for Two Strings | Medium | [Solution](leetcode/583.%20Delete%20Operation%20for%20Two%20Strings)
+600 | Non-negative Integers without Consecutive Ones | Hard | [Solution](leetcode/600.%20Non-negative%20Integers%20without%20Consecutive%20Ones)
 611 | Valid Triangle Number | Medium | [Solution](leetcode/611.%20Valid%20Triangle%20Number)
 617 | Merge Two Binary Trees | Easy | [Solution](leetcode/617.%20Merge%20Two%20Binary%20Trees)
 637 | Average of Levels in Binary Tree | Easy | [Solution](leetcode/637.%20Average%20of%20Levels%20in%20Binary%20Tree)
