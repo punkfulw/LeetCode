@@ -216,6 +216,7 @@ My C++ Code for LeetCode OJ.
 1389 | Create Target Array in the Given Order | Easy | [Solution](leetcode/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order)
 1394 | Find Lucky Integer in an Array | Easy | [Solution](leetcode/1394.%20Find%20Lucky%20Integer%20in%20an%20Array)
 1399 | Count Largest Group | Easy | [Solution](leetcode/1399.%20Count%20Largest%20Group)
+1400 | Construct K Palindrome Strings | Medium | [Solution](leetcode/1400.%20Construct%20K%20Palindrome%20Strings)
 1403 | Minimum Subsequence in Non-Increasing Order | Easy | [Solution](leetcode/1403.%20Minimum%20Subsequence%20in%20Non-Increasing%20Order)
 1408 | String Matching in an Array | Easy | [Solution](leetcode/1408.%20String%20Matching%20in%20an%20Array)
 1409 | Queries on a Permutation With Key | Medium | [Solution](leetcode/1409.%20Queries%20on%20a%20Permutation%20With%20Key)
