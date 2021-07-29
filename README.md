@@ -91,6 +91,7 @@ My C++ Code for LeetCode OJ.
 515 | Find Largest Value in Each Tree Row | Medium | [Solution](leetcode/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row)
 530 | Minimum Absolute Difference in BST | Easy | [Solution](leetcode/530.%20Minimum%20Absolute%20Difference%20in%20BST)
 538 | Convert BST to Greater Tree | Medium | [Solution](leetcode/538.%20Convert%20BST%20to%20Greater%20Tree)
+542 | 01 Matrix | Medium | [Solution](leetcode/542.%2001%20Matrix)
 557 | Reverse Words in a String III | Easy | [Solution](leetcode/557.%20Reverse%20Words%20in%20a%20String%20III)
 559 | Maximum Depth of N-ary Tree | Easy | [Solution](leetcode/559.%20Maximum%20Depth%20of%20N-ary%20Tree)
 561 | Array Partition I | Easy | [Solution](leetcode/561.%20Array%20Partition%20I)
