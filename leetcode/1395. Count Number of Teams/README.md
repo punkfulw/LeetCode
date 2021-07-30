@@ -62,8 +62,6 @@ public:
     int numTeams(vector<int>& r) {
         int ans = 0, n = r.size();
         vector<int> leftsmall(n), leftbig(n), rightsmall(n), rightbig(n);
-        
-        
         for(int i = 1; i < n; i++){
             for (int j = 0; j < i; j++){
                 if (r[j] < r[i])
@@ -82,7 +80,6 @@ public:
         }
         for (int i = 0; i < n; i++)
             ans += rightsmall[i] * leftbig[i] + leftsmall[i] * rightbig[i];
-        
         return ans;
     }
 };
@@ -118,8 +115,6 @@ public:
             }
             ans += rightsmall * leftbig + leftsmall * rightbig;
         }
-            
-        
         return ans;
     }
 };
