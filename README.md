@@ -106,6 +106,7 @@ My C++ Code for LeetCode OJ.
 637 | Average of Levels in Binary Tree | Easy | [Solution](leetcode/637.%20Average%20of%20Levels%20in%20Binary%20Tree)
 657 | Robot Return to Origin | Easy | [Solution](leetcode/657.%20Robot%20Return%20to%20Origin)
 658 | Find K Closest Elements | Medium | [Solution](leetcode/658.%20Find%20K%20Closest%20Elements)
+677 | Map Sum Pairs | Medium | [Solution](leetcode/677.%20Map%20Sum%20Pairs)
 682 | Baseball Game | Easy | [Solution](leetcode/682.%20Baseball%20Game)
 684 | Redundant Connection | Medium | [Solution](leetcode/684.%20Redundant%20Connection)
 693 | Binary Number with Alternating Bits | Easy | [Solution](leetcode/693.%20Binary%20Number%20with%20Alternating%20Bits)
