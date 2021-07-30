@@ -219,6 +219,7 @@ My C++ Code for LeetCode OJ.
 1387 | Sort Integers by The Power Value | Medium | [Solution](leetcode/1387.%20Sort%20Integers%20by%20The%20Power%20Value)
 1389 | Create Target Array in the Given Order | Easy | [Solution](leetcode/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order)
 1394 | Find Lucky Integer in an Array | Easy | [Solution](leetcode/1394.%20Find%20Lucky%20Integer%20in%20an%20Array)
+1395 | Count Number of Teams | Medium | [Solution](leetcode/1395.%20Count%20Number%20of%20Teams)
 1399 | Count Largest Group | Easy | [Solution](leetcode/1399.%20Count%20Largest%20Group)
 1400 | Construct K Palindrome Strings | Medium | [Solution](leetcode/1400.%20Construct%20K%20Palindrome%20Strings)
 1403 | Minimum Subsequence in Non-Increasing Order | Easy | [Solution](leetcode/1403.%20Minimum%20Subsequence%20in%20Non-Increasing%20Order)
