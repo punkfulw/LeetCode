@@ -30,6 +30,7 @@ My C++ Code for LeetCode OJ.
 27 | Remove Element | Easy | [Solution](leetcode/27.%20Remove%20Element)
 34 | Find First and Last Position of Element in Sorted Array | Medium | [Solution](leetcode/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array)
 36 | Valid Sudoku | Medium | [Solution](leetcode/36.%20Valid%20Sudoku)
+42 | Trapping Rain Water | Hard | [Solution](leetcode/42.%20Trapping%20Rain%20Water)
 46 | Permutations | Medium | [Solution](leetcode/46.%20Permutations)
 48 | Rotate Image | Medium | [Solution](leetcode/48.%20Rotate%20Image)
 49 | Group Anagrams | Medium | [Solution](leetcode/49.%20Group%20Anagrams)
