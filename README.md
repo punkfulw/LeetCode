@@ -329,3 +329,4 @@ My C++ Code for LeetCode OJ.
 1945 | Sum of Digits of String After Convert | Easy | [Solution](leetcode/1945.%20Sum%20of%20Digits%20of%20String%20After%20Convert)
 1946 | Largest Number After Mutating Substring | Medium | [Solution](leetcode/1946.%20Largest%20Number%20After%20Mutating%20Substring)
 1952 | Three Divisors | Easy | [Solution](leetcode/1952.%20Three%20Divisors)
+1954 | Minimum Garden Perimeter to Collect Enough Apples | Medium | [Solution](leetcode/1954.%20Minimum%20Garden%20Perimeter%20to%20Collect%20Enough%20Apples)
