@@ -36,6 +36,7 @@ My C++ Code for LeetCode OJ.
 49 | Group Anagrams | Medium | [Solution](leetcode/49.%20Group%20Anagrams)
 53 | Maximum Subarray | Easy | [Solution](leetcode/53.%20Maximum%20Subarray)
 59 | Spiral Matrix II | Medium | [Solution](leetcode/59.%20Spiral%20Matrix%20II)
+62 | Unique Paths | Medium | [Solution](leetcode/62.%20Unique%20Paths)
 64 | Minimum Path Sum | Medium | [Solution](leetcode/64.%20Minimum%20Path%20Sum)
 67 | Add Binary | Easy | [Solution](leetcode/67.%20Add%20Binary)
 70 | Climbing Stairs | Easy | [Solution](leetcode/70.%20Climbing%20Stairs)
