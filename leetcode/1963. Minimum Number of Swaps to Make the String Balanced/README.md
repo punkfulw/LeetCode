@@ -65,7 +65,7 @@ The resulting string is "[[][]]".
 // OJ: https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
 // Author: github.com/punkfulw
 // Time: O(N)
-// Space: O(1)
+// Space: O(N)
 class Solution {
 public:
     int minSwaps(string s) {
