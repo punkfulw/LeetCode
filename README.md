@@ -340,3 +340,6 @@ My C++ Code for LeetCode OJ.
 1946 | Largest Number After Mutating Substring | Medium | [Solution](leetcode/1946.%20Largest%20Number%20After%20Mutating%20Substring)
 1952 | Three Divisors | Easy | [Solution](leetcode/1952.%20Three%20Divisors)
 1954 | Minimum Garden Perimeter to Collect Enough Apples | Medium | [Solution](leetcode/1954.%20Minimum%20Garden%20Perimeter%20to%20Collect%20Enough%20Apples)
+1961 | Check If String Is a Prefix of Array | Easy | [Solution](leetcode/1961.%20Check%20If%20String%20Is%20a%20Prefix%20of%20Array)
+1962 | Remove Stones to Minimize the Total | Medium | [Solution](leetcode/1962.%20Remove%20Stones%20to%20Minimize%20the%20Total)
+1963 | Minimum Number of Swaps to Make the String Balanced | Medium | [Solution](leetcode/1963.%20Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced)
