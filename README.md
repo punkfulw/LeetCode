@@ -343,3 +343,4 @@ My C++ Code for LeetCode OJ.
 1961 | Check If String Is a Prefix of Array | Easy | [Solution](leetcode/1961.%20Check%20If%20String%20Is%20a%20Prefix%20of%20Array)
 1962 | Remove Stones to Minimize the Total | Medium | [Solution](leetcode/1962.%20Remove%20Stones%20to%20Minimize%20the%20Total)
 1963 | Minimum Number of Swaps to Make the String Balanced | Medium | [Solution](leetcode/1963.%20Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced)
+1964 | Find the Longest Valid Obstacle Course at Each Position | Hard | [Solution](leetcode/1964.%20Find%20the%20Longest%20Valid%20Obstacle%20Course%20at%20Each%20Position)
