@@ -192,6 +192,7 @@ My C++ Code for LeetCode OJ.
 1078 | Occurrences After Bigram | Easy | [Solution](leetcode/1078.%20Occurrences%20After%20Bigram)
 1089 | Duplicate Zeros | Easy | [Solution](leetcode/1089.%20Duplicate%20Zeros)
 1103 | Distribute Candies to People | Easy | [Solution](leetcode/1103.%20Distribute%20Candies%20to%20People)
+1104 | Path In Zigzag Labelled Binary Tree | Medium | [Solution](leetcode/1104.%20Path%20In%20Zigzag%20Labelled%20Binary%20Tree)
 1108 | Defanging an IP Address | Easy | [Solution](leetcode/1108.%20Defanging%20an%20IP%20Address)
 1122 | Relative Sort Array | Easy | [Solution](leetcode/1122.%20Relative%20Sort%20Array)
 1160 | Find Words That Can Be Formed by Characters | Easy | [Solution](leetcode/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters)
