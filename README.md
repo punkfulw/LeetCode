@@ -274,6 +274,7 @@ My C++ Code for LeetCode OJ.
 1588 | Sum of All Odd Length Subarrays | Easy | [Solution](leetcode/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays)
 1598 | Crawler Log Folder | Easy | [Solution](leetcode/1598.%20Crawler%20Log%20Folder)
 1603 | Design Parking System | Easy | [Solution](leetcode/1603.%20Design%20Parking%20System)
+1605 | Find Valid Matrix Given Row and Column Sums | Medium | [Solution](leetcode/1605.%20Find%20Valid%20Matrix%20Given%20Row%20and%20Column%20Sums)
 1608 | Special Array With X Elements Greater Than or Equal X | Easy | [Solution](leetcode/1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X)
 1614 | Maximum Nesting Depth of the Parentheses | Easy | [Solution](leetcode/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses)
 1619 | Mean of Array After Removing Some Elements | Easy | [Solution](leetcode/1619.%20Mean%20of%20Array%20After%20Removing%20Some%20Elements)
