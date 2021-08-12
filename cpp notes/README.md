@@ -1,7 +1,9 @@
 
 ## Find index
+```
 auto it = find(ans.begin(), ans.end(), cur);
 ans[distance(ans.begin(), it)]
+```
 
 
 ## Bit Manipulation summary
