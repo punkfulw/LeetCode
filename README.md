@@ -172,6 +172,7 @@ My C++ Code for LeetCode OJ.
 950 | Reveal Cards In Increasing Order | Medium | [Solution](leetcode/950.%20Reveal%20Cards%20In%20Increasing%20Order)
 951 | Flip Equivalent Binary Trees | Medium | [Solution](leetcode/951.%20Flip%20Equivalent%20Binary%20Trees)
 953 | Verifying an Alien Dictionary | Easy | [Solution](leetcode/953.%20Verifying%20an%20Alien%20Dictionary)
+954 | Array of Doubled Pairs | Medium | [Solution](leetcode/954.%20Array%20of%20Doubled%20Pairs)
 958 | Check Completeness of a Binary Tree | Medium | [Solution](leetcode/958.%20Check%20Completeness%20of%20a%20Binary%20Tree)
 961 | N-Repeated Element in Size 2N Array | Easy | [Solution](leetcode/961.%20N-Repeated%20Element%20in%20Size%202N%20Array)
 965 | Univalued Binary Tree | Easy | [Solution](leetcode/965.%20Univalued%20Binary%20Tree)
