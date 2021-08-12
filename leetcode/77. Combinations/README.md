@@ -1,6 +1,8 @@
 # [77. Combinations (Medium)](https://leetcode.com/problems/combinations/)
 
-<p>Given two integers <em>n</em> and <em>k</em>, return all possible combinations of <em>k</em> numbers out of 1 ... <em>n</em>.</p>
+<p>Given two integers n and k, return all possible combinations of k numbers out of the range [1, n].</p>
+
+<p>You may return the answer in any order.</p>
 
 <p><strong>Example:</strong></p>
 
