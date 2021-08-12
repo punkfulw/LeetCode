@@ -29,7 +29,7 @@
 
 ## Solution 1. generate all pair
 
-```cpp
+```cpp 
 // OJ: https://leetcode.com/problems/combinations/
 // Author: github.com/punkfulw
 // Time: O(K!)
