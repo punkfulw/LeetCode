@@ -1,3 +1,9 @@
+
+## Find index
+auto it = find(ans.begin(), ans.end(), cur);
+ans[distance(ans.begin(), it)]
+
+
 ## Bit Manipulation summary
 https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently
 
