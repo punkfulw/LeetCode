@@ -33,6 +33,7 @@ My C++ Code for LeetCode OJ.
 39 | Combination Sum | Medium | [Solution](leetcode/39.%20Combination%20Sum)
 42 | Trapping Rain Water | Hard | [Solution](leetcode/42.%20Trapping%20Rain%20Water)
 46 | Permutations | Medium | [Solution](leetcode/46.%20Permutations)
+47 | Permutations II | Medium | [Solution](leetcode/47.%20Permutations%20II)
 48 | Rotate Image | Medium | [Solution](leetcode/48.%20Rotate%20Image)
 49 | Group Anagrams | Medium | [Solution](leetcode/49.%20Group%20Anagrams)
 53 | Maximum Subarray | Easy | [Solution](leetcode/53.%20Maximum%20Subarray)
