@@ -204,6 +204,7 @@ My C++ Code for LeetCode OJ.
 1130 | Minimum Cost Tree From Leaf Values | Medium | [Solution](leetcode/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values)
 1160 | Find Words That Can Be Formed by Characters | Easy | [Solution](leetcode/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters)
 1161 | Maximum Level Sum of a Binary Tree | Medium | [Solution](leetcode/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree)
+1185 | Day of the Week | Easy | [Solution](leetcode/1185.%20Day%20of%20the%20Week)
 1189 | Maximum Number of Balloons | Easy | [Solution](leetcode/1189.%20Maximum%20Number%20of%20Balloons)
 1200 | Minimum Absolute Difference | Easy | [Solution](leetcode/1200.%20Minimum%20Absolute%20Difference)
 1207 | Unique Number of Occurrences | Easy | [Solution](leetcode/1207.%20Unique%20Number%20of%20Occurrences)
