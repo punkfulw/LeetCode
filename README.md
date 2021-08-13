@@ -42,6 +42,7 @@ My C++ Code for LeetCode OJ.
 64 | Minimum Path Sum | Medium | [Solution](leetcode/64.%20Minimum%20Path%20Sum)
 67 | Add Binary | Easy | [Solution](leetcode/67.%20Add%20Binary)
 70 | Climbing Stairs | Easy | [Solution](leetcode/70.%20Climbing%20Stairs)
+73 | Set Matrix Zeroes | Medium | [Solution](leetcode/73.%20Set%20Matrix%20Zeroes)
 75 | Sort Colors | Medium | [Solution](leetcode/75.%20Sort%20Colors)
 77 | Combinations | Medium | [Solution](leetcode/77.%20Combinations)
 78 | Subsets | Medium | [Solution](leetcode/78.%20Subsets)
