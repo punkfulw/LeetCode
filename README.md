@@ -289,6 +289,7 @@ My C++ Code for LeetCode OJ.
 1605 | Find Valid Matrix Given Row and Column Sums | Medium | [Solution](leetcode/1605.%20Find%20Valid%20Matrix%20Given%20Row%20and%20Column%20Sums)
 1608 | Special Array With X Elements Greater Than or Equal X | Easy | [Solution](leetcode/1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X)
 1614 | Maximum Nesting Depth of the Parentheses | Easy | [Solution](leetcode/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses)
+1615 | Maximal Network Rank | Medium | [Solution](leetcode/1615.%20Maximal%20Network%20Rank)
 1619 | Mean of Array After Removing Some Elements | Easy | [Solution](leetcode/1619.%20Mean%20of%20Array%20After%20Removing%20Some%20Elements)
 1636 | Sort Array by Increasing Frequency | Easy | [Solution](leetcode/1636.%20Sort%20Array%20by%20Increasing%20Frequency)
 1637 | Widest Vertical Area Between Two Points Containing No Points | Medium | [Solution](leetcode/1637.%20Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points)
