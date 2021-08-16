@@ -52,7 +52,7 @@ numArray.sumRange(0, 5); // return (-2) + 0 + 3 + (-5) + 2 + (-1) = -3
 // OJ: https://leetcode.com/problems/range-sum-query-immutable/
 // Author: github.com/punkfulw
 // Time: O(N) for build partial_sum
-         O(1) for calling SumRange
+//       O(1) for calling SumRange
 // Space: O(N)
 class NumArray {
 public:
