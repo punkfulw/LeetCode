@@ -88,6 +88,7 @@ My C++ Code for LeetCode OJ.
 260 | Single Number III | Medium | [Solution](leetcode/260.%20Single%20Number%20III)
 295 | Find Median from Data Stream | Hard | [Solution](leetcode/295.%20Find%20Median%20from%20Data%20Stream)
 300 | Longest Increasing Subsequence | Medium | [Solution](leetcode/300.%20Longest%20Increasing%20Subsequence)
+303 | Range Sum Query - Immutable | Easy | [Solution](leetcode/303.%20Range%20Sum%20Query%20-%20Immutable)
 318 | Maximum Product of Word Lengths | Medium | [Solution](leetcode/318.%20Maximum%20Product%20of%20Word%20Lengths)
 338 | Counting Bits | Easy | [Solution](leetcode/338.%20Counting%20Bits)
 344 | Reverse String | Easy | [Solution](leetcode/344.%20Reverse%20String)
