@@ -6,7 +6,7 @@
   <li>Calculate the <b>sum</b> of the elements of <code>nums</code> between indices <code>left</code> and <code>right</code> <b>inclusive</b> where <code>left <= right</code>.</li>
 </ul>
 
-
+ 
 <p>Implement the <code>NumArray</code> class:</p>
 
 <ul>
