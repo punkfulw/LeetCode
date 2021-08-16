@@ -4,7 +4,7 @@
 
 <p>You may assume that each input would have <strong><em>exactly</em></strong> one solution, and you may not use the <em>same</em> element twice.</p>
 
-<p>You can return the answer in any order. </p>
+<p>You can return the answer in any order.</p>
 
 <p><strong>Example 1:</strong></p>
 <pre>
