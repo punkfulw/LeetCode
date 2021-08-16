@@ -1,8 +1,8 @@
 // OJ: https://leetcode.com/problems/range-sum-query-immutable/
 // Author: github.com/punkfulw
 // Time: O(N) for build partial_sum
-         O(1) for calling SumRange
-// Space: O(N)
+//       O(1) for calling SumRange
+// Space: O(N) 
 class NumArray {
 public:
     vector<int> cnt;
