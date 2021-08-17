@@ -267,6 +267,7 @@ My C++ Code for LeetCode OJ.
 1437 | Check If All 1's Are at Least Length K Places Away | Easy | [Solution](leetcode/1437.%20Check%20If%20All%201%27s%20Are%20at%20Least%20Length%20K%20Places%20Away)
 1441 | Build an Array With Stack Operations | Easy | [Solution](leetcode/1441.%20Build%20an%20Array%20With%20Stack%20Operations)
 1446 | Consecutive Characters | Easy | [Solution](leetcode/1446.%20Consecutive%20Characters)
+1448 | Count Good Nodes in Binary Tree | Medium | [Solution](leetcode/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree)
 1450 | Number of Students Doing Homework at a Given Time | Easy | [Solution](leetcode/1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time)
 1455 | Check If a Word Occurs As a Prefix of Any Word in a Sentence | Easy | [Solution](leetcode/1455.%20Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence)
 1460 | Make Two Arrays Equal by Reversing Sub-arrays | Easy | [Solution](leetcode/1460.%20Make%20Two%20Arrays%20Equal%20by%20Reversing%20Sub-arrays)
