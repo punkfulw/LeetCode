@@ -129,6 +129,7 @@ My C++ Code for LeetCode OJ.
 647 | Palindromic Substrings | Medium | [Solution](leetcode/647.%20Palindromic%20Substrings)
 657 | Robot Return to Origin | Easy | [Solution](leetcode/657.%20Robot%20Return%20to%20Origin)
 658 | Find K Closest Elements | Medium | [Solution](leetcode/658.%20Find%20K%20Closest%20Elements)
+669 | Trim a Binary Search Tree | Medium | [Solution](leetcode/669.%20Trim%20a%20Binary%20Search%20Tree)
 677 | Map Sum Pairs | Medium | [Solution](leetcode/677.%20Map%20Sum%20Pairs)
 682 | Baseball Game | Easy | [Solution](leetcode/682.%20Baseball%20Game)
 684 | Redundant Connection | Medium | [Solution](leetcode/684.%20Redundant%20Connection)
