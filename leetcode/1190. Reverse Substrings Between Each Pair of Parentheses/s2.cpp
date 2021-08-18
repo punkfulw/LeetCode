@@ -3,7 +3,7 @@
 // Time: O(N^2)
 // Space: O(N)
 class Solution {
-public:
+public: 
     string reverseParentheses(string s) {
         stack<int> stk;
         string ans;
