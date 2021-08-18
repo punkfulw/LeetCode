@@ -213,6 +213,7 @@ My C++ Code for LeetCode OJ.
 1161 | Maximum Level Sum of a Binary Tree | Medium | [Solution](leetcode/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree)
 1185 | Day of the Week | Easy | [Solution](leetcode/1185.%20Day%20of%20the%20Week)
 1189 | Maximum Number of Balloons | Easy | [Solution](leetcode/1189.%20Maximum%20Number%20of%20Balloons)
+1190 | Reverse Substrings Between Each Pair of Parentheses | Medium | [Solution](leetcode/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses)
 1200 | Minimum Absolute Difference | Easy | [Solution](leetcode/1200.%20Minimum%20Absolute%20Difference)
 1207 | Unique Number of Occurrences | Easy | [Solution](leetcode/1207.%20Unique%20Number%20of%20Occurrences)
 1217 | Minimum Cost to Move Chips to The Same Position | Easy | [Solution](leetcode/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position)
