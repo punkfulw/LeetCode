@@ -17,7 +17,11 @@ Just a C++ tip... In your code above, you have the line "int *zeroOne = new int[
 
 692. Top K Frequent Words       
 <pre>
-comparator for priority queue
+Comparator for Priority Queue
+if (false)
+	b in front of a
+else
+	a in front of b
 </pre>
 ```cpp
 class Solution {
