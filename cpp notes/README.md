@@ -16,13 +16,24 @@ Just a C++ tip... In your code above, you have the line "int *zeroOne = new int[
 ## Sort with comparator
 
 692. Top K Frequent Words       
-<pre>
-Comparator for Priority Queue
-if (false)
-	b in front of a
-else
-	a in front of b
-</pre>
+```cpp
+	auto compare = [](int lhs, int rhs){
+	    return lhs < rhs;
+	};
+
+        std::priority_queue<int, std::vector<int>, decltype(compare)> q(compare);
+
+        for(int n : {1,8,5,6,3,4,0,9,7,2})
+            q.push(n);
+	    
+	while (q.size()){
+            auto p = q.top();
+            q.pop();
+            cout << p << " ";
+        }
+	
+	//9 8 7 6 5 4 3 2 1 0 
+```
 ```cpp
 class Solution {
 public:
