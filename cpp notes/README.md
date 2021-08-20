@@ -14,6 +14,39 @@ https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how
 Just a C++ tip... In your code above, you have the line "int *zeroOne = new int[2];", which creates an int array dynamically (on the heap). In C++, it's significantly faster to create that same array on the stack using the syntax "int zeroOne[2];". Additionally, since you're creating the array on the heap, you should be calling "delete[] zeroOne;" after you're done using it in order to clean up the heap-allocated memory. However, if you instead created the array on the stack, you would have the additional advantage of not needing to call "delete" at all :)
 
 ## Sort with comparator
+
+692. Top K Frequent Words
+
+```cpp
+class Solution {
+public:
+    bool operator()(pair<string, int> a, pair<string, int> b){
+        if (a.second == b.second)
+            return a.first > b.first;
+        return a.second < b.second;
+    }
+    vector<string> topKFrequent(vector<string>& words, int k) {
+        unordered_map<string, int> mp;
+
+        for (auto word: words)
+            mp[word]++;
+        
+        priority_queue<pair<string, int>, vector<pair<string, int>>, Solution> pq;
+        
+        for(auto &p : mp) {
+            pq.push(p);
+        
+        vector<string> ans;
+        while(pq.size() && k--){
+            auto p = pq.top();
+            pq.pop();
+            ans.push_back(p.first);
+        }
+        return ans;
+    }
+};
+```
+
 1710. Maximum Units on a Truck
 
 ```cpp
