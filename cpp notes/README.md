@@ -15,7 +15,8 @@ Just a C++ tip... In your code above, you have the line "int *zeroOne = new int[
 
 ## Sort with comparator
 
-692. Top K Frequent Words       <b>comparator for priority queue</b>
+692. Top K Frequent Words       
+```<b>comparator for priority queue</b>```
 
 ```cpp
 class Solution {
