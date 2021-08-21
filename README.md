@@ -89,6 +89,7 @@ My C++ Code for LeetCode OJ.
 236 | Lowest Common Ancestor of a Binary Tree | Medium | [Solution](leetcode/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree)
 237 | Delete Node in a Linked List | Easy | [Solution](leetcode/237.%20Delete%20Node%20in%20a%20Linked%20List)
 260 | Single Number III | Medium | [Solution](leetcode/260.%20Single%20Number%20III)
+263 | Ugly Number | Easy | [Solution](leetcode/263.%20Ugly%20Number)
 283 | Move Zeroes | Easy | [Solution](leetcode/283.%20Move%20Zeroes)
 295 | Find Median from Data Stream | Hard | [Solution](leetcode/295.%20Find%20Median%20from%20Data%20Stream)
 300 | Longest Increasing Subsequence | Medium | [Solution](leetcode/300.%20Longest%20Increasing%20Subsequence)
