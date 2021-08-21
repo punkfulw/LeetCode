@@ -52,7 +52,7 @@
 ```cpp
 // OJ: https://leetcode.com/problems/ugly-number/
 // Author: github.com/punkfulw
-// Time: O(logN)
+// Time: O(1)
 // Space: O(1)
 class Solution {
 public:
