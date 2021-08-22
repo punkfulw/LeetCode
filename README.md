@@ -388,3 +388,4 @@ My C++ Code for LeetCode OJ.
 1968 | Array With Elements Not Equal to Average of Neighbors | Medium | [Solution](leetcode/1968.%20Array%20With%20Elements%20Not%20Equal%20to%20Average%20of%20Neighbors)
 1970 | Last Day Where You Can Still Cross | Hard | [Solution](leetcode/1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross)
 1974 | Minimum Time to Type Word Using Special Typewriter | Easy | [Solution](leetcode/1974.%20Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter)
+1975 | Maximum Matrix Sum | Medium | [Solution](leetcode/1975.%20Maximum%20Matrix%20Sum)
