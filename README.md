@@ -84,6 +84,7 @@ My C++ Code for LeetCode OJ.
 205 | Isomorphic Strings | Easy | [Solution](leetcode/205.%20Isomorphic%20Strings)
 206 | Reverse Linked List | Easy | [Solution](leetcode/206.%20Reverse%20Linked%20List)
 208 | Implement Trie (Prefix Tree) | Medium | [Solution](leetcode/208.%20Implement%20Trie%20%28Prefix%20Tree%29)
+217 | Contains Duplicate | Easy | [Solution](leetcode/217.%20Contains%20Duplicate)
 226 | Invert Binary Tree | Easy | [Solution](leetcode/226.%20Invert%20Binary%20Tree)
 235 | Lowest Common Ancestor of a Binary Search Tree | Easy | [Solution](leetcode/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)
 236 | Lowest Common Ancestor of a Binary Tree | Medium | [Solution](leetcode/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree)
