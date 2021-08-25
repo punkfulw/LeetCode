@@ -34,7 +34,7 @@
 
 
 **Related Topics**:  
-[Array](https://leetcode.com/tag/array/), [Hash Table](https://leetcode.com/tag/hash-table/)
+[Math](https://leetcode.com/tag/math/), [Two Pointers](https://leetcode.com/tag/two-pointers/)
 
 
 
