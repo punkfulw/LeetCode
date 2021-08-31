@@ -105,6 +105,7 @@ My C++ Code for LeetCode OJ.
 384 | Shuffle an Array | Medium | [Solution](leetcode/384.%20Shuffle%20an%20Array)
 387 | First Unique Character in a String | Easy | [Solution](leetcode/387.%20First%20Unique%20Character%20in%20a%20String)
 389 | Find the Difference | Easy | [Solution](leetcode/389.%20Find%20the%20Difference)
+398 | Random Pick Index |  | [Solution](leetcode/398.%20Random%20Pick%20Index)
 409 | Longest Palindrome | Easy | [Solution](leetcode/409.%20Longest%20Palindrome)
 412 | Fizz Buzz | Easy | [Solution](leetcode/412.%20Fizz%20Buzz)
 413 | Arithmetic Slices | Medium | [Solution](leetcode/413.%20Arithmetic%20Slices)
