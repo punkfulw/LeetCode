@@ -41,6 +41,7 @@ My C++ Code for LeetCode OJ.
 59 | Spiral Matrix II | Medium | [Solution](leetcode/59.%20Spiral%20Matrix%20II)
 62 | Unique Paths | Medium | [Solution](leetcode/62.%20Unique%20Paths)
 64 | Minimum Path Sum | Medium | [Solution](leetcode/64.%20Minimum%20Path%20Sum)
+66 | Plus One | Easy | [Solution](leetcode/66.%20Plus%20One)
 67 | Add Binary | Easy | [Solution](leetcode/67.%20Add%20Binary)
 70 | Climbing Stairs | Easy | [Solution](leetcode/70.%20Climbing%20Stairs)
 73 | Set Matrix Zeroes | Medium | [Solution](leetcode/73.%20Set%20Matrix%20Zeroes)
