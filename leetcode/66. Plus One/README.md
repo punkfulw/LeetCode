@@ -7,7 +7,7 @@
 <p>Increment the large integer by one and return the resulting array of digits.</p>
 
 <p>&nbsp;</p>
-<p><strong>Example 1:</strong></p>
+<p><strong>Example 1:</strong></p> 
 
 <pre><strong>Input:</strong> digits = [1,2,3]
 <strong>Output:</strong> [1,2,4]
