@@ -312,6 +312,7 @@ My C++ Code for LeetCode OJ.
 1518 | Water Bottles | Easy | [Solution](leetcode/1518.%20Water%20Bottles)
 1528 | Shuffle String | Easy | [Solution](leetcode/1528.%20Shuffle%20String)
 1534 | Count Good Triplets | Easy | [Solution](leetcode/1534.%20Count%20Good%20Triplets)
+1544 | Make The String Great | Easy | [Solution](leetcode/1544.%20Make%20The%20String%20Great)
 1550 | Three Consecutive Odds | Easy | [Solution](leetcode/1550.%20Three%20Consecutive%20Odds)
 1551 | Minimum Operations to Make Array Equal | Medium | [Solution](leetcode/1551.%20Minimum%20Operations%20to%20Make%20Array%20Equal)
 1561 | Maximum Number of Coins You Can Get | Medium | [Solution](leetcode/1561.%20Maximum%20Number%20of%20Coins%20You%20Can%20Get)
