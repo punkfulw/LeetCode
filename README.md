@@ -228,6 +228,7 @@ My C++ Code for LeetCode OJ.
 1051 | Height Checker | Easy | [Solution](leetcode/1051.%20Height%20Checker)
 1078 | Occurrences After Bigram | Easy | [Solution](leetcode/1078.%20Occurrences%20After%20Bigram)
 1089 | Duplicate Zeros | Easy | [Solution](leetcode/1089.%20Duplicate%20Zeros)
+1094 | Car Pooling | Medium | [Solution](leetcode/1094.%20Car%20Pooling)
 1103 | Distribute Candies to People | Easy | [Solution](leetcode/1103.%20Distribute%20Candies%20to%20People)
 1104 | Path In Zigzag Labelled Binary Tree | Medium | [Solution](leetcode/1104.%20Path%20In%20Zigzag%20Labelled%20Binary%20Tree)
 1108 | Defanging an IP Address | Easy | [Solution](leetcode/1108.%20Defanging%20an%20IP%20Address)
