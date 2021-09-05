@@ -42,11 +42,6 @@
 
 
 
-**Related Topics**:  
-[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
-
-
-
 ## Solution 1.
 
 ```cpp
