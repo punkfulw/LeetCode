@@ -415,3 +415,4 @@ My C++ Code for LeetCode OJ.
 1979 | Find Greatest Common Divisor of Array | Easy | [Solution](leetcode/1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array)
 1980 | Find Unique Binary String | Medium | [Solution](leetcode/1980.%20Find%20Unique%20Binary%20String)
 1995 | Count Special Quadruplets | Easy | [Solution](leetcode/1995.%20Count%20Special%20Quadruplets)
+1996 | The Number of Weak Characters in the Game | Medium | [Solution](leetcode/1996.%20The%20Number%20of%20Weak%20Characters%20in%20the%20Game)
