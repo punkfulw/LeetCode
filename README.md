@@ -415,6 +415,7 @@ My C++ Code for LeetCode OJ.
 1975 | Maximum Matrix Sum | Medium | [Solution](leetcode/1975.%20Maximum%20Matrix%20Sum)
 1979 | Find Greatest Common Divisor of Array | Easy | [Solution](leetcode/1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array)
 1980 | Find Unique Binary String | Medium | [Solution](leetcode/1980.%20Find%20Unique%20Binary%20String)
+1984 | Minimum Difference Between Highest and Lowest of K Scores | Easy | [Solution](leetcode/1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores)
 1991 | Find the Middle Index in Array | Easy | [Solution](leetcode/1991.%20Find%20the%20Middle%20Index%20in%20Array)
 1992 | Find All Groups of Farmland | Medium | [Solution](leetcode/1992.%20Find%20All%20Groups%20of%20Farmland)
 1995 | Count Special Quadruplets | Easy | [Solution](leetcode/1995.%20Count%20Special%20Quadruplets)
