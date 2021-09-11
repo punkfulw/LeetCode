@@ -246,6 +246,7 @@ My C++ Code for LeetCode OJ.
 1200 | Minimum Absolute Difference | Easy | [Solution](leetcode/1200.%20Minimum%20Absolute%20Difference)
 1207 | Unique Number of Occurrences | Easy | [Solution](leetcode/1207.%20Unique%20Number%20of%20Occurrences)
 1217 | Minimum Cost to Move Chips to The Same Position | Easy | [Solution](leetcode/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position)
+1219 | Path with Maximum Gold | Medium | [Solution](leetcode/1219.%20Path%20with%20Maximum%20Gold)
 1220 | Count Vowels Permutation | Hard | [Solution](leetcode/1220.%20Count%20Vowels%20Permutation)
 1221 | Split a String in Balanced Strings | Easy | [Solution](leetcode/1221.%20Split%20a%20String%20in%20Balanced%20Strings)
 1252 | Cells with Odd Values in a Matrix | Easy | [Solution](leetcode/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix)
