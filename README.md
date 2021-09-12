@@ -430,3 +430,5 @@ My C++ Code for LeetCode OJ.
 1992 | Find All Groups of Farmland | Medium | [Solution](leetcode/1992.%20Find%20All%20Groups%20of%20Farmland)
 1995 | Count Special Quadruplets | Easy | [Solution](leetcode/1995.%20Count%20Special%20Quadruplets)
 1996 | The Number of Weak Characters in the Game | Medium | [Solution](leetcode/1996.%20The%20Number%20of%20Weak%20Characters%20in%20the%20Game)
+2000 | Reverse Prefix of Word | Easy | [Solution](leetcode/2000.%20Reverse%20Prefix%20of%20Word)
+2001 | Number of Pairs of Interchangeable Rectangles | Medium | [Solution](leetcode/2001.%20Number%20of%20Pairs%20of%20Interchangeable%20Rectangles)
