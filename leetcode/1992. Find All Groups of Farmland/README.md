@@ -87,10 +87,10 @@ public:
 ```
 
 ```python3
-// OJ: https://leetcode.com/problems/find-all-groups-of-farmland/
-// Author: github.com/punkfulw
-// Time: O(MN)
-// Space: O(MN)
+# OJ: https://leetcode.com/problems/find-all-groups-of-farmland/
+# Author: github.com/punkfulw
+# Time: O(MN)
+# Space: O(MN)
 class Solution:
     def findFarmland(self, land: List[List[int]]) -> List[List[int]]:
         n = len(land)
