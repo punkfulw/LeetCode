@@ -1,7 +1,7 @@
 # OJ: https://leetcode.com/problems/maximum-subarray/
 # Author: github.com/punkfulw
 # Time: O(N)
-# Space: O(1)
+# Space: O(1) 
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
         ans = cur = nums[0]
