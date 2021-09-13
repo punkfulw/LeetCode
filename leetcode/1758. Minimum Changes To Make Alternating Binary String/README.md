@@ -63,11 +63,11 @@ public:
 ```
 
 
-```python
-// OJ: https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/
-// Author: github.com/punkfulw
-// Time: O(N)
-// Space: O(1)
+```python3
+# OJ: https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/
+# Author: github.com/punkfulw
+# Time: O(N)
+# Space: O(1)
 class Solution:
     def minOperations(self, s: str) -> int:
         d1 = d2 = 0
