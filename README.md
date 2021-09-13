@@ -95,6 +95,7 @@ My C++ Code for LeetCode OJ.
 258 | Add Digits | Easy | [Solution](leetcode/258.%20Add%20Digits)
 260 | Single Number III | Medium | [Solution](leetcode/260.%20Single%20Number%20III)
 263 | Ugly Number | Easy | [Solution](leetcode/263.%20Ugly%20Number)
+278 | First Bad Version | Easy | [Solution](leetcode/278.%20First%20Bad%20Version)
 283 | Move Zeroes | Easy | [Solution](leetcode/283.%20Move%20Zeroes)
 295 | Find Median from Data Stream | Hard | [Solution](leetcode/295.%20Find%20Median%20from%20Data%20Stream)
 300 | Longest Increasing Subsequence | Medium | [Solution](leetcode/300.%20Longest%20Increasing%20Subsequence)
