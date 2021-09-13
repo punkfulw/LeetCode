@@ -1,7 +1,7 @@
-// OJ: https://leetcode.com/problems/slowest-key/
-// Author: github.com/punkfulw
-// Time: O(N)
-// Space: O(1)
+# OJ: https://leetcode.com/problems/slowest-key/
+# Author: github.com/punkfulw
+# Time: O(N)
+# Space: O(1)
 class Solution:
     def slowestKey(self, re: List[int], keys: str) -> str:
         ans, dur = keys[0], re[0]
