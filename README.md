@@ -275,6 +275,7 @@ My C++ Code for LeetCode OJ.
 1337 | The K Weakest Rows in a Matrix | Easy | [Solution](leetcode/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix)
 1339 | Maximum Product of Splitted Binary Tree | Medium | [Solution](leetcode/1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree)
 1342 | Number of Steps to Reduce a Number to Zero | Easy | [Solution](leetcode/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero)
+1347 | Minimum Number of Steps to Make Two Strings Anagram | Medium | [Solution](leetcode/1347.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram)
 1351 | Count Negative Numbers in a Sorted Matrix | Easy | [Solution](leetcode/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix)
 1356 | Sort Integers by The Number of 1 Bits | Easy | [Solution](leetcode/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits)
 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | [Solution](leetcode/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number)
