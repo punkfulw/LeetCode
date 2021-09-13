@@ -61,10 +61,10 @@ public:
 ```
 
 ```python
-// OJ: https://leetcode.com/problems/binary-search/
-// Author: github.com/punkfulw
-// Time: O(logN)
-// Space: O(1)
+# OJ: https://leetcode.com/problems/binary-search/
+# Author: github.com/punkfulw
+# Time: O(logN)
+# Space: O(1)
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
         l, r = 0, len(nums) - 1
