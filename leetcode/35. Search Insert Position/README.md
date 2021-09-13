@@ -59,10 +59,10 @@ public:
 ```
 
 ```python3
-// OJ: https://leetcode.com/problems/search-insert-position/
-// Author: github.com/punkfulw
-// Time: O(logN)
-// Space: O(1)
+# OJ: https://leetcode.com/problems/search-insert-position/
+# Author: github.com/punkfulw
+# Time: O(logN)
+# Space: O(1)
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
         l, r = 0, len(nums) - 1
