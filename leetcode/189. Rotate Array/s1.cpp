@@ -1,6 +1,6 @@
 // OJ: https://leetcode.com/problems/rotate-array/
 // Author: github.com/punkfulw
-// Time: O(N)
+// Time: O(N) 
 // Space: O(N)
 class Solution {
 public:
