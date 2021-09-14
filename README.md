@@ -81,6 +81,7 @@ My C++ Code for LeetCode OJ.
 175 | Combine Two Tables | Easy | [Solution](leetcode/175.%20Combine%20Two%20Tables)
 181 | Employees Earning More Than Their Managers | Easy | [Solution](leetcode/181.%20Employees%20Earning%20More%20Than%20Their%20Managers)
 182 | Duplicate Emails | Easy | [Solution](leetcode/182.%20Duplicate%20Emails)
+189 | Rotate Array | Medium | [Solution](leetcode/189.%20Rotate%20Array)
 191 | Number of 1 Bits | Easy | [Solution](leetcode/191.%20Number%20of%201%20Bits)
 202 | Happy Number | Easy | [Solution](leetcode/202.%20Happy%20Number)
 204 | Count Primes | Easy | [Solution](leetcode/204.%20Count%20Primes)
