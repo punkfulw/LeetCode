@@ -65,6 +65,7 @@ My C++ Code for LeetCode OJ.
 112 | Path Sum | Easy | [Solution](leetcode/112.%20Path%20Sum)
 118 | Pascal's Triangle | Easy | [Solution](leetcode/118.%20Pascal%27s%20Triangle)
 119 | Pascal's Triangle II | Easy | [Solution](leetcode/119.%20Pascal%27s%20Triangle%20II)
+121 | Best Time to Buy and Sell Stock | Easy | [Solution](leetcode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)
 122 | Best Time to Buy and Sell Stock II | Easy | [Solution](leetcode/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)
 128 | Longest Consecutive Sequence | Medium | [Solution](leetcode/128.%20Longest%20Consecutive%20Sequence)
 135 | Candy | Hard | [Solution](leetcode/135.%20Candy)
