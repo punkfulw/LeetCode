@@ -84,6 +84,7 @@ My C++ Code for LeetCode OJ.
 182 | Duplicate Emails | Easy | [Solution](leetcode/182.%20Duplicate%20Emails)
 189 | Rotate Array | Medium | [Solution](leetcode/189.%20Rotate%20Array)
 191 | Number of 1 Bits | Easy | [Solution](leetcode/191.%20Number%20of%201%20Bits)
+198 | House Robber | Medium | [Solution](leetcode/198.%20House%20Robber)
 202 | Happy Number | Easy | [Solution](leetcode/202.%20Happy%20Number)
 204 | Count Primes | Easy | [Solution](leetcode/204.%20Count%20Primes)
 205 | Isomorphic Strings | Easy | [Solution](leetcode/205.%20Isomorphic%20Strings)
