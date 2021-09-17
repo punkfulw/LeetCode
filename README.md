@@ -38,6 +38,7 @@ My C++ Code for LeetCode OJ.
 48 | Rotate Image | Medium | [Solution](leetcode/48.%20Rotate%20Image)
 49 | Group Anagrams | Medium | [Solution](leetcode/49.%20Group%20Anagrams)
 53 | Maximum Subarray | Easy | [Solution](leetcode/53.%20Maximum%20Subarray)
+54 | Spiral Matrix | Medium | [Solution](leetcode/54.%20Spiral%20Matrix)
 59 | Spiral Matrix II | Medium | [Solution](leetcode/59.%20Spiral%20Matrix%20II)
 62 | Unique Paths | Medium | [Solution](leetcode/62.%20Unique%20Paths)
 64 | Minimum Path Sum | Medium | [Solution](leetcode/64.%20Minimum%20Path%20Sum)
