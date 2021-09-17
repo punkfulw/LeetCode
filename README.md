@@ -46,6 +46,7 @@ My C++ Code for LeetCode OJ.
 67 | Add Binary | Easy | [Solution](leetcode/67.%20Add%20Binary)
 70 | Climbing Stairs | Easy | [Solution](leetcode/70.%20Climbing%20Stairs)
 73 | Set Matrix Zeroes | Medium | [Solution](leetcode/73.%20Set%20Matrix%20Zeroes)
+74 | Search a 2D Matrix | Medium | [Solution](leetcode/74.%20Search%20a%202D%20Matrix)
 75 | Sort Colors | Medium | [Solution](leetcode/75.%20Sort%20Colors)
 76 | Minimum Window Substring | Hard | [Solution](leetcode/76.%20Minimum%20Window%20Substring)
 77 | Combinations | Medium | [Solution](leetcode/77.%20Combinations)
