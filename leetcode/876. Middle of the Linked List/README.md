@@ -22,7 +22,7 @@ Since the list has two middle nodes with values 3 and 4, we return the second on
 
 *   The number of nodes in the given list will be between `1` and `100`.
 
-## Solution 1. 
+## Solution 1. two pass
 
 ```cpp
 // OJ: https://leetcode.com/problems/middle-of-the-linked-list/
@@ -63,6 +63,28 @@ public:
         while (fast && fast->next)
             slow = slow->next, fast = fast->next->next;
         return slow;
+    }
+};
+```
+
+## Solution 3. one pass 
+
+```cpp
+// OJ: https://leetcode.com/problems/middle-of-the-linked-list/
+// Author: github.com/punkfulw
+// Time: O(N)
+// Space: O(1)
+class Solution {
+public:
+    ListNode* middleNode(ListNode* head) {
+        bool cnt = true;
+        ListNode* p = head;
+        while (head->next){
+            head = head->next;
+            if (cnt) p = p->next;
+            cnt = !cnt;
+        }
+        return p;
     }
 };
 ```
