@@ -33,6 +33,7 @@ My C++ Code for LeetCode OJ.
 36 | Valid Sudoku | Medium | [Solution](leetcode/36.%20Valid%20Sudoku)
 39 | Combination Sum | Medium | [Solution](leetcode/39.%20Combination%20Sum)
 42 | Trapping Rain Water | Hard | [Solution](leetcode/42.%20Trapping%20Rain%20Water)
+45 | Jump Game II | Medium | [Solution](leetcode/45.%20Jump%20Game%20II)
 46 | Permutations | Medium | [Solution](leetcode/46.%20Permutations)
 47 | Permutations II | Medium | [Solution](leetcode/47.%20Permutations%20II)
 48 | Rotate Image | Medium | [Solution](leetcode/48.%20Rotate%20Image)
