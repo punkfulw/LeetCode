@@ -115,6 +115,7 @@ My C++ Code for LeetCode OJ.
 350 | Intersection of Two Arrays II | Easy | [Solution](leetcode/350.%20Intersection%20of%20Two%20Arrays%20II)
 371 | Sum of Two Integers | Medium | [Solution](leetcode/371.%20Sum%20of%20Two%20Integers)
 378 | Kth Smallest Element in a Sorted Matrix | Medium | [Solution](leetcode/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix)
+383 | Ransom Note | Easy | [Solution](leetcode/383.%20Ransom%20Note)
 384 | Shuffle an Array | Medium | [Solution](leetcode/384.%20Shuffle%20an%20Array)
 387 | First Unique Character in a String | Easy | [Solution](leetcode/387.%20First%20Unique%20Character%20in%20a%20String)
 389 | Find the Difference | Easy | [Solution](leetcode/389.%20Find%20the%20Difference)
