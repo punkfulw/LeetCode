@@ -274,6 +274,7 @@ My C++ Code for LeetCode OJ.
 1260 | Shift 2D Grid | Easy | [Solution](leetcode/1260.%20Shift%202D%20Grid)
 1266 | Minimum Time Visiting All Points | Easy | [Solution](leetcode/1266.%20Minimum%20Time%20Visiting%20All%20Points)
 1268 | Search Suggestions System | Medium | [Solution](leetcode/1268.%20Search%20Suggestions%20System)
+1275 | Find Winner on a Tic Tac Toe Game | Easy | [Solution](leetcode/1275.%20Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game)
 1281 | Subtract the Product and Sum of Digits of an Integer | Easy | [Solution](leetcode/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer)
 1282 | Group the People Given the Group Size They Belong To | Medium | [Solution](leetcode/1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To)
 1286 | Iterator for Combination | Medium | [Solution](leetcode/1286.%20Iterator%20for%20Combination)
