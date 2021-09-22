@@ -3,7 +3,7 @@
 <p>Given the <code>root</code> of a binary tree, return<em> the inorder traversal of its nodes' values.</em></p>
 
 <p><strong>Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2020/09/15/inorder_1.jpg" style="width: 600px; height: 150px;">
+<img alt="" src="https://assets.leetcode.com/uploads/2020/09/15/inorder_1.jpg">
 <pre>
 <strong>Input:</strong> [1,null,2,3]
 <strong>Output:</strong> [1,3,2]
@@ -22,14 +22,14 @@
 </pre>
 
 <p><strong>Example 4:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2020/09/15/inorder_5.jpg" style="width: 600px; height: 150px;">
+<img alt="" src="https://assets.leetcode.com/uploads/2020/09/15/inorder_5.jpg">
 <pre>
 <strong>Input:</strong> root = [1,2]
 <strong>Output:</strong> [2,1]
 </pre>
 
 <p><strong>Example 5:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2020/09/15/inorder_4.jpg" style="width: 600px; height: 150px;">
+<img alt="" src="https://assets.leetcode.com/uploads/2020/09/15/inorder_4.jpg">
 <pre>
 <strong>Input:</strong> root = [2,1]
 <strong>Output:</strong> [1,2]
