@@ -5,7 +5,7 @@ Author: [github.com/punkfulw](https://github.com/punkfulw)
 My C++ Code for LeetCode OJ.
   
  
-\# | Title | Difficulty | Solution
+\# | Title | Difficulty | Solution 
 ---|---|---|---
 1 | Two Sum | Easy | [Solution](leetcode/1.%20Two%20Sum)
 5 | Longest Palindromic Substring | Medium | [Solution](leetcode/5.%20Longest%20Palindromic%20Substring)
