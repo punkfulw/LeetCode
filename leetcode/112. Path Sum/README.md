@@ -6,14 +6,14 @@
 <p>A <b>leaf</b> is a node with no children.</p>
 
 <p><strong>Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/01/18/pathsum1.jpg" style="width: 600px; height: 150px;">
+<img alt="" src="https://assets.leetcode.com/uploads/2021/01/18/pathsum1.jpg">
 <pre>
 <strong>Input:</strong> root = [5,4,8,11,null,13,4,7,2,null,null,null,1], targetSum = 22
 <strong>Output:</strong> true
 </pre>
 
 <p><strong>Example 2:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/01/18/pathsum2.jpg" style="width: 600px; height: 150px;">
+<img alt="" src="https://assets.leetcode.com/uploads/2021/01/18/pathsum2.jpg">
 <pre>
 <strong>Input:</strong> root = [1,2,3], targetSum = 5
 <strong>Output:</strong> false
@@ -62,3 +62,19 @@ public:
     }
 };
 ```
+
+```python3
+# OJ: https://leetcode.com/problems/path-sum/
+# Author: github.com/punkfulw
+# Time: O(N)
+# Space: O(H)
+class Solution:
+    def hasPathSum(self, root: Optional[TreeNode], targetSum: int) -> bool:
+        if root == None:
+            return False
+        targetSum -= root.val
+        if root.left == None and root.right == None and targetSum == 0:
+            return True
+        return self.hasPathSum(root.left, targetSum) or self.hasPathSum(root.right, targetSum)
+```
+
