@@ -1,3 +1,6 @@
+## switching uppercase / lowercase
+char c ^= 32;
+
 ## Dijkstra algo implement
 1976. Number of Ways to Arrive at Destination      
 ```cpp
