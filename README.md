@@ -60,6 +60,7 @@ My C++ Code for LeetCode OJ.
 92 | Reverse Linked List II | Medium | [Solution](leetcode/92.%20Reverse%20Linked%20List%20II)
 94 | Binary Tree Inorder Traversal | Easy | [Solution](leetcode/94.%20Binary%20Tree%20Inorder%20Traversal)
 95 | Unique Binary Search Trees II | Medium | [Solution](leetcode/95.%20Unique%20Binary%20Search%20Trees%20II)
+98 | Validate Binary Search Tree | Medium | [Solution](leetcode/98.%20Validate%20Binary%20Search%20Tree)
 100 | Same Tree | Easy | [Solution](leetcode/100.%20Same%20Tree)
 101 | Symmetric Tree | Easy | [Solution](leetcode/101.%20Symmetric%20Tree)
 102 | Binary Tree Level Order Traversal | Medium | [Solution](leetcode/102.%20Binary%20Tree%20Level%20Order%20Traversal)
