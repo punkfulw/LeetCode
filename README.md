@@ -78,6 +78,7 @@ My C++ Code for LeetCode OJ.
 134 | Gas Station | Medium | [Solution](leetcode/134.%20Gas%20Station)
 135 | Candy | Hard | [Solution](leetcode/135.%20Candy)
 136 | Single Number | Easy | [Solution](leetcode/136.%20Single%20Number)
+138 | Copy List with Random Pointer | Medium | [Solution](leetcode/138.%20Copy%20List%20with%20Random%20Pointer)
 141 | Linked List Cycle | Easy | [Solution](leetcode/141.%20Linked%20List%20Cycle)
 144 | Binary Tree Preorder Traversal | Easy | [Solution](leetcode/144.%20Binary%20Tree%20Preorder%20Traversal)
 145 | Binary Tree Postorder Traversal | Easy | [Solution](leetcode/145.%20Binary%20Tree%20Postorder%20Traversal)
