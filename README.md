@@ -470,3 +470,8 @@ My C++ Code for LeetCode OJ.
 2194 | Cells in a Range on an Excel Sheet | Easy | [Solution](leetcode/2194.%20Cells%20in%20a%20Range%20on%20an%20Excel%20Sheet)
 2195 | Append K Integers With Minimal Sum | Medium | [Solution](leetcode/2195.%20Append%20K%20Integers%20With%20Minimal%20Sum)
 2196 | Create Binary Tree From Descriptions | Medium | [Solution](leetcode/2196.%20Create%20Binary%20Tree%20From%20Descriptions)
+2206 | Divide Array Into Equal Pairs | Easy | [Solution](leetcode/2206.%20Divide%20Array%20Into%20Equal%20Pairs)
+2207 | Maximize Number of Subsequences in a String | Medium | [Solution](leetcode/2207.%20Maximize%20Number%20of%20Subsequences%20in%20a%20String)
+2208 | Minimum Operations to Halve Array Sum | Medium | [Solution](leetcode/2208.%20Minimum%20Operations%20to%20Halve%20Array%20Sum)
+2209 | Minimum White Tiles After Covering With Carpets | Hard | [Solution](leetcode/2209.%20Minimum%20White%20Tiles%20After%20Covering%20With%20Carpets)
+
