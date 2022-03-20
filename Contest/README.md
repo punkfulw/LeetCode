@@ -1,6 +1,6 @@
 
 ## [Biweekly Contest 74  ](https://leetcode.com/contest/biweekly-contest-74)
-![image](https://github.com/punkfulw/LeetCode/blob/main/Contest/Image/Biweekly%20Contest%2074.jpg)
+![image](https://github.com/punkfulw/LeetCode/blob/main/Contest/Image/Biweekly%20Contest%2074.JPG)
 
 ## [Weekly Contest 258  ](https://leetcode.com/contest/weekly-contest-258/)
 ![image](https://github.com/punkfulw/LeetCode/blob/main/Contest/Image/Contest_258.png)
