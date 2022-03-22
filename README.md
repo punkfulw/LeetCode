@@ -378,6 +378,7 @@ My C++ Code for LeetCode OJ.
 1652 | Defuse the Bomb | Easy | [Solution](leetcode/1652.%20Defuse%20the%20Bomb)
 1653 | Minimum Deletions to Make String Balanced | Medium | [Solution](leetcode/1653.%20Minimum%20Deletions%20to%20Make%20String%20Balanced)
 1662 | Check If Two String Arrays are Equivalent | Easy | [Solution](leetcode/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent)
+1663 | Smallest String With A Given Numeric Value | Medium | [Solution](leetcode/1663.%20Smallest%20String%20With%20A%20Given%20Numeric%20Value)
 1664 | Ways to Make a Fair Array | Medium | [Solution](leetcode/1664.%20Ways%20to%20Make%20a%20Fair%20Array)
 1669 | Merge In Between Linked Lists | Medium | [Solution](leetcode/1669.%20Merge%20In%20Between%20Linked%20Lists)
 1672 | Richest Customer Wealth | Easy | [Solution](leetcode/1672.%20Richest%20Customer%20Wealth)
