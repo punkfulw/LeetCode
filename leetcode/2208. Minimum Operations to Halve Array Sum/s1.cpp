@@ -5,9 +5,9 @@
 class Solution {
 public:
     int halveArray(vector<int>& v) {
-        priority_queue<float> nums;
+        priority_queue<double> nums;
         int ans = 0;
-        float sum = 0, cnt = 0;
+        double sum = 0, cnt = 0;
         for (auto i: v)
         {
             sum += i;
@@ -16,13 +16,17 @@ public:
             
         while (cnt * 2 < sum)
         {
-            float cur = nums.top();
+            double cur = nums.top();
             nums.pop();
+            
             cur /= 2;
             cnt += cur;
             nums.push(cur);
+            
             ans++; 
         }
-        return ans;  
+        
+        return ans;
+        
     }
 };
