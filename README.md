@@ -413,6 +413,7 @@ My C++ Code for LeetCode OJ.
 1812 | Determine Color of a Chessboard Square | Easy | [Solution](leetcode/1812.%20Determine%20Color%20of%20a%20Chessboard%20Square)
 1816 | Truncate Sentence | Easy | [Solution](leetcode/1816.%20Truncate%20Sentence)
 1822 | Sign of the Product of an Array | Easy | [Solution](leetcode/1822.%20Sign%20of%20the%20Product%20of%20an%20Array)
+1823 | Find the Winner of the Circular Game | Medium | [Solution](leetcode/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game)
 1827 | Minimum Operations to Make the Array Increasing | Easy | [Solution](leetcode/1827.%20Minimum%20Operations%20to%20Make%20the%20Array%20Increasing)
 1828 | Queries on Number of Points Inside a Circle | Medium | [Solution](leetcode/1828.%20Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle)
 1832 | Check if the Sentence Is Pangram | Easy | [Solution](leetcode/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram)
