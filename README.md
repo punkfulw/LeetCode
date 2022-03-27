@@ -472,6 +472,7 @@ My C++ Code for LeetCode OJ.
 2148 | Count Elements With Strictly Smaller and Greater Elements | Easy | [Solution](leetcode/2148.%20Count%20Elements%20With%20Strictly%20Smaller%20and%20Greater%20Elements)
 2149 | Rearrange Array Elements by Sign | Medium | [Solution](leetcode/2149.%20Rearrange%20Array%20Elements%20by%20Sign)
 2150 | Find All Lonely Numbers in the Array | Medium | [Solution](leetcode/2150.%20Find%20All%20Lonely%20Numbers%20in%20the%20Array)
+2181 | Merge Nodes in Between Zeros | Medium | [Solution](leetcode/2181.%20Merge%20Nodes%20in%20Between%20Zeros)
 2194 | Cells in a Range on an Excel Sheet | Easy | [Solution](leetcode/2194.%20Cells%20in%20a%20Range%20on%20an%20Excel%20Sheet)
 2195 | Append K Integers With Minimal Sum | Medium | [Solution](leetcode/2195.%20Append%20K%20Integers%20With%20Minimal%20Sum)
 2196 | Create Binary Tree From Descriptions | Medium | [Solution](leetcode/2196.%20Create%20Binary%20Tree%20From%20Descriptions)
