@@ -103,7 +103,7 @@ public:
 };
 ```
 
-## Solution 1. only swap val
+## Solution 2. only swap val
 
 ```cpp
 // OJ: https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
