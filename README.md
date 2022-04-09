@@ -125,6 +125,7 @@ My C++ Code for LeetCode OJ.
 318 | Maximum Product of Word Lengths | Medium | [Solution](leetcode/318.%20Maximum%20Product%20of%20Word%20Lengths)
 338 | Counting Bits | Easy | [Solution](leetcode/338.%20Counting%20Bits)
 344 | Reverse String | Easy | [Solution](leetcode/344.%20Reverse%20String)
+347 | Top K Frequent Elements | Medium | [Solution](leetcode/347.%20Top%20K%20Frequent%20Elements)
 349 | Intersection of Two Arrays | Easy | [Solution](leetcode/349.%20Intersection%20of%20Two%20Arrays)
 350 | Intersection of Two Arrays II | Easy | [Solution](leetcode/350.%20Intersection%20of%20Two%20Arrays%20II)
 371 | Sum of Two Integers | Medium | [Solution](leetcode/371.%20Sum%20of%20Two%20Integers)
