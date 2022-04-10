@@ -77,7 +77,7 @@ public:
 };
 ```
 
-## Solution 2.
+## Solution 1.
 
 ```python3
 # OJ: https://leetcode.com/problems/baseball-game/
