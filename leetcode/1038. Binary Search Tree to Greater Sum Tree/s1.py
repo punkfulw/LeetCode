@@ -1,7 +1,7 @@
-// OJ: https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
-// Author: github.com/punkfulw
-// Time: O(N)
-// Space: O(N)
+# OJ: https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
+# Author: github.com/punkfulw
+# Time: O(N)
+# Space: O(N)
 class Solution:
     def bstToGst(self, root: TreeNode) -> TreeNode:
         self.cnt = 0
