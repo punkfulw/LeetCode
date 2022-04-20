@@ -1,6 +1,5 @@
 // OJ: https://leetcode.com/problems/binary-search-tree-iterator/
 // Author: github.com/punkfulw
-// Ref: https://leetcode.com/problems/binary-search-tree-iterator/discuss/52525/My-solutions-in-3-languages-with-Stack
 // Time: O(1) 
 // Space: O(H)
 class BSTIterator {
