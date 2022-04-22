@@ -190,6 +190,7 @@ My C++ Code for LeetCode OJ.
 701 | Insert into a Binary Search Tree | Medium | [Solution](leetcode/701.%20Insert%20into%20a%20Binary%20Search%20Tree)
 703 | Kth Largest Element in a Stream | Easy | [Solution](leetcode/703.%20Kth%20Largest%20Element%20in%20a%20Stream)
 704 | Binary Search | Easy | [Solution](leetcode/704.%20Binary%20Search)
+706 | Design HashMap | Easy | [Solution](leetcode/706.%20Design%20HashMap)
 709 | To Lower Case | Easy | [Solution](leetcode/709.%20To%20Lower%20Case)
 718 | Maximum Length of Repeated Subarray | Medium | [Solution](leetcode/718.%20Maximum%20Length%20of%20Repeated%20Subarray)
 725 | Split Linked List in Parts | Medium | [Solution](leetcode/725.%20Split%20Linked%20List%20in%20Parts)
