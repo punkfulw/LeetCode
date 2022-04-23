@@ -156,6 +156,7 @@ My C++ Code for LeetCode OJ.
 520 | Detect Capital | Easy | [Solution](leetcode/520.%20Detect%20Capital)
 521 | Longest Uncommon Subsequence I | Easy | [Solution](leetcode/521.%20Longest%20Uncommon%20Subsequence%20I)
 530 | Minimum Absolute Difference in BST | Easy | [Solution](leetcode/530.%20Minimum%20Absolute%20Difference%20in%20BST)
+535 | Encode and Decode TinyURL | Medium | [Solution](leetcode/535.%20Encode%20and%20Decode%20TinyURL)
 537 | Complex Number Multiplication | Medium | [Solution](leetcode/537.%20Complex%20Number%20Multiplication)
 538 | Convert BST to Greater Tree | Medium | [Solution](leetcode/538.%20Convert%20BST%20to%20Greater%20Tree)
 542 | 01 Matrix | Medium | [Solution](leetcode/542.%2001%20Matrix)
