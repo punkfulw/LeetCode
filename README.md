@@ -333,6 +333,7 @@ My C++ Code for LeetCode OJ.
 1389 | Create Target Array in the Given Order | Easy | [Solution](leetcode/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order)
 1394 | Find Lucky Integer in an Array | Easy | [Solution](leetcode/1394.%20Find%20Lucky%20Integer%20in%20an%20Array)
 1395 | Count Number of Teams | Medium | [Solution](leetcode/1395.%20Count%20Number%20of%20Teams)
+1396 | Design Underground System | Medium | [Solution](leetcode/1396.%20Design%20Underground%20System)
 1399 | Count Largest Group | Easy | [Solution](leetcode/1399.%20Count%20Largest%20Group)
 1400 | Construct K Palindrome Strings | Medium | [Solution](leetcode/1400.%20Construct%20K%20Palindrome%20Strings)
 1402 | Reducing Dishes | Hard | [Solution](leetcode/1402.%20Reducing%20Dishes)
