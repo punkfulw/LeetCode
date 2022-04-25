@@ -120,6 +120,7 @@ My C++ Code for LeetCode OJ.
 263 | Ugly Number | Easy | [Solution](leetcode/263.%20Ugly%20Number)
 278 | First Bad Version | Easy | [Solution](leetcode/278.%20First%20Bad%20Version)
 283 | Move Zeroes | Easy | [Solution](leetcode/283.%20Move%20Zeroes)
+284 | Peeking Iterator | Medium | [Solution](leetcode/284.%20Peeking%20Iterator)
 289 | Game of Life | Medium | [Solution](leetcode/289.%20Game%20of%20Life)
 295 | Find Median from Data Stream | Hard | [Solution](leetcode/295.%20Find%20Median%20from%20Data%20Stream)
 300 | Longest Increasing Subsequence | Medium | [Solution](leetcode/300.%20Longest%20Increasing%20Subsequence)
