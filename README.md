@@ -376,6 +376,7 @@ My C++ Code for LeetCode OJ.
 1561 | Maximum Number of Coins You Can Get | Medium | [Solution](leetcode/1561.%20Maximum%20Number%20of%20Coins%20You%20Can%20Get)
 1572 | Matrix Diagonal Sum | Easy | [Solution](leetcode/1572.%20Matrix%20Diagonal%20Sum)
 1582 | Special Positions in a Binary Matrix | Easy | [Solution](leetcode/1582.%20Special%20Positions%20in%20a%20Binary%20Matrix)
+1584 | Min Cost to Connect All Points | Medium | [Solution](leetcode/1584.%20Min%20Cost%20to%20Connect%20All%20Points)
 1588 | Sum of All Odd Length Subarrays | Easy | [Solution](leetcode/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays)
 1598 | Crawler Log Folder | Easy | [Solution](leetcode/1598.%20Crawler%20Log%20Folder)
 1603 | Design Parking System | Easy | [Solution](leetcode/1603.%20Design%20Parking%20System)
