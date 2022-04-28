@@ -387,6 +387,7 @@ My C++ Code for LeetCode OJ.
 1615 | Maximal Network Rank | Medium | [Solution](leetcode/1615.%20Maximal%20Network%20Rank)
 1619 | Mean of Array After Removing Some Elements | Easy | [Solution](leetcode/1619.%20Mean%20of%20Array%20After%20Removing%20Some%20Elements)
 1629 | Slowest Key | Easy | [Solution](leetcode/1629.%20Slowest%20Key)
+1631 | Path With Minimum Effort | Medium | [Solution](leetcode/1631.%20Path%20With%20Minimum%20Effort)
 1636 | Sort Array by Increasing Frequency | Easy | [Solution](leetcode/1636.%20Sort%20Array%20by%20Increasing%20Frequency)
 1637 | Widest Vertical Area Between Two Points Containing No Points | Medium | [Solution](leetcode/1637.%20Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points)
 1641 | Count Sorted Vowel Strings | Medium | [Solution](leetcode/1641.%20Count%20Sorted%20Vowel%20Strings)
