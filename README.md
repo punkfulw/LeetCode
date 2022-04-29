@@ -206,6 +206,7 @@ My C++ Code for LeetCode OJ.
 771 | Jewels and Stones | Easy | [Solution](leetcode/771.%20Jewels%20and%20Stones)
 781 | Rabbits in Forest | Medium | [Solution](leetcode/781.%20Rabbits%20in%20Forest)
 784 | Letter Case Permutation | Easy | [Solution](leetcode/784.%20Letter%20Case%20Permutation)
+785 | Is Graph Bipartite? | Medium | [Solution](leetcode/785.%20Is%20Graph%20Bipartite%3F)
 791 | Custom Sort String | Medium | [Solution](leetcode/791.%20Custom%20Sort%20String)
 792 | Number of Matching Subsequences | Medium | [Solution](leetcode/792.%20Number%20of%20Matching%20Subsequences)
 795 | Number of Subarrays with Bounded Maximum | Medium | [Solution](leetcode/795.%20Number%20of%20Subarrays%20with%20Bounded%20Maximum)
