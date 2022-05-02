@@ -100,6 +100,7 @@ My C++ Code for LeetCode OJ.
 189 | Rotate Array | Medium | [Solution](leetcode/189.%20Rotate%20Array)
 191 | Number of 1 Bits | Easy | [Solution](leetcode/191.%20Number%20of%201%20Bits)
 198 | House Robber | Medium | [Solution](leetcode/198.%20House%20Robber)
+200 | Number of Islands | Medium | [Solution](leetcode/200.%20Number%20of%20Islands)
 202 | Happy Number | Easy | [Solution](leetcode/202.%20Happy%20Number)
 203 | Remove Linked List Elements | Easy | [Solution](leetcode/203.%20Remove%20Linked%20List%20Elements)
 204 | Count Primes | Easy | [Solution](leetcode/204.%20Count%20Primes)
