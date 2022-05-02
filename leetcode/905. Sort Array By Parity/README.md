@@ -30,7 +30,7 @@ The outputs [4,2,3,1], [2,4,1,3], and [4,2,1,3] would also be accepted.
 // OJ: https://leetcode.com/problems/sort-array-by-parity/
 // Author: github.com/punkfulw
 // Time: O(N)
-// Space: O(1)
+// Space: O(N)
 class Solution {
 public:
     vector<int> sortArrayByParity(vector<int>& A) {
@@ -44,4 +44,42 @@ public:
         return ans;        
     }
 };
+```
+
+
+## Solution 2.  In place
+
+```cpp
+// OJ: https://leetcode.com/problems/sort-array-by-parity/
+// Author: github.com/punkfulw
+// Time: O(N)
+// Space: O(1)
+class Solution {
+public:
+    vector<int> sortArrayByParity(vector<int>& nums) {
+        int i = 0, j = 0, n = nums.size();
+        
+        for (int i = 0, j = 0; j < n; j++)
+            if (nums[j] % 2 == 0)
+                swap(nums[i++], nums[j]);
+        return nums;
+    }
+};
+```
+
+## Solution 2.  In place -py
+
+```python3
+# OJ: https://leetcode.com/problems/sort-array-by-parity/
+# Author: github.com/punkfulw
+# Time: O(N)
+# Space: O(1)
+class Solution:
+    def sortArrayByParity(self, nums: List[int]) -> List[int]:
+        i = 0
+        for j, num in enumerate(nums):
+            if num % 2 == 0:
+                nums[i], nums[j] = nums[j], nums[i]
+                i += 1
+        return nums
 ```
