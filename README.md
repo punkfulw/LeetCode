@@ -169,6 +169,7 @@ My C++ Code for LeetCode OJ.
 565 | Array Nesting | Medium | [Solution](leetcode/565.%20Array%20Nesting)
 566 | Reshape the Matrix | Easy | [Solution](leetcode/566.%20Reshape%20the%20Matrix)
 575 | Distribute Candies | Easy | [Solution](leetcode/575.%20Distribute%20Candies)
+581 | Shortest Unsorted Continuous Subarray | Medium | [Solution](leetcode/581.%20Shortest%20Unsorted%20Continuous%20Subarray)
 583 | Delete Operation for Two Strings | Medium | [Solution](leetcode/583.%20Delete%20Operation%20for%20Two%20Strings)
 598 | Range Addition II | Easy | [Solution](leetcode/598.%20Range%20Addition%20II)
 600 | Non-negative Integers without Consecutive Ones | Hard | [Solution](leetcode/600.%20Non-negative%20Integers%20without%20Consecutive%20Ones)
