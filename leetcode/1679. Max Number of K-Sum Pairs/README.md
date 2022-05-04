@@ -106,12 +106,12 @@ public:
 
 ## Solution 2. One Pass -py
 
-```cpp
-// OJ: https://leetcode.com/problems/max-number-of-k-sum-pairs/
-// Author: github.com/punkfulw
-// Ref: https://leetcode.com/problems/max-number-of-k-sum-pairs/discuss/1023235/C%2B%2B4-approaches-a-variation-of-two-sum
-// Time: O(N)
-// Space: O(N)
+```python3
+# OJ: https://leetcode.com/problems/max-number-of-k-sum-pairs/
+# Author: github.com/punkfulw
+# Ref: https://leetcode.com/problems/max-number-of-k-sum-pairs/discuss/1023235/C%2B%2B4-approaches-a-variation-of-two-sum
+# Time: O(N)
+# Space: O(N)
 class Solution:
     def maxOperations(self, nums: List[int], k: int) -> int:
         mp = defaultdict(int)
