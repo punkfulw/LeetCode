@@ -405,6 +405,7 @@ My C++ Code for LeetCode OJ.
 1669 | Merge In Between Linked Lists | Medium | [Solution](leetcode/1669.%20Merge%20In%20Between%20Linked%20Lists)
 1672 | Richest Customer Wealth | Easy | [Solution](leetcode/1672.%20Richest%20Customer%20Wealth)
 1678 | Goal Parser Interpretation | Easy | [Solution](leetcode/1678.%20Goal%20Parser%20Interpretation)
+1679 | Max Number of K-Sum Pairs | Medium | [Solution](leetcode/1679.%20Max%20Number%20of%20K-Sum%20Pairs)
 1684 | Count the Number of Consistent Strings | Easy | [Solution](leetcode/1684.%20Count%20the%20Number%20of%20Consistent%20Strings)
 1688 | Count of Matches in Tournament | Easy | [Solution](leetcode/1688.%20Count%20of%20Matches%20in%20Tournament)
 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Medium | [Solution](leetcode/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers)
