@@ -109,6 +109,7 @@ My C++ Code for LeetCode OJ.
 208 | Implement Trie (Prefix Tree) | Medium | [Solution](leetcode/208.%20Implement%20Trie%20%28Prefix%20Tree%29)
 213 | House Robber II | Medium | [Solution](leetcode/213.%20House%20Robber%20II)
 217 | Contains Duplicate | Easy | [Solution](leetcode/217.%20Contains%20Duplicate)
+225 | Implement Stack using Queues | Easy | [Solution](leetcode/225.%20Implement%20Stack%20using%20Queues)
 226 | Invert Binary Tree | Easy | [Solution](leetcode/226.%20Invert%20Binary%20Tree)
 230 | Kth Smallest Element in a BST | Medium | [Solution](leetcode/230.%20Kth%20Smallest%20Element%20in%20a%20BST)
 232 | Implement Queue using Stacks | Easy | [Solution](leetcode/232.%20Implement%20Queue%20using%20Stacks)
