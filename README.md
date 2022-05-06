@@ -297,6 +297,7 @@ My C++ Code for LeetCode OJ.
 1200 | Minimum Absolute Difference | Easy | [Solution](leetcode/1200.%20Minimum%20Absolute%20Difference)
 1202 | Smallest String With Swaps | Medium | [Solution](leetcode/1202.%20Smallest%20String%20With%20Swaps)
 1207 | Unique Number of Occurrences | Easy | [Solution](leetcode/1207.%20Unique%20Number%20of%20Occurrences)
+1209 | Remove All Adjacent Duplicates in String II | Medium | [Solution](leetcode/1209.%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II)
 1217 | Minimum Cost to Move Chips to The Same Position | Easy | [Solution](leetcode/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position)
 1219 | Path with Maximum Gold | Medium | [Solution](leetcode/1219.%20Path%20with%20Maximum%20Gold)
 1220 | Count Vowels Permutation | Hard | [Solution](leetcode/1220.%20Count%20Vowels%20Permutation)
