@@ -52,7 +52,7 @@ Islands in gray are closed because they are completely surrounded by water (grou
 // OJ: https://leetcode.com/problems/number-of-closed-islands/
 // Author: github.com/punkfulw
 // Time: O(MN)
-// Space: O(1)
+// Space: O(MN)
 class Solution {
 public:
     int n, m , ans = 0;
