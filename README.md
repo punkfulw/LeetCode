@@ -503,6 +503,7 @@ My C++ Code for LeetCode OJ.
 1996 | The Number of Weak Characters in the Game | Medium | [Solution](leetcode/1996.%20The%20Number%20of%20Weak%20Characters%20in%20the%20Game)
 2000 | Reverse Prefix of Word | Easy | [Solution](leetcode/2000.%20Reverse%20Prefix%20of%20Word)
 2001 | Number of Pairs of Interchangeable Rectangles | Medium | [Solution](leetcode/2001.%20Number%20of%20Pairs%20of%20Interchangeable%20Rectangles)
+2125 | Number of Laser Beams in a Bank | Medium | [Solution](leetcode/2125.%20Number%20of%20Laser%20Beams%20in%20a%20Bank)
 2148 | Count Elements With Strictly Smaller and Greater Elements | Easy | [Solution](leetcode/2148.%20Count%20Elements%20With%20Strictly%20Smaller%20and%20Greater%20Elements)
 2149 | Rearrange Array Elements by Sign | Medium | [Solution](leetcode/2149.%20Rearrange%20Array%20Elements%20by%20Sign)
 2150 | Find All Lonely Numbers in the Array | Medium | [Solution](leetcode/2150.%20Find%20All%20Lonely%20Numbers%20in%20the%20Array)
