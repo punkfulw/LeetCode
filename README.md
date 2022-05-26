@@ -518,4 +518,5 @@ My C++ Code for LeetCode OJ.
 2225 | Find Players With Zero or One Losses | Medium | [Solution](leetcode/2225.%20Find%20Players%20With%20Zero%20or%20One%20Losses)
 2226 | Maximum Candies Allocated to K Children | Medium | [Solution](leetcode/2226.%20Maximum%20Candies%20Allocated%20to%20K%20Children)
 2227 | Encrypt and Decrypt Strings | Hard | [Solution](leetcode/2227.%20Encrypt%20and%20Decrypt%20Strings)
+2255 | Count Prefixes of a Given String | Easy | [Solution](leetcode/2255.%20Count%20Prefixes%20of%20a%20Given%20String)
 
