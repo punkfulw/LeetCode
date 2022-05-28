@@ -123,6 +123,7 @@ My C++ Code for LeetCode OJ.
 258 | Add Digits | Easy | [Solution](leetcode/258.%20Add%20Digits)
 260 | Single Number III | Medium | [Solution](leetcode/260.%20Single%20Number%20III)
 263 | Ugly Number | Easy | [Solution](leetcode/263.%20Ugly%20Number)
+268 | Missing Number | Easy | [Solution](leetcode/268.%20Missing%20Number)
 278 | First Bad Version | Easy | [Solution](leetcode/278.%20First%20Bad%20Version)
 283 | Move Zeroes | Easy | [Solution](leetcode/283.%20Move%20Zeroes)
 284 | Peeking Iterator | Medium | [Solution](leetcode/284.%20Peeking%20Iterator)
