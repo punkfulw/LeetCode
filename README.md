@@ -214,6 +214,7 @@ My C++ Code for LeetCode OJ.
 763 | Partition Labels | Medium | [Solution](leetcode/763.%20Partition%20Labels)
 766 | Toeplitz Matrix | Easy | [Solution](leetcode/766.%20Toeplitz%20Matrix)
 771 | Jewels and Stones | Easy | [Solution](leetcode/771.%20Jewels%20and%20Stones)
+778 | Swim in Rising Water | Hard | [Solution](leetcode/778.%20Swim%20in%20Rising%20Water)
 781 | Rabbits in Forest | Medium | [Solution](leetcode/781.%20Rabbits%20in%20Forest)
 784 | Letter Case Permutation | Easy | [Solution](leetcode/784.%20Letter%20Case%20Permutation)
 785 | Is Graph Bipartite? | Medium | [Solution](leetcode/785.%20Is%20Graph%20Bipartite%3F)
