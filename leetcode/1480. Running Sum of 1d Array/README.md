@@ -54,3 +54,53 @@ public:
     }
 };
 ```
+
+## Solution 2. -2022
+
+```cpp
+// OJ: https://leetcode.com/problems/running-sum-of-1d-array/
+// Author: github.com/punkfulw
+// Time: O(N)
+// Space: O(1)
+class Solution {
+public:
+    vector<int> runningSum(vector<int>& nums) {
+        for (int i = 1; i < nums.size(); i++)
+            nums[i] += nums[i - 1];
+        return nums;
+    }
+};
+```
+
+
+## Solution 3. -2022
+
+```cpp
+// OJ: https://leetcode.com/problems/running-sum-of-1d-array/
+// Author: github.com/punkfulw
+// Time: O(N)
+// Space: O(1)
+class Solution {
+public:
+    vector<int> runningSum(vector<int>& nums) {
+        partial_sum(nums.begin(), nums.end(), nums.begin());
+        return nums;
+    }
+};
+```
+
+
+## Solution 3. -py
+
+```python3
+# OJ: https://leetcode.com/problems/running-sum-of-1d-array/
+# Author: github.com/punkfulw
+# Time: O(N)
+# Space: O(1)
+class Solution:
+    def runningSum(self, nums: List[int]) -> List[int]:
+        return accumulate(nums)
+```
+
+
+
