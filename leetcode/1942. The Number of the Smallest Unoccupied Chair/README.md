@@ -53,7 +53,7 @@ Since friend 0 sat on chair 2, we return 2.
 </ul>
 
 
-## Solution 1. two priority_queue
+## Solution 1. Two Priority_queue
 
 ```cpp
 // OJ: https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/
