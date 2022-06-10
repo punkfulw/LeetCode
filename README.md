@@ -8,6 +8,7 @@ My C++ Code for LeetCode OJ.
 \# | Title | Difficulty | Solution 
 ---|---|---|---
 1 | Two Sum | Easy | [Solution](leetcode/1.%20Two%20Sum)
+3 | Longest Substring Without Repeating Characters | Medium | [Solution](leetcode/3.%20Longest%20Substring%20Without%20Repeating%20Characters)
 5 | Longest Palindromic Substring | Medium | [Solution](leetcode/5.%20Longest%20Palindromic%20Substring)
 6 | ZigZag Conversion | Medium | [Solution](leetcode/6.%20ZigZag%20Conversion)
 7 | Reverse Integer | Easy | [Solution](leetcode/7.%20Reverse%20Integer)
