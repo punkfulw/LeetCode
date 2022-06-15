@@ -531,6 +531,7 @@ My C++ Code for LeetCode OJ.
 2207 | Maximize Number of Subsequences in a String | Medium | [Solution](leetcode/2207.%20Maximize%20Number%20of%20Subsequences%20in%20a%20String)
 2208 | Minimum Operations to Halve Array Sum | Medium | [Solution](leetcode/2208.%20Minimum%20Operations%20to%20Halve%20Array%20Sum)
 2209 | Minimum White Tiles After Covering With Carpets | Hard | [Solution](leetcode/2209.%20Minimum%20White%20Tiles%20After%20Covering%20With%20Carpets)
+2212 | Maximum Points in an Archery Competition | Medium | [Solution](leetcode/2212.%20Maximum%20Points%20in%20an%20Archery%20Competition)
 2224 | Minimum Number of Operations to Convert Time | Easy | [Solution](leetcode/2224.%20Minimum%20Number%20of%20Operations%20to%20Convert%20Time)
 2225 | Find Players With Zero or One Losses | Medium | [Solution](leetcode/2225.%20Find%20Players%20With%20Zero%20or%20One%20Losses)
 2226 | Maximum Candies Allocated to K Children | Medium | [Solution](leetcode/2226.%20Maximum%20Candies%20Allocated%20to%20K%20Children)
