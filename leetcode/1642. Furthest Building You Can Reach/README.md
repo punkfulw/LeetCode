@@ -52,30 +52,32 @@ It is impossible to go beyond building 4 because you do not have any more bricks
 **Related Topics**:  
 [Binary Search](https://leetcode.com/tag/binary-search/), [Heap](https://leetcode.com/tag/heap/)
 
-## Solution 1. Min heap
+## Solution 1. Min heap -2022
 
 ```cpp
 // OJ: https://leetcode.com/problems/furthest-building-you-can-reach/
 // Author: github.com/punkfulw
-// Reference: https://leetcode.com/problems/furthest-building-you-can-reach/discuss/918515/JavaC%2B%2BPython-Priority-Queue
 // Time: O(NlogL)
 // Space: O(L)
 class Solution {
 public:
-        int furthestBuilding(vector<int>& A, int bricks, int ladders) {
-            priority_queue<int> pq;
-            for (int i = 0; i < A.size() - 1; i++) {
-                int d = A[i + 1] - A[i];
-                if (d > 0)
-                    pq.push(-d);
-                if (pq.size() > ladders) {
-                    bricks += pq.top();
-                    pq.pop();
-                }
-                if (bricks < 0)
-                    return i;
+    int furthestBuilding(vector<int>& h, int bricks, int ladders) {
+        int n = h.size(), i = 0;
+        priority_queue<int> pq;
+        
+        for (; i < n - 1; i++){
+            int dif = h[i + 1] - h[i];
+            if (dif <= 0) 
+                continue;
+            pq.push(-dif);
+            while (pq.size() > ladders){
+                int change = pq.top(); pq.pop();
+                bricks += change;
             }
-            return A.size() - 1;
-        } 
+            if (bricks < 0)
+                break;
+        }
+        return i;
+    }
 };
 ```
