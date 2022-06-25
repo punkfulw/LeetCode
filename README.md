@@ -195,6 +195,7 @@ My C++ Code for LeetCode OJ.
 654 | Maximum Binary Tree | Medium | [Solution](leetcode/654.%20Maximum%20Binary%20Tree)
 657 | Robot Return to Origin | Easy | [Solution](leetcode/657.%20Robot%20Return%20to%20Origin)
 658 | Find K Closest Elements | Medium | [Solution](leetcode/658.%20Find%20K%20Closest%20Elements)
+665 | Non-decreasing Array | Easy | [Solution](leetcode/665.%20Non-decreasing%20Array)
 669 | Trim a Binary Search Tree | Medium | [Solution](leetcode/669.%20Trim%20a%20Binary%20Search%20Tree)
 677 | Map Sum Pairs | Medium | [Solution](leetcode/677.%20Map%20Sum%20Pairs)
 680 | Valid Palindrome II | Easy | [Solution](leetcode/680.%20Valid%20Palindrome%20II)
