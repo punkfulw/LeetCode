@@ -155,6 +155,7 @@ My C++ Code for LeetCode OJ.
 389 | Find the Difference | Easy | [Solution](leetcode/389.%20Find%20the%20Difference)
 398 | Random Pick Index | Medium | [Solution](leetcode/398.%20Random%20Pick%20Index)
 399 | Evaluate Division | Medium | [Solution](leetcode/399.%20Evaluate%20Division)
+406 | Queue Reconstruction by Height | Medium | [Solution](leetcode/406.%20Queue%20Reconstruction%20by%20Height)
 409 | Longest Palindrome | Easy | [Solution](leetcode/409.%20Longest%20Palindrome)
 412 | Fizz Buzz | Easy | [Solution](leetcode/412.%20Fizz%20Buzz)
 413 | Arithmetic Slices | Medium | [Solution](leetcode/413.%20Arithmetic%20Slices)
