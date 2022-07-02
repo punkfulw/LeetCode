@@ -298,6 +298,7 @@ My C++ Code for LeetCode OJ.
 1046 | Last Stone Weight | Easy | [Solution](leetcode/1046.%20Last%20Stone%20Weight)
 1047 | Remove All Adjacent Duplicates In String | Easy | [Solution](leetcode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String)
 1051 | Height Checker | Easy | [Solution](leetcode/1051.%20Height%20Checker)
+1052 | Grumpy Bookstore Owner | Medium | [Solution](leetcode/1052.%20Grumpy%20Bookstore%20Owner)
 1078 | Occurrences After Bigram | Easy | [Solution](leetcode/1078.%20Occurrences%20After%20Bigram)
 1089 | Duplicate Zeros | Easy | [Solution](leetcode/1089.%20Duplicate%20Zeros)
 1091 | Shortest Path in Binary Matrix | Medium | [Solution](leetcode/1091.%20Shortest%20Path%20in%20Binary%20Matrix)
