@@ -9,7 +9,7 @@
 
 
 <p><strong>Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2020/05/14/leetcode_max_area_2.png" style="width: 600px; height: 150px;">
+<img alt="" src="https://assets.leetcode.com/uploads/2020/05/14/leetcode_max_area_2.png">
 <pre>
 <strong>Input:</strong> h = 5, w = 4, horizontalCuts = [1,2,4], verticalCuts = [1,3]
 <strong>Output:</strong> 4
@@ -18,7 +18,7 @@ After you cut the cake, the green piece of cake has the maximum area.
 </pre>
 
 <p><strong>Example 2:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2020/05/14/leetcode_max_area_3.png" style="width: 600px; height: 150px;">
+<img alt="" src="https://assets.leetcode.com/uploads/2020/05/14/leetcode_max_area_3.png">
 <pre>
 <strong>Input:</strong> h = 5, w = 4, horizontalCuts = [3,1], verticalCuts = [1]
 <strong>Output:</strong> 6
@@ -77,6 +77,32 @@ public:
         return (long)v * hi % 1000000007;
     }
 };
+```
 
+## Solution 1. -2022
+
+```cpp
+// OJ: https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
+// Author: github.com/punkfulw
+// Time: O(NlogN)
+// Space: O(1)
+class Solution {
+public:
+    void get_cut(int n, vector<int> &nums, int &ret){
+        ret = max(nums[0], n - nums[nums.size() - 1]);
+        for (int i = 1; i < nums.size(); i++)
+            ret = max(ret, nums[i] - nums[i - 1]);
+    }
+    int maxArea(int h, int w, vector<int>& hCuts, vector<int>& vCuts) {
+        const int MOD = 1e9 + 7;
+        int height = 0, weight = 0;
+        sort(hCuts.begin(), hCuts.end());
+        sort(vCuts.begin(), vCuts.end());
+        
+        get_cut(h, hCuts, height);
+        get_cut(w, vCuts, weight);
+        return (long)height * weight % MOD;
+    }
+};
 ```
 
