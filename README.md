@@ -191,6 +191,7 @@ My C++ Code for LeetCode OJ.
 600 | Non-negative Integers without Consecutive Ones | Hard | [Solution](leetcode/600.%20Non-negative%20Integers%20without%20Consecutive%20Ones)
 611 | Valid Triangle Number | Medium | [Solution](leetcode/611.%20Valid%20Triangle%20Number)
 617 | Merge Two Binary Trees | Easy | [Solution](leetcode/617.%20Merge%20Two%20Binary%20Trees)
+623 | Add One Row to Tree | Medium | [Solution](leetcode/623.%20Add%20One%20Row%20to%20Tree)
 630 | Course Schedule III | Hard | [Solution](leetcode/630.%20Course%20Schedule%20III)
 633 | Sum of Square Numbers | Medium | [Solution](leetcode/633.%20Sum%20of%20Square%20Numbers)
 637 | Average of Levels in Binary Tree | Easy | [Solution](leetcode/637.%20Average%20of%20Levels%20in%20Binary%20Tree)
