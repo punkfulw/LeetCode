@@ -316,6 +316,7 @@ My C++ Code for LeetCode OJ.
 1185 | Day of the Week | Easy | [Solution](leetcode/1185.%20Day%20of%20the%20Week)
 1189 | Maximum Number of Balloons | Easy | [Solution](leetcode/1189.%20Maximum%20Number%20of%20Balloons)
 1190 | Reverse Substrings Between Each Pair of Parentheses | Medium | [Solution](leetcode/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses)
+1191 | K-Concatenation Maximum Sum | Medium | [Solution](leetcode/1191.%20K-Concatenation%20Maximum%20Sum)
 1200 | Minimum Absolute Difference | Easy | [Solution](leetcode/1200.%20Minimum%20Absolute%20Difference)
 1202 | Smallest String With Swaps | Medium | [Solution](leetcode/1202.%20Smallest%20String%20With%20Swaps)
 1207 | Unique Number of Occurrences | Easy | [Solution](leetcode/1207.%20Unique%20Number%20of%20Occurrences)
