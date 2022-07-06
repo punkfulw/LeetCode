@@ -12,3 +12,4 @@ public:
         return convertToBase7(num / 7) + convertToBase7(num % 7);
     }
 };
+ 
