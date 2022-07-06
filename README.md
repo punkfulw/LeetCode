@@ -170,6 +170,7 @@ My C++ Code for LeetCode OJ.
 476 | Number Complement | Easy | [Solution](leetcode/476.%20Number%20Complement)
 477 | Total Hamming Distance | Medium | [Solution](leetcode/477.%20Total%20Hamming%20Distance)
 500 | Keyboard Row | Easy | [Solution](leetcode/500.%20Keyboard%20Row)
+504 | Base 7 | Easy | [Solution](leetcode/504.%20Base%207)
 509 | Fibonacci Number | Easy | [Solution](leetcode/509.%20Fibonacci%20Number)
 515 | Find Largest Value in Each Tree Row | Medium | [Solution](leetcode/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row)
 520 | Detect Capital | Easy | [Solution](leetcode/520.%20Detect%20Capital)
