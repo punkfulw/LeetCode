@@ -6,7 +6,7 @@
 <p><strong>Example 1:</strong></p>
 
 <pre><strong>Input:</strong> target = 7, nums = [2,3,1,2,4,3]
-<strong>Output:</strong> 2
+<strong>Output:</strong> 2 
 <strong>Explanation:</strong> The subarray [4,3] has the minimal length under the problem constraint.
 </pre>
 
