@@ -8,7 +8,7 @@ Given binary tree <code>[3,9,20,null,null,15,7]</code>,<br>
 </p><pre>    3
    / \
   9  20
-    /  \
+    /  \ 
    15   7
 </pre>
 <p></p>
