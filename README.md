@@ -291,6 +291,7 @@ My C++ Code for LeetCode OJ.
 958 | Check Completeness of a Binary Tree | Medium | [Solution](leetcode/958.%20Check%20Completeness%20of%20a%20Binary%20Tree)
 961 | N-Repeated Element in Size 2N Array | Easy | [Solution](leetcode/961.%20N-Repeated%20Element%20in%20Size%202N%20Array)
 965 | Univalued Binary Tree | Easy | [Solution](leetcode/965.%20Univalued%20Binary%20Tree)
+969 | Pancake Sorting | Medium | [Solution](leetcode/969.%20Pancake%20Sorting)
 970 | Powerful Integers | Medium | [Solution](leetcode/970.%20Powerful%20Integers)
 977 | Squares of a Sorted Array | Easy | [Solution](leetcode/977.%20Squares%20of%20a%20Sorted%20Array)
 978 | Longest Turbulent Subarray | Medium | [Solution](leetcode/978.%20Longest%20Turbulent%20Subarray)
