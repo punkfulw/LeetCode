@@ -159,6 +159,7 @@ My C++ Code for LeetCode OJ.
 378 | Kth Smallest Element in a Sorted Matrix | Medium | [Solution](leetcode/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix)
 383 | Ransom Note | Easy | [Solution](leetcode/383.%20Ransom%20Note)
 384 | Shuffle an Array | Medium | [Solution](leetcode/384.%20Shuffle%20an%20Array)
+386 | Lexicographical Numbers | Medium | [Solution](leetcode/386.%20Lexicographical%20Numbers)
 387 | First Unique Character in a String | Easy | [Solution](leetcode/387.%20First%20Unique%20Character%20in%20a%20String)
 389 | Find the Difference | Easy | [Solution](leetcode/389.%20Find%20the%20Difference)
 398 | Random Pick Index | Medium | [Solution](leetcode/398.%20Random%20Pick%20Index)
