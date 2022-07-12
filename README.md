@@ -479,6 +479,7 @@ My C++ Code for LeetCode OJ.
 1792 | Maximum Average Pass Ratio | Medium | [Solution](leetcode/1792.%20Maximum%20Average%20Pass%20Ratio)
 1800 | Maximum Ascending Subarray Sum | Easy | [Solution](leetcode/1800.%20Maximum%20Ascending%20Subarray%20Sum)
 1806 | Minimum Number of Operations to Reinitialize a Permutation | Medium | [Solution](leetcode/1806.%20Minimum%20Number%20of%20Operations%20to%20Reinitialize%20a%20Permutation)
+1807 | Evaluate the Bracket Pairs of a String | Medium | [Solution](leetcode/1807.%20Evaluate%20the%20Bracket%20Pairs%20of%20a%20String)
 1812 | Determine Color of a Chessboard Square | Easy | [Solution](leetcode/1812.%20Determine%20Color%20of%20a%20Chessboard%20Square)
 1816 | Truncate Sentence | Easy | [Solution](leetcode/1816.%20Truncate%20Sentence)
 1822 | Sign of the Product of an Array | Easy | [Solution](leetcode/1822.%20Sign%20of%20the%20Product%20of%20an%20Array)
