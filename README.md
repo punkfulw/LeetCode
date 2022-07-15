@@ -238,6 +238,7 @@ My C++ Code for LeetCode OJ.
 762 | Prime Number of Set Bits in Binary Representation | Easy | [Solution](leetcode/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation)
 763 | Partition Labels | Medium | [Solution](leetcode/763.%20Partition%20Labels)
 766 | Toeplitz Matrix | Easy | [Solution](leetcode/766.%20Toeplitz%20Matrix)
+769 | Max Chunks To Make Sorted | Medium | [Solution](leetcode/769.%20Max%20Chunks%20To%20Make%20Sorted)
 771 | Jewels and Stones | Easy | [Solution](leetcode/771.%20Jewels%20and%20Stones)
 778 | Swim in Rising Water | Hard | [Solution](leetcode/778.%20Swim%20in%20Rising%20Water)
 781 | Rabbits in Forest | Medium | [Solution](leetcode/781.%20Rabbits%20in%20Forest)
