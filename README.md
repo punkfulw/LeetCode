@@ -165,6 +165,7 @@ My C++ Code for LeetCode OJ.
 392 | Is Subsequence | Easy | [Solution](leetcode/392.%20Is%20Subsequence)
 398 | Random Pick Index | Medium | [Solution](leetcode/398.%20Random%20Pick%20Index)
 399 | Evaluate Division | Medium | [Solution](leetcode/399.%20Evaluate%20Division)
+404 | Sum of Left Leaves | Easy | [Solution](leetcode/404.%20Sum%20of%20Left%20Leaves)
 406 | Queue Reconstruction by Height | Medium | [Solution](leetcode/406.%20Queue%20Reconstruction%20by%20Height)
 409 | Longest Palindrome | Easy | [Solution](leetcode/409.%20Longest%20Palindrome)
 412 | Fizz Buzz | Easy | [Solution](leetcode/412.%20Fizz%20Buzz)
