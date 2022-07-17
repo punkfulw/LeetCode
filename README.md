@@ -96,6 +96,7 @@ My C++ Code for LeetCode OJ.
 136 | Single Number | Easy | [Solution](leetcode/136.%20Single%20Number)
 138 | Copy List with Random Pointer | Medium | [Solution](leetcode/138.%20Copy%20List%20with%20Random%20Pointer)
 141 | Linked List Cycle | Easy | [Solution](leetcode/141.%20Linked%20List%20Cycle)
+143 | Reorder List | Medium | [Solution](leetcode/143.%20Reorder%20List)
 144 | Binary Tree Preorder Traversal | Easy | [Solution](leetcode/144.%20Binary%20Tree%20Preorder%20Traversal)
 145 | Binary Tree Postorder Traversal | Easy | [Solution](leetcode/145.%20Binary%20Tree%20Postorder%20Traversal)
 150 | Evaluate Reverse Polish Notation | Medium | [Solution](leetcode/150.%20Evaluate%20Reverse%20Polish%20Notation)
