@@ -24,6 +24,7 @@ My C++ Code for LeetCode OJ.
 19 | Remove Nth Node From End of List | Medium | [Solution](leetcode/19.%20Remove%20Nth%20Node%20From%20End%20of%20List)
 20 | Valid Parentheses | Easy | [Solution](leetcode/20.%20Valid%20Parentheses)
 21 | Merge Two Sorted Lists | Easy | [Solution](leetcode/21.%20Merge%20Two%20Sorted%20Lists)
+23 | Merge k Sorted Lists | Hard | [Solution](leetcode/23.%20Merge%20k%20Sorted%20Lists)
 22 | Generate Parentheses | Medium | [Solution](leetcode/22.%20Generate%20Parentheses)
 24 | Swap Nodes in Pairs | Medium | [Solution](leetcode/24.%20Swap%20Nodes%20in%20Pairs)
 25 | Reverse Nodes in k-Group | Hard | [Solution](leetcode/25.%20Reverse%20Nodes%20in%20k-Group)
