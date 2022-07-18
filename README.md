@@ -305,6 +305,7 @@ My C++ Code for LeetCode OJ.
 965 | Univalued Binary Tree | Easy | [Solution](leetcode/965.%20Univalued%20Binary%20Tree)
 969 | Pancake Sorting | Medium | [Solution](leetcode/969.%20Pancake%20Sorting)
 970 | Powerful Integers | Medium | [Solution](leetcode/970.%20Powerful%20Integers)
+973 | K Closest Points to Origin | Medium | [Solution](leetcode/973.%20K%20Closest%20Points%20to%20Origin)
 977 | Squares of a Sorted Array | Easy | [Solution](leetcode/977.%20Squares%20of%20a%20Sorted%20Array)
 978 | Longest Turbulent Subarray | Medium | [Solution](leetcode/978.%20Longest%20Turbulent%20Subarray)
 985 | Sum of Even Numbers After Queries | Easy | [Solution](leetcode/985.%20Sum%20of%20Even%20Numbers%20After%20Queries)
