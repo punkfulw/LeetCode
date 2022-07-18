@@ -80,6 +80,7 @@ My C++ Code for LeetCode OJ.
 107 | Binary Tree Level Order Traversal II | Medium | [Solution](leetcode/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II)
 108 | Convert Sorted Array to Binary Search Tree | Easy | [Solution](leetcode/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree)
 110 | Balanced Binary Tree | Easy | [Solution](leetcode/110.%20Balanced%20Binary%20Tree)
+111 | Minimum Depth of Binary Tree | Easy | [Solution](leetcode/111.%20Minimum%20Depth%20of%20Binary%20Tree)
 112 | Path Sum | Easy | [Solution](leetcode/112.%20Path%20Sum)
 116 | Populating Next Right Pointers in Each Node | Medium | [Solution](leetcode/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node)
 117 | Populating Next Right Pointers in Each Node II | Medium | [Solution](leetcode/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II)
