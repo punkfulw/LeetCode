@@ -570,6 +570,7 @@ My C++ Code for LeetCode OJ.
 2149 | Rearrange Array Elements by Sign | Medium | [Solution](leetcode/2149.%20Rearrange%20Array%20Elements%20by%20Sign)
 2150 | Find All Lonely Numbers in the Array | Medium | [Solution](leetcode/2150.%20Find%20All%20Lonely%20Numbers%20in%20the%20Array)
 2154 | Keep Multiplying Found Values by Two | Easy | [Solution](leetcode/2154.%20Keep%20Multiplying%20Found%20Values%20by%20Two)
+2155 | All Divisions With the Highest Score of a Binary Array | Medium | [Solution](leetcode/2155.%20All%20Divisions%20With%20the%20Highest%20Score%20of%20a%20Binary%20Array)
 2160 | Minimum Sum of Four Digit Number After Splitting Digits | Easy | [Solution](leetcode/2160.%20Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits)
 2161 | Partition Array According to Given Pivot | Medium | [Solution](leetcode/2161.%20Partition%20Array%20According%20to%20Given%20Pivot)
 2177 | Find Three Consecutive Integers That Sum to a Given Number | Medium | [Solution](leetcode/2177.%20Find%20Three%20Consecutive%20Integers%20That%20Sum%20to%20a%20Given%20Number)
