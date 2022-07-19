@@ -318,6 +318,7 @@ My C++ Code for LeetCode OJ.
 1008 | Construct Binary Search Tree from Preorder Traversal | Medium | [Solution](leetcode/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal)
 1009 | Complement of Base 10 Integer | Easy | [Solution](leetcode/1009.%20Complement%20of%20Base%2010%20Integer)
 1014 | Best Sightseeing Pair | Medium | [Solution](leetcode/1014.%20Best%20Sightseeing%20Pair)
+1018 | Binary Prefix Divisible By 5 | Easy | [Solution](leetcode/1018.%20Binary%20Prefix%20Divisible%20By%205)
 1021 | Remove Outermost Parentheses | Easy | [Solution](leetcode/1021.%20Remove%20Outermost%20Parentheses)
 1022 | Sum of Root To Leaf Binary Numbers | Easy | [Solution](leetcode/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers)
 1028 | Recover a Tree From Preorder Traversal | Hard | [Solution](leetcode/1028.%20Recover%20a%20Tree%20From%20Preorder%20Traversal)
