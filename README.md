@@ -309,6 +309,7 @@ My C++ Code for LeetCode OJ.
 973 | K Closest Points to Origin | Medium | [Solution](leetcode/973.%20K%20Closest%20Points%20to%20Origin)
 977 | Squares of a Sorted Array | Easy | [Solution](leetcode/977.%20Squares%20of%20a%20Sorted%20Array)
 978 | Longest Turbulent Subarray | Medium | [Solution](leetcode/978.%20Longest%20Turbulent%20Subarray)
+980 | Unique Paths III | Hard | [Solution](leetcode/980.%20Unique%20Paths%20III)
 985 | Sum of Even Numbers After Queries | Easy | [Solution](leetcode/985.%20Sum%20of%20Even%20Numbers%20After%20Queries)
 993 | Cousins in Binary Tree | Easy | [Solution](leetcode/993.%20Cousins%20in%20Binary%20Tree)
 994 | Rotting Oranges | Medium | [Solution](leetcode/994.%20Rotting%20Oranges)
