@@ -1,24 +1,30 @@
 // OJ: https://leetcode.com/problems/number-of-matching-subsequences/
 // Author: github.com/punkfulw
-// Reference: https://leetcode.com/problems/number-of-matching-subsequences/discuss/117575/C%2B%2B-12-Line-Solution-with-Explanation
 // Time: O(S + NWlogS)
 // Space: O(S)
 class Solution {
 public:
-    int numMatchingSubseq(string s, vector<string>& A) {
-        vector<int> index[26];
-        for (int i = 0; i < s.size(); ++i) index[s[i] - 'a'].push_back(i);
-        int ans = 0;
-        for (auto &w : A) {
-            int i = 0, j = 0;
-            for (; i < w.size(); ++i) {
-                auto &v = index[w[i] - 'a'];
-                auto it = lower_bound(begin(v), end(v), j);
-                if (it == end(v)) break;
-                j = *it + 1;
-            }
-            ans += i == w.size();
+    int solve(vector<vector<int>> &rec, string w){
+        int pre = -1;
+        vector<int> idx(26, 0);
+        for (auto c: w){
+            int pos = c - 'a';
+            auto it = upper_bound(rec[pos].begin() + idx[pos], rec[pos].end(), pre);
+            if (it == rec[pos].end())
+                return false;
+            pre = *it;
+            idx[pos] = it - rec[pos].begin() + 1;
         }
+        return true;
+    }
+    
+    int numMatchingSubseq(string s, vector<string>& words) {
+        int ans = 0, n = s.size(), m = words.size();
+        vector<vector<int>> rec(26); 
+        for (int i = 0; i < n; i++)
+            rec[s[i] - 'a'].push_back(i);      
+        for (auto w: words)
+            ans += solve(rec, w);        
         return ans;
     }
 };
