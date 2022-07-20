@@ -566,6 +566,7 @@ My C++ Code for LeetCode OJ.
 2001 | Number of Pairs of Interchangeable Rectangles | Medium | [Solution](leetcode/2001.%20Number%20of%20Pairs%20of%20Interchangeable%20Rectangles)
 2032 | Two Out of Three | Easy | [Solution](leetcode/2032.%20Two%20Out%20of%20Three)
 2078 | Two Furthest Houses With Different Colors | Easy | [Solution](leetcode/2078.%20Two%20Furthest%20Houses%20With%20Different%20Colors)
+2085 | Count Common Words With One Occurrence | Easy | [Solution](leetcode/2085.%20Count%20Common%20Words%20With%20One%20Occurrence)
 2089 | Find Target Indices After Sorting Array | Easy | [Solution](leetcode/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array)
 2119 | A Number After a Double Reversal | Easy | [Solution](leetcode/2119.%20A%20Number%20After%20a%20Double%20Reversal)
 2124 | Check if All A's Appears Before All B's | Easy | [Solution](leetcode/2124.%20Check%20if%20All%20A%27s%20Appears%20Before%20All%20B%27s)
