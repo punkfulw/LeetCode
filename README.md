@@ -90,6 +90,7 @@ My C++ Code for LeetCode OJ.
 121 | Best Time to Buy and Sell Stock | Easy | [Solution](leetcode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)
 122 | Best Time to Buy and Sell Stock II | Easy | [Solution](leetcode/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)
 124 | Binary Tree Maximum Path Sum | Hard | [Solution](leetcode/124.%20Binary%20Tree%20Maximum%20Path%20Sum)
+125 | Valid Palindrome | Easy | [Solution](leetcode/125.%20Valid%20Palindrome)
 128 | Longest Consecutive Sequence | Medium | [Solution](leetcode/128.%20Longest%20Consecutive%20Sequence)
 130 | Surrounded Regions | Medium | [Solution](leetcode/130.%20Surrounded%20Regions)
 134 | Gas Station | Medium | [Solution](leetcode/134.%20Gas%20Station)
