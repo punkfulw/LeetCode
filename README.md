@@ -576,6 +576,7 @@ My C++ Code for LeetCode OJ.
 2085 | Count Common Words With One Occurrence | Easy | [Solution](leetcode/2085.%20Count%20Common%20Words%20With%20One%20Occurrence)
 2087 | Minimum Cost Homecoming of a Robot in a Grid | Medium | [Solution](leetcode/2087.%20Minimum%20Cost%20Homecoming%20of%20a%20Robot%20in%20a%20Grid)
 2089 | Find Target Indices After Sorting Array | Easy | [Solution](leetcode/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array)
+2091 | Removing Minimum and Maximum From Array | Medium | [Solution](leetcode/2091.%20Removing%20Minimum%20and%20Maximum%20From%20Array)
 2119 | A Number After a Double Reversal | Easy | [Solution](leetcode/2119.%20A%20Number%20After%20a%20Double%20Reversal)
 2124 | Check if All A's Appears Before All B's | Easy | [Solution](leetcode/2124.%20Check%20if%20All%20A%27s%20Appears%20Before%20All%20B%27s)
 2125 | Number of Laser Beams in a Bank | Medium | [Solution](leetcode/2125.%20Number%20of%20Laser%20Beams%20in%20a%20Bank)
