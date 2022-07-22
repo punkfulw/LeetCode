@@ -64,6 +64,7 @@ My C++ Code for LeetCode OJ.
 80 | Remove Duplicates from Sorted Array II | Medium | [Solution](leetcode/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II)
 81 | Search in Rotated Sorted Array II | Medium | [Solution](leetcode/81.%20Search%20in%20Rotated%20Sorted%20Array%20II)
 83 | Remove Duplicates from Sorted List | Easy | [Solution](leetcode/83.%20Remove%20Duplicates%20from%20Sorted%20List)
+86 | Partition List | Medium | [Solution](leetcode/86.%20Partition%20List)
 88 | Merge Sorted Array | Easy | [Solution](leetcode/88.%20Merge%20Sorted%20Array)
 90 | Subsets II | Medium | [Solution](leetcode/90.%20Subsets%20II)
 91 | Decode Ways | Medium | [Solution](leetcode/91.%20Decode%20Ways)
