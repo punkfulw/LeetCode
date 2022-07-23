@@ -49,6 +49,7 @@ My C++ Code for LeetCode OJ.
 55 | Jump Game | Medium | [Solution](leetcode/55.%20Jump%20Game)
 58 | Length of Last Word | Easy | [Solution](leetcode/58.%20Length%20of%20Last%20Word)
 59 | Spiral Matrix II | Medium | [Solution](leetcode/59.%20Spiral%20Matrix%20II)
+61 | Rotate List | Medium | [Solution](leetcode/61.%20Rotate%20List)
 62 | Unique Paths | Medium | [Solution](leetcode/62.%20Unique%20Paths)
 63 | Unique Paths II | Medium | [Solution](leetcode/63.%20Unique%20Paths%20II)
 64 | Minimum Path Sum | Medium | [Solution](leetcode/64.%20Minimum%20Path%20Sum)
