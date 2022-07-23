@@ -535,6 +535,7 @@ My C++ Code for LeetCode OJ.
 1910 | Remove All Occurrences of a Substring | Medium | [Solution](leetcode/1910.%20Remove%20All%20Occurrences%20of%20a%20Substring)
 1911 | Maximum Alternating Subsequence Sum | Medium | [Solution](leetcode/1911.%20Maximum%20Alternating%20Subsequence%20Sum)
 1913 | Maximum Product Difference Between Two Pairs | Easy | [Solution](leetcode/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs)
+1914 | Cyclically Rotating a Grid | Medium | [Solution](leetcode/1914.%20Cyclically%20Rotating%20a%20Grid)
 1920 | Build Array from Permutation | Easy | [Solution](leetcode/1920.%20Build%20Array%20from%20Permutation)
 1921 | Eliminate Maximum Number of Monsters | Medium | [Solution](leetcode/1921.%20Eliminate%20Maximum%20Number%20of%20Monsters)
 1922 | Count Good Numbers | Medium | [Solution](leetcode/1922.%20Count%20Good%20Numbers)
