@@ -584,6 +584,7 @@ My C++ Code for LeetCode OJ.
 2119 | A Number After a Double Reversal | Easy | [Solution](leetcode/2119.%20A%20Number%20After%20a%20Double%20Reversal)
 2124 | Check if All A's Appears Before All B's | Easy | [Solution](leetcode/2124.%20Check%20if%20All%20A%27s%20Appears%20Before%20All%20B%27s)
 2125 | Number of Laser Beams in a Bank | Medium | [Solution](leetcode/2125.%20Number%20of%20Laser%20Beams%20in%20a%20Bank)
+2126 | Destroying Asteroids | Medium | [Solution](leetcode/2126.%20Destroying%20Asteroids)
 2140 | Solving Questions With Brainpower | Medium | [Solution](leetcode/2140.%20Solving%20Questions%20With%20Brainpower)
 2148 | Count Elements With Strictly Smaller and Greater Elements | Easy | [Solution](leetcode/2148.%20Count%20Elements%20With%20Strictly%20Smaller%20and%20Greater%20Elements)
 2149 | Rearrange Array Elements by Sign | Medium | [Solution](leetcode/2149.%20Rearrange%20Array%20Elements%20by%20Sign)
