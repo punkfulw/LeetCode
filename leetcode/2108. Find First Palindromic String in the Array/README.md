@@ -46,7 +46,7 @@ Note that "racecar" is also palindromic, but it is not the first.
 // OJ: https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
 // Author: github.com/punkfulw
 // Time: O(NW)
-// Space: O(W)
+// Space: O(1)
 class Solution {
 public:
     bool check(string &s){
