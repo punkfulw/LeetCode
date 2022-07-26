@@ -248,6 +248,7 @@ My C++ Code for LeetCode OJ.
 733 | Flood Fill | Easy | [Solution](leetcode/733.%20Flood%20Fill)
 743 | Network Delay Time | Medium | [Solution](leetcode/743.%20Network%20Delay%20Time)
 746 | Min Cost Climbing Stairs | Easy | [Solution](leetcode/746.%20Min%20Cost%20Climbing%20Stairs)
+748 | Shortest Completing Word | Easy | [Solution](leetcode/748.%20Shortest%20Completing%20Word)
 752 | Open the Lock | Medium | [Solution](leetcode/752.%20Open%20the%20Lock)
 762 | Prime Number of Set Bits in Binary Representation | Easy | [Solution](leetcode/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation)
 763 | Partition Labels | Medium | [Solution](leetcode/763.%20Partition%20Labels)
