@@ -143,6 +143,7 @@ My C++ Code for LeetCode OJ.
 221 | Maximal Square | Medium | [Solution](leetcode/221.%20Maximal%20Square)
 225 | Implement Stack using Queues | Easy | [Solution](leetcode/225.%20Implement%20Stack%20using%20Queues)
 226 | Invert Binary Tree | Easy | [Solution](leetcode/226.%20Invert%20Binary%20Tree)
+228 | Summary Ranges | Easy | [Solution](leetcode/228.%20Summary%20Ranges)
 230 | Kth Smallest Element in a BST | Medium | [Solution](leetcode/230.%20Kth%20Smallest%20Element%20in%20a%20BST)
 232 | Implement Queue using Stacks | Easy | [Solution](leetcode/232.%20Implement%20Queue%20using%20Stacks)
 235 | Lowest Common Ancestor of a Binary Search Tree | Easy | [Solution](leetcode/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)
