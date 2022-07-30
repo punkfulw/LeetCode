@@ -591,6 +591,7 @@ My C++ Code for LeetCode OJ.
 1996 | The Number of Weak Characters in the Game | Medium | [Solution](leetcode/1996.%20The%20Number%20of%20Weak%20Characters%20in%20the%20Game)
 2000 | Reverse Prefix of Word | Easy | [Solution](leetcode/2000.%20Reverse%20Prefix%20of%20Word)
 2001 | Number of Pairs of Interchangeable Rectangles | Medium | [Solution](leetcode/2001.%20Number%20of%20Pairs%20of%20Interchangeable%20Rectangles)
+2028 | Find Missing Observations | Medium | [Solution](leetcode/2028.%20Find%20Missing%20Observations)
 2032 | Two Out of Three | Easy | [Solution](leetcode/2032.%20Two%20Out%20of%20Three)
 2047 | Number of Valid Words in a Sentence | Easy | [Solution](leetcode/2047.%20Number%20of%20Valid%20Words%20in%20a%20Sentence)
 2053 | Kth Distinct String in an Array | Easy | [Solution](leetcode/2053.%20Kth%20Distinct%20String%20in%20an%20Array)
