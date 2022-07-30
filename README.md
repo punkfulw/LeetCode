@@ -308,6 +308,7 @@ My C++ Code for LeetCode OJ.
 905 | Sort Array By Parity | Easy | [Solution](leetcode/905.%20Sort%20Array%20By%20Parity)
 908 | Smallest Range I | Easy | [Solution](leetcode/908.%20Smallest%20Range%20I)
 915 | Partition Array into Disjoint Intervals | Medium | [Solution](leetcode/915.%20Partition%20Array%20into%20Disjoint%20Intervals)
+916 | Word Subsets | Medium | [Solution](leetcode/916.%20Word%20Subsets)
 917 | Reverse Only Letters | Easy | [Solution](leetcode/917.%20Reverse%20Only%20Letters)
 919 | Complete Binary Tree Inserter | Medium | [Solution](leetcode/919.%20Complete%20Binary%20Tree%20Inserter)
 921 | Minimum Add to Make Parentheses Valid | Medium | [Solution](leetcode/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid)
