@@ -367,6 +367,7 @@ My C++ Code for LeetCode OJ.
 1160 | Find Words That Can Be Formed by Characters | Easy | [Solution](leetcode/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters)
 1161 | Maximum Level Sum of a Binary Tree | Medium | [Solution](leetcode/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree)
 1185 | Day of the Week | Easy | [Solution](leetcode/1185.%20Day%20of%20the%20Week)
+1186 | Maximum Subarray Sum with One Deletion | Medium | [Solution](leetcode/1186.%20Maximum%20Subarray%20Sum%20with%20One%20Deletion)
 1189 | Maximum Number of Balloons | Easy | [Solution](leetcode/1189.%20Maximum%20Number%20of%20Balloons)
 1190 | Reverse Substrings Between Each Pair of Parentheses | Medium | [Solution](leetcode/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses)
 1191 | K-Concatenation Maximum Sum | Medium | [Solution](leetcode/1191.%20K-Concatenation%20Maximum%20Sum)
