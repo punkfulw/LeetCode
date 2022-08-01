@@ -598,6 +598,7 @@ My C++ Code for LeetCode OJ.
 2023 | Number of Pairs of Strings With Concatenation Equal to Target | Medium | [Solution](leetcode/2023.%20Number%20of%20Pairs%20of%20Strings%20With%20Concatenation%20Equal%20to%20Target)
 2028 | Find Missing Observations | Medium | [Solution](leetcode/2028.%20Find%20Missing%20Observations)
 2032 | Two Out of Three | Easy | [Solution](leetcode/2032.%20Two%20Out%20of%20Three)
+2037 | Minimum Number of Moves to Seat Everyone | Easy | [Solution](leetcode/2037.%20Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone)
 2047 | Number of Valid Words in a Sentence | Easy | [Solution](leetcode/2047.%20Number%20of%20Valid%20Words%20in%20a%20Sentence)
 2053 | Kth Distinct String in an Array | Easy | [Solution](leetcode/2053.%20Kth%20Distinct%20String%20in%20an%20Array)
 2068 | Check Whether Two Strings are Almost Equivalent | Easy | [Solution](leetcode/2068.%20Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent)
