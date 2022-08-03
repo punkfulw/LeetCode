@@ -389,6 +389,7 @@ My C++ Code for LeetCode OJ.
 1255 | Maximum Score Words Formed by Letters | Hard | [Solution](leetcode/1255.%20Maximum%20Score%20Words%20Formed%20by%20Letters)
 1260 | Shift 2D Grid | Easy | [Solution](leetcode/1260.%20Shift%202D%20Grid)
 1261 | Find Elements in a Contaminated Binary Tree | Medium | [Solution](leetcode/1261.%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree)
+1262 | Greatest Sum Divisible by Three | Medium | [Solution](leetcode/1262.%20Greatest%20Sum%20Divisible%20by%20Three)
 1266 | Minimum Time Visiting All Points | Easy | [Solution](leetcode/1266.%20Minimum%20Time%20Visiting%20All%20Points)
 1268 | Search Suggestions System | Medium | [Solution](leetcode/1268.%20Search%20Suggestions%20System)
 1275 | Find Winner on a Tic Tac Toe Game | Easy | [Solution](leetcode/1275.%20Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game)
