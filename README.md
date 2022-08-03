@@ -454,6 +454,7 @@ My C++ Code for LeetCode OJ.
 1464 | Maximum Product of Two Elements in an Array | Easy | [Solution](leetcode/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array)
 1465 | Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts | Medium | [Solution](leetcode/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts)
 1470 | Shuffle the Array | Easy | [Solution](leetcode/1470.%20Shuffle%20the%20Array)
+1471 | The k Strongest Values in an Array | Medium | [Solution](leetcode/1471.%20The%20k%20Strongest%20Values%20in%20an%20Array)
 1476 | Subrectangle Queries | Medium | [Solution](leetcode/1476.%20Subrectangle%20Queries)
 1480 | Running Sum of 1d Array | Easy | [Solution](leetcode/1480.%20Running%20Sum%20of%201d%20Array)
 1486 | XOR Operation in an Array | Easy | [Solution](leetcode/1486.%20XOR%20Operation%20in%20an%20Array)
