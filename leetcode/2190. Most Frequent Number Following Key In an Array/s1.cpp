@@ -2,7 +2,7 @@
 // Author: github.com/punkfulw
 // Time: O(N)
 // Space: O(N) 
-class Solution {
+class Solution { 
 public:
     int mostFrequent(vector<int>& nums, int key) {
         int cnt = 0, n = nums.size(), ans;
