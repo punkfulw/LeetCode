@@ -527,6 +527,8 @@ My C++ Code for LeetCode OJ.
 1773 | Count Items Matching a Rule | Easy | [Solution](leetcode/1773.%20Count%20Items%20Matching%20a%20Rule)
 1779 | Find Nearest Point That Has the Same X or Y Coordinate | Easy | [Solution](leetcode/1779.%20Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate)
 1780 | Check if Number is a Sum of Powers of Three | Medium | [Solution](leetcode/1780.%20Check%20if%20Number%20is%20a%20Sum%20of%20Powers%20of%20Three)
+1784 | Check if Binary String Has at Most One Segment of Ones | Easy | [Solution](leetcode/1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones)
+1785 | Minimum Elements to Add to Form a Given Sum | Medium | [Solution](leetcode/1785.%20Minimum%20Elements%20to%20Add%20to%20Form%20a%20Given%20Sum)
 1791 | Find Center of Star Graph | Medium | [Solution](leetcode/1791.%20Find%20Center%20of%20Star%20Graph)
 1792 | Maximum Average Pass Ratio | Medium | [Solution](leetcode/1792.%20Maximum%20Average%20Pass%20Ratio)
 1800 | Maximum Ascending Subarray Sum | Easy | [Solution](leetcode/1800.%20Maximum%20Ascending%20Subarray%20Sum)
