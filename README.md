@@ -354,6 +354,7 @@ My C++ Code for LeetCode OJ.
 1028 | Recover a Tree From Preorder Traversal | Hard | [Solution](leetcode/1028.%20Recover%20a%20Tree%20From%20Preorder%20Traversal)
 1030 | Matrix Cells in Distance Order | Easy | [Solution](leetcode/1030.%20Matrix%20Cells%20in%20Distance%20Order)
 1038 | Binary Search Tree to Greater Sum Tree | Medium | [Solution](leetcode/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree)
+1042 | Flower Planting With No Adjacent | Medium | [Solution](leetcode/1042.%20Flower%20Planting%20With%20No%20Adjacent)
 1046 | Last Stone Weight | Easy | [Solution](leetcode/1046.%20Last%20Stone%20Weight)
 1047 | Remove All Adjacent Duplicates In String | Easy | [Solution](leetcode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String)
 1051 | Height Checker | Easy | [Solution](leetcode/1051.%20Height%20Checker)
