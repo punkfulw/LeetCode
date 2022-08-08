@@ -301,6 +301,7 @@ My C++ Code for LeetCode OJ.
 868 | Binary Gap | Easy | [Solution](leetcode/868.%20Binary%20Gap)
 872 | Leaf-Similar Trees | Easy | [Solution](leetcode/872.%20Leaf-Similar%20Trees)
 876 | Middle of the Linked List | Easy | [Solution](leetcode/876.%20Middle%20of%20the%20Linked%20List)
+881 | Boats to Save People | Medium | [Solution](leetcode/881.%20Boats%20to%20Save%20People)
 883 | Projection Area of 3D Shapes | Easy | [Solution](leetcode/883.%20Projection%20Area%20of%203D%20Shapes)
 884 | Uncommon Words from Two Sentences | Easy | [Solution](leetcode/884.%20Uncommon%20Words%20from%20Two%20Sentences)
 885 | Spiral Matrix III | Medium | [Solution](leetcode/885.%20Spiral%20Matrix%20III)
