@@ -297,6 +297,7 @@ My C++ Code for LeetCode OJ.
 858 | Mirror Reflection | Medium | [Solution](leetcode/858.%20Mirror%20Reflection)
 860 | Lemonade Change | Easy | [Solution](leetcode/860.%20Lemonade%20Change)
 861 | Score After Flipping Matrix | Medium | [Solution](leetcode/861.%20Score%20After%20Flipping%20Matrix)
+865 | Smallest Subtree with all the Deepest Nodes | Medium | [Solution](leetcode/865.%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes)
 867 | Transpose Matrix | Easy | [Solution](leetcode/867.%20Transpose%20Matrix)
 868 | Binary Gap | Easy | [Solution](leetcode/868.%20Binary%20Gap)
 872 | Leaf-Similar Trees | Easy | [Solution](leetcode/872.%20Leaf-Similar%20Trees)
