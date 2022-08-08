@@ -326,6 +326,7 @@ My C++ Code for LeetCode OJ.
 933 | Number of Recent Calls | Easy | [Solution](leetcode/933.%20Number%20of%20Recent%20Calls)
 938 | Range Sum of BST | Easy | [Solution](leetcode/938.%20Range%20Sum%20of%20BST)
 944 | Delete Columns to Make Sorted | Easy | [Solution](leetcode/944.%20Delete%20Columns%20to%20Make%20Sorted)
+946 | Validate Stack Sequences | Medium | [Solution](leetcode/946.%20Validate%20Stack%20Sequences)
 947 | Most Stones Removed with Same Row or Column | Medium | [Solution](leetcode/947.%20Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column)
 950 | Reveal Cards In Increasing Order | Medium | [Solution](leetcode/950.%20Reveal%20Cards%20In%20Increasing%20Order)
 951 | Flip Equivalent Binary Trees | Medium | [Solution](leetcode/951.%20Flip%20Equivalent%20Binary%20Trees)
