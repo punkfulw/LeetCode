@@ -367,6 +367,7 @@ My C++ Code for LeetCode OJ.
 1052 | Grumpy Bookstore Owner | Medium | [Solution](leetcode/1052.%20Grumpy%20Bookstore%20Owner)
 1071 | Greatest Common Divisor of Strings | Easy | [Solution](leetcode/1071.%20Greatest%20Common%20Divisor%20of%20Strings)
 1078 | Occurrences After Bigram | Easy | [Solution](leetcode/1078.%20Occurrences%20After%20Bigram)
+1079 | Letter Tile Possibilities | Medium | [Solution](leetcode/1079.%20Letter%20Tile%20Possibilities)
 1089 | Duplicate Zeros | Easy | [Solution](leetcode/1089.%20Duplicate%20Zeros)
 1091 | Shortest Path in Binary Matrix | Medium | [Solution](leetcode/1091.%20Shortest%20Path%20in%20Binary%20Matrix)
 1094 | Car Pooling | Medium | [Solution](leetcode/1094.%20Car%20Pooling)
