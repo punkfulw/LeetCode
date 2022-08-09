@@ -537,6 +537,7 @@ My C++ Code for LeetCode OJ.
 1743 | Restore the Array From Adjacent Pairs | Medium | [Solution](leetcode/1743.%20Restore%20the%20Array%20From%20Adjacent%20Pairs)
 1748 | Sum of Unique Elements | Easy | [Solution](leetcode/1748.%20Sum%20of%20Unique%20Elements)
 1758 | Minimum Changes To Make Alternating Binary String | Easy | [Solution](leetcode/1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String)
+1763 | Longest Nice Substring | Easy | [Solution](leetcode/1763.%20Longest%20Nice%20Substring)
 1765 | Map of Highest Peak | Medium | [Solution](leetcode/1765.%20Map%20of%20Highest%20Peak)
 1768 | Merge Strings Alternately | Easy | [Solution](leetcode/1768.%20Merge%20Strings%20Alternately)
 1769 | Minimum Number of Operations to Move All Balls to Each Box | Medium | [Solution](leetcode/1769.%20Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box)
