@@ -540,6 +540,7 @@ My C++ Code for LeetCode OJ.
 1768 | Merge Strings Alternately | Easy | [Solution](leetcode/1768.%20Merge%20Strings%20Alternately)
 1769 | Minimum Number of Operations to Move All Balls to Each Box | Medium | [Solution](leetcode/1769.%20Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box)
 1773 | Count Items Matching a Rule | Easy | [Solution](leetcode/1773.%20Count%20Items%20Matching%20a%20Rule)
+1775 | Equal Sum Arrays With Minimum Number of Operations | Medium | [Solution](leetcode/1775.%20Equal%20Sum%20Arrays%20With%20Minimum%20Number%20of%20Operations)
 1779 | Find Nearest Point That Has the Same X or Y Coordinate | Easy | [Solution](leetcode/1779.%20Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate)
 1780 | Check if Number is a Sum of Powers of Three | Medium | [Solution](leetcode/1780.%20Check%20if%20Number%20is%20a%20Sum%20of%20Powers%20of%20Three)
 1784 | Check if Binary String Has at Most One Segment of Ones | Easy | [Solution](leetcode/1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones)
