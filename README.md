@@ -381,6 +381,7 @@ My C++ Code for LeetCode OJ.
 1130 | Minimum Cost Tree From Leaf Values | Medium | [Solution](leetcode/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values)
 1137 | N-th Tribonacci Number | Easy | [Solution](leetcode/1137.%20N-th%20Tribonacci%20Number)
 1138 | Alphabet Board Path | Medium | [Solution](leetcode/1138.%20Alphabet%20Board%20Path)
+1144 | Decrease Elements To Make Array Zigzag | Medium | [Solution](leetcode/1144.%20Decrease%20Elements%20To%20Make%20Array%20Zigzag)
 1154 | Day of the Year | Easy | [Solution](leetcode/1154.%20Day%20of%20the%20Year)
 1160 | Find Words That Can Be Formed by Characters | Easy | [Solution](leetcode/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters)
 1161 | Maximum Level Sum of a Binary Tree | Medium | [Solution](leetcode/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree)
