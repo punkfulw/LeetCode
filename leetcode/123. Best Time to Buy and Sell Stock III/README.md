@@ -66,7 +66,7 @@ public:
 
 ```cpp
 // OJ: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii
-// Author: github.com/lzl124631x
+// Author: github.com/punkfulw
 // Time: O(N)
 // Space: O(1)
 class Solution {
