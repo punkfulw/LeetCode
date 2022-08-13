@@ -30,6 +30,7 @@ My C++ Code for LeetCode OJ.
 25 | Reverse Nodes in k-Group | Hard | [Solution](leetcode/25.%20Reverse%20Nodes%20in%20k-Group)
 26 | Remove Duplicates from Sorted Array | Easy | [Solution](leetcode/26.%20Remove%20Duplicates%20from%20Sorted%20Array)
 27 | Remove Element | Easy | [Solution](leetcode/27.%20Remove%20Element)
+30 | Substring with Concatenation of All Words | Hard | [Solution](leetcode/30.%20Substring%20with%20Concatenation%20of%20All%20Words)
 31 | Next Permutation | Medium | [Solution](leetcode/31.%20Next%20Permutation)
 34 | Find First and Last Position of Element in Sorted Array | Medium | [Solution](leetcode/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array)
 35 | Search Insert Position | Easy | [Solution](leetcode/35.%20Search%20Insert%20Position)
