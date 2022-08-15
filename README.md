@@ -276,6 +276,7 @@ My C++ Code for LeetCode OJ.
 767 | Reorganize String | Medium | [Solution](leetcode/767.%20Reorganize%20String)
 769 | Max Chunks To Make Sorted | Medium | [Solution](leetcode/769.%20Max%20Chunks%20To%20Make%20Sorted)
 771 | Jewels and Stones | Easy | [Solution](leetcode/771.%20Jewels%20and%20Stones)
+773 | Sliding Puzzle | Hard | [Solution](leetcode/773.%20Sliding%20Puzzle)
 778 | Swim in Rising Water | Hard | [Solution](leetcode/778.%20Swim%20in%20Rising%20Water)
 781 | Rabbits in Forest | Medium | [Solution](leetcode/781.%20Rabbits%20in%20Forest)
 783 | Minimum Distance Between BST Nodes | Medium | [Solution](leetcode/783.%20Minimum%20Distance%20Between%20BST%20Nodes)
