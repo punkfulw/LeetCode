@@ -563,6 +563,7 @@ My C++ Code for LeetCode OJ.
 1791 | Find Center of Star Graph | Medium | [Solution](leetcode/1791.%20Find%20Center%20of%20Star%20Graph)
 1792 | Maximum Average Pass Ratio | Medium | [Solution](leetcode/1792.%20Maximum%20Average%20Pass%20Ratio)
 1796 | Second Largest Digit in a String | Easy | [Solution](leetcode/1796.%20Second%20Largest%20Digit%20in%20a%20String)
+1797 | Design Authentication Manager | Medium | [Solution](leetcode/1797.%20Design%20Authentication%20Manager)
 1800 | Maximum Ascending Subarray Sum | Easy | [Solution](leetcode/1800.%20Maximum%20Ascending%20Subarray%20Sum)
 1806 | Minimum Number of Operations to Reinitialize a Permutation | Medium | [Solution](leetcode/1806.%20Minimum%20Number%20of%20Operations%20to%20Reinitialize%20a%20Permutation)
 1807 | Evaluate the Bracket Pairs of a String | Medium | [Solution](leetcode/1807.%20Evaluate%20the%20Bracket%20Pairs%20of%20a%20String)
