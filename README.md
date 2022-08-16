@@ -662,6 +662,7 @@ My C++ Code for LeetCode OJ.
 2126 | Destroying Asteroids | Medium | [Solution](leetcode/2126.%20Destroying%20Asteroids)
 2140 | Solving Questions With Brainpower | Medium | [Solution](leetcode/2140.%20Solving%20Questions%20With%20Brainpower)
 2144 | Minimum Cost of Buying Candies With Discount | Easy | [Solution](leetcode/2144.%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount)
+2146 | K Highest Ranked Items Within a Price Range | Medium | [Solution](leetcode/2146.%20K%20Highest%20Ranked%20Items%20Within%20a%20Price%20Range)
 2148 | Count Elements With Strictly Smaller and Greater Elements | Easy | [Solution](leetcode/2148.%20Count%20Elements%20With%20Strictly%20Smaller%20and%20Greater%20Elements)
 2149 | Rearrange Array Elements by Sign | Medium | [Solution](leetcode/2149.%20Rearrange%20Array%20Elements%20by%20Sign)
 2150 | Find All Lonely Numbers in the Array | Medium | [Solution](leetcode/2150.%20Find%20All%20Lonely%20Numbers%20in%20the%20Array)
