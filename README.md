@@ -677,6 +677,7 @@ My C++ Code for LeetCode OJ.
 2155 | All Divisions With the Highest Score of a Binary Array | Medium | [Solution](leetcode/2155.%20All%20Divisions%20With%20the%20Highest%20Score%20of%20a%20Binary%20Array)
 2160 | Minimum Sum of Four Digit Number After Splitting Digits | Easy | [Solution](leetcode/2160.%20Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits)
 2161 | Partition Array According to Given Pivot | Medium | [Solution](leetcode/2161.%20Partition%20Array%20According%20to%20Given%20Pivot)
+2169 | Count Operations to Obtain Zero | Easy | [Solution](leetcode/2169.%20Count%20Operations%20to%20Obtain%20Zero)
 2177 | Find Three Consecutive Integers That Sum to a Given Number | Medium | [Solution](leetcode/2177.%20Find%20Three%20Consecutive%20Integers%20That%20Sum%20to%20a%20Given%20Number)
 2181 | Merge Nodes in Between Zeros | Medium | [Solution](leetcode/2181.%20Merge%20Nodes%20in%20Between%20Zeros)
 2190 | Most Frequent Number Following Key In an Array | Easy | [Solution](leetcode/2190.%20Most%20Frequent%20Number%20Following%20Key%20In%20an%20Array)
