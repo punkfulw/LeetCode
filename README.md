@@ -243,6 +243,7 @@ My C++ Code for LeetCode OJ.
 630 | Course Schedule III | Hard | [Solution](leetcode/630.%20Course%20Schedule%20III)
 633 | Sum of Square Numbers | Medium | [Solution](leetcode/633.%20Sum%20of%20Square%20Numbers)
 637 | Average of Levels in Binary Tree | Easy | [Solution](leetcode/637.%20Average%20of%20Levels%20in%20Binary%20Tree)
+643 | Maximum Average Subarray I | Easy | [Solution](leetcode/643.%20Maximum%20Average%20Subarray%20I)
 647 | Palindromic Substrings | Medium | [Solution](leetcode/647.%20Palindromic%20Substrings)
 653 | Two Sum IV - Input is a BST | Easy | [Solution](leetcode/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST)
 654 | Maximum Binary Tree | Medium | [Solution](leetcode/654.%20Maximum%20Binary%20Tree)
