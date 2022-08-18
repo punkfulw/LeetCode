@@ -156,6 +156,7 @@ My C++ Code for LeetCode OJ.
 239 | Sliding Window Maximum | Hard | [Solution](leetcode/239.%20Sliding%20Window%20Maximum)
 240 | Search a 2D Matrix II | Medium | [Solution](leetcode/240.%20Search%20a%202D%20Matrix%20II)
 242 | Valid Anagram | Easy | [Solution](leetcode/242.%20Valid%20Anagram)
+257 | Binary Tree Paths | Easy | [Solution](leetcode/257.%20Binary%20Tree%20Paths)
 258 | Add Digits | Easy | [Solution](leetcode/258.%20Add%20Digits)
 260 | Single Number III | Medium | [Solution](leetcode/260.%20Single%20Number%20III)
 263 | Ugly Number | Easy | [Solution](leetcode/263.%20Ugly%20Number)
