@@ -653,6 +653,7 @@ My C++ Code for LeetCode OJ.
 2047 | Number of Valid Words in a Sentence | Easy | [Solution](leetcode/2047.%20Number%20of%20Valid%20Words%20in%20a%20Sentence)
 2053 | Kth Distinct String in an Array | Easy | [Solution](leetcode/2053.%20Kth%20Distinct%20String%20in%20an%20Array)
 2068 | Check Whether Two Strings are Almost Equivalent | Easy | [Solution](leetcode/2068.%20Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent)
+2070 | Most Beautiful Item for Each Query | Medium | [Solution](leetcode/2070.%20Most%20Beautiful%20Item%20for%20Each%20Query)
 2073 | Time Needed to Buy Tickets | Easy | [Solution](leetcode/2073.%20Time%20Needed%20to%20Buy%20Tickets)
 2078 | Two Furthest Houses With Different Colors | Easy | [Solution](leetcode/2078.%20Two%20Furthest%20Houses%20With%20Different%20Colors)
 2079 | Watering Plants | Medium | [Solution](leetcode/2079.%20Watering%20Plants)
