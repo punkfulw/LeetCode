@@ -502,6 +502,7 @@ My C++ Code for LeetCode OJ.
 1526 | Minimum Number of Increments on Subarrays to Form a Target Array | Hard | [Solution](leetcode/1526.%20Minimum%20Number%20of%20Increments%20on%20Subarrays%20to%20Form%20a%20Target%20Array)
 1528 | Shuffle String | Easy | [Solution](leetcode/1528.%20Shuffle%20String)
 1534 | Count Good Triplets | Easy | [Solution](leetcode/1534.%20Count%20Good%20Triplets)
+1537 | Get the Maximum Score | Hard | [Solution](leetcode/1537.%20Get%20the%20Maximum%20Score)
 1539 | Kth Missing Positive Number | Easy | [Solution](leetcode/1539.%20Kth%20Missing%20Positive%20Number)
 1544 | Make The String Great | Easy | [Solution](leetcode/1544.%20Make%20The%20String%20Great)
 1550 | Three Consecutive Odds | Easy | [Solution](leetcode/1550.%20Three%20Consecutive%20Odds)
