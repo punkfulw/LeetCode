@@ -439,6 +439,7 @@ My C++ Code for LeetCode OJ.
 1304 | Find N Unique Integers Sum up to Zero | Easy | [Solution](leetcode/1304.%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero)
 1305 | All Elements in Two Binary Search Trees | Medium | [Solution](leetcode/1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees)
 1309 | Decrypt String from Alphabet to Integer Mapping | Easy | [Solution](leetcode/1309.%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping)
+1312 | Minimum Insertion Steps to Make a String Palindrome | Hard | [Solution](leetcode/1312.%20Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome)
 1313 | Decompress Run-Length Encoded List | Easy | [Solution](leetcode/1313.%20Decompress%20Run-Length%20Encoded%20List)
 1315 | Sum of Nodes with Even-Valued Grandparent | Medium | [Solution](leetcode/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent)
 1317 | Convert Integer to the Sum of Two No-Zero Integers | Easy | [Solution](leetcode/1317.%20Convert%20Integer%20to%20the%20Sum%20of%20Two%20No-Zero%20Integers)
