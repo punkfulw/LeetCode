@@ -515,6 +515,7 @@ My C++ Code for LeetCode OJ.
 1544 | Make The String Great | Easy | [Solution](leetcode/1544.%20Make%20The%20String%20Great)
 1550 | Three Consecutive Odds | Easy | [Solution](leetcode/1550.%20Three%20Consecutive%20Odds)
 1551 | Minimum Operations to Make Array Equal | Medium | [Solution](leetcode/1551.%20Minimum%20Operations%20to%20Make%20Array%20Equal)
+1556 | Thousand Separator | Easy | [Solution](leetcode/1556.%20Thousand%20Separator)
 1557 | Minimum Number of Vertices to Reach All Nodes | Medium | [Solution](leetcode/1557.%20Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes)
 1561 | Maximum Number of Coins You Can Get | Medium | [Solution](leetcode/1561.%20Maximum%20Number%20of%20Coins%20You%20Can%20Get)
 1572 | Matrix Diagonal Sum | Easy | [Solution](leetcode/1572.%20Matrix%20Diagonal%20Sum)
