@@ -106,6 +106,7 @@ My C++ Code for LeetCode OJ.
 136 | Single Number | Easy | [Solution](leetcode/136.%20Single%20Number)
 138 | Copy List with Random Pointer | Medium | [Solution](leetcode/138.%20Copy%20List%20with%20Random%20Pointer)
 139 | Word Break | Medium | [Solution](leetcode/139.%20Word%20Break)
+140 | Word Break II | Hard | [Solution](leetcode/140.%20Word%20Break%20II)
 141 | Linked List Cycle | Easy | [Solution](leetcode/141.%20Linked%20List%20Cycle)
 142 | Linked List Cycle II | Medium | [Solution](leetcode/142.%20Linked%20List%20Cycle%20II)
 143 | Reorder List | Medium | [Solution](leetcode/143.%20Reorder%20List)
