@@ -1,12 +1,14 @@
 class TrieNode{
 public:
     bool isEnd;
+    int count;
     TrieNode* next[26];  
 
     TrieNode() {
         for (int i = 0; i < 26; i++)
             next[i] = NULL;
         isEnd = false;
+        count = 0;
     }
 };
 
@@ -33,6 +35,16 @@ void dfs(TrieNode* root){
         }
     }
     cout << endl;
+}
+
+//remove count
+void remove(string &word){
+    TrieNode* node = root;
+    for (auto c: word){
+        node = node->next[c - 'a'];
+        node->count--;
+    }
+    node->isEnd = 0;
 }
 
 */
