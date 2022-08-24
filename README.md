@@ -173,6 +173,7 @@ My C++ Code for LeetCode OJ.
 303 | Range Sum Query - Immutable | Easy | [Solution](leetcode/303.%20Range%20Sum%20Query%20-%20Immutable)
 316 | Remove Duplicate Letters | Medium | [Solution](leetcode/316.%20Remove%20Duplicate%20Letters)
 318 | Maximum Product of Word Lengths | Medium | [Solution](leetcode/318.%20Maximum%20Product%20of%20Word%20Lengths)
+326 | Power of Three | Easy | [Solution](leetcode/326.%20Power%20of%20Three)
 329 | Longest Increasing Path in a Matrix | Hard | [Solution](leetcode/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix)
 337 | House Robber III | Medium | [Solution](leetcode/337.%20House%20Robber%20III)
 338 | Counting Bits | Easy | [Solution](leetcode/338.%20Counting%20Bits)
