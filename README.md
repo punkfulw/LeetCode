@@ -607,6 +607,7 @@ My C++ Code for LeetCode OJ.
 1828 | Queries on Number of Points Inside a Circle | Medium | [Solution](leetcode/1828.%20Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle)
 1829 | Maximum XOR for Each Query | Medium | [Solution](leetcode/1829.%20Maximum%20XOR%20for%20Each%20Query)
 1832 | Check if the Sentence Is Pangram | Easy | [Solution](leetcode/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram)
+1834 | Single-Threaded CPU | Medium | [Solution](leetcode/1834.%20Single-Threaded%20CPU)
 1837 | Sum of Digits in Base K | Easy | [Solution](leetcode/1837.%20Sum%20of%20Digits%20in%20Base%20K)
 1839 | Longest Substring Of All Vowels in Order | Medium | [Solution](leetcode/1839.%20Longest%20Substring%20Of%20All%20Vowels%20in%20Order)
 1844 | Replace All Digits with Characters | Easy | [Solution](leetcode/1844.%20Replace%20All%20Digits%20with%20Characters)
