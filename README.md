@@ -102,6 +102,7 @@ My C++ Code for LeetCode OJ.
 125 | Valid Palindrome | Easy | [Solution](leetcode/125.%20Valid%20Palindrome)
 127 | Word Ladder | Hard | [Solution](leetcode/127.%20Word%20Ladder)
 128 | Longest Consecutive Sequence | Medium | [Solution](leetcode/128.%20Longest%20Consecutive%20Sequence)
+129 | Sum Root to Leaf Numbers | Medium | [Solution](leetcode/129.%20Sum%20Root%20to%20Leaf%20Numbers)
 130 | Surrounded Regions | Medium | [Solution](leetcode/130.%20Surrounded%20Regions)
 134 | Gas Station | Medium | [Solution](leetcode/134.%20Gas%20Station)
 135 | Candy | Hard | [Solution](leetcode/135.%20Candy)
