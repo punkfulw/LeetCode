@@ -617,6 +617,7 @@ My C++ Code for LeetCode OJ.
 1850 | Minimum Adjacent Swaps to Reach the Kth Smallest Number | Medium | [Solution](leetcode/1850.%20Minimum%20Adjacent%20Swaps%20to%20Reach%20the%20Kth%20Smallest%20Number)
 1854 | Maximum Population Year | Easy | [Solution](leetcode/1854.%20Maximum%20Population%20Year)
 1855 | Maximum Distance Between a Pair of Values | Medium | [Solution](leetcode/1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values)
+1861 | Rotating the Box | Medium | [Solution](leetcode/1861.%20Rotating%20the%20Box)
 1864 | Minimum Number of Swaps to Make the Binary String Alternating | Medium | [Solution]
 1865 | Finding Pairs With a Certain Sum | Medium | [Solution](leetcode/1865.%20Finding%20Pairs%20With%20a%20Certain%20Sum)
 1869 | Longer Contiguous Segments of Ones than Zeros | Easy | [Solution](leetcode/1869.%20Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros)
