@@ -677,6 +677,7 @@ My C++ Code for LeetCode OJ.
 1996 | The Number of Weak Characters in the Game | Medium | [Solution](leetcode/1996.%20The%20Number%20of%20Weak%20Characters%20in%20the%20Game)
 2000 | Reverse Prefix of Word | Easy | [Solution](leetcode/2000.%20Reverse%20Prefix%20of%20Word)
 2001 | Number of Pairs of Interchangeable Rectangles | Medium | [Solution](leetcode/2001.%20Number%20of%20Pairs%20of%20Interchangeable%20Rectangles)
+2008 | Maximum Earnings From Taxi | Medium | [Solution](leetcode/2008.%20Maximum%20Earnings%20From%20Taxi)
 2011 | Final Value of Variable After Performing Operations | Easy | [Solution](leetcode/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations)
 2022 | Convert 1D Array Into 2D Array | Easy | [Solution](leetcode/2022.%20Convert%201D%20Array%20Into%202D%20Array)
 2023 | Number of Pairs of Strings With Concatenation Equal to Target | Medium | [Solution](leetcode/2023.%20Number%20of%20Pairs%20of%20Strings%20With%20Concatenation%20Equal%20to%20Target)
