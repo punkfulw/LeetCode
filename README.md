@@ -367,6 +367,7 @@ My C++ Code for LeetCode OJ.
 958 | Check Completeness of a Binary Tree | Medium | [Solution](leetcode/958.%20Check%20Completeness%20of%20a%20Binary%20Tree)
 961 | N-Repeated Element in Size 2N Array | Easy | [Solution](leetcode/961.%20N-Repeated%20Element%20in%20Size%202N%20Array)
 965 | Univalued Binary Tree | Easy | [Solution](leetcode/965.%20Univalued%20Binary%20Tree)
+967 | Numbers With Same Consecutive Differences | Medium | [Solution](leetcode/967.%20Numbers%20With%20Same%20Consecutive%20Differences)
 969 | Pancake Sorting | Medium | [Solution](leetcode/969.%20Pancake%20Sorting)
 970 | Powerful Integers | Medium | [Solution](leetcode/970.%20Powerful%20Integers)
 973 | K Closest Points to Origin | Medium | [Solution](leetcode/973.%20K%20Closest%20Points%20to%20Origin)
