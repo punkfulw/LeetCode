@@ -283,6 +283,7 @@ My C++ Code for LeetCode OJ.
 709 | To Lower Case | Easy | [Solution](leetcode/709.%20To%20Lower%20Case)
 717 | 1-bit and 2-bit Characters | Easy | [Solution](leetcode/717.%201-bit%20and%202-bit%20Characters)
 718 | Maximum Length of Repeated Subarray | Medium | [Solution](leetcode/718.%20Maximum%20Length%20of%20Repeated%20Subarray)
+724 | Find Pivot Index | Easy | [Solution](leetcode/724.%20Find%20Pivot%20Index)
 725 | Split Linked List in Parts | Medium | [Solution](leetcode/725.%20Split%20Linked%20List%20in%20Parts)
 728 | Self Dividing Numbers | Easy | [Solution](leetcode/728.%20Self%20Dividing%20Numbers)
 733 | Flood Fill | Easy | [Solution](leetcode/733.%20Flood%20Fill)
