@@ -377,6 +377,7 @@ My C++ Code for LeetCode OJ.
 978 | Longest Turbulent Subarray | Medium | [Solution](leetcode/978.%20Longest%20Turbulent%20Subarray)
 980 | Unique Paths III | Hard | [Solution](leetcode/980.%20Unique%20Paths%20III)
 985 | Sum of Even Numbers After Queries | Easy | [Solution](leetcode/985.%20Sum%20of%20Even%20Numbers%20After%20Queries)
+987 | Vertical Order Traversal of a Binary Tree | Medium | [Solution](leetcode/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree)
 989 | Add to Array-Form of Integer | Easy | [Solution](leetcode/989.%20Add%20to%20Array-Form%20of%20Integer)
 993 | Cousins in Binary Tree | Easy | [Solution](leetcode/993.%20Cousins%20in%20Binary%20Tree)
 994 | Rotting Oranges | Medium | [Solution](leetcode/994.%20Rotting%20Oranges)
