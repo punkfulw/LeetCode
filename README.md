@@ -622,6 +622,7 @@ My C++ Code for LeetCode OJ.
 1834 | Single-Threaded CPU | Medium | [Solution](leetcode/1834.%20Single-Threaded%20CPU)
 1835 | Find XOR Sum of All Pairs Bitwise AND | Hard | [Solution](leetcode/1835.%20Find%20XOR%20Sum%20of%20All%20Pairs%20Bitwise%20AND)
 1837 | Sum of Digits in Base K | Easy | [Solution](leetcode/1837.%20Sum%20of%20Digits%20in%20Base%20K)
+1838 | Frequency of the Most Frequent Element | Medium | [Solution](leetcode/1838.%20Frequency%20of%20the%20Most%20Frequent%20Element)
 1839 | Longest Substring Of All Vowels in Order | Medium | [Solution](leetcode/1839.%20Longest%20Substring%20Of%20All%20Vowels%20in%20Order)
 1844 | Replace All Digits with Characters | Easy | [Solution](leetcode/1844.%20Replace%20All%20Digits%20with%20Characters)
 1846 | Maximum Element After Decreasing and Rearranging | Medium | [Solution](leetcode/1846.%20Maximum%20Element%20After%20Decreasing%20and%20Rearranging)
