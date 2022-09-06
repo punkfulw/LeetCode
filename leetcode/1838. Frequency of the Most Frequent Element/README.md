@@ -74,8 +74,3 @@ public:
     }
 };
 ```
-
-
-## Discuss
-
-https://leetcode.com/problems/frequency-of-the-most-frequent-element/discuss/1175088/C%2B%2B-Maximum-Sliding-Window-Cheatsheet-Template!
