@@ -440,6 +440,7 @@ My C++ Code for LeetCode OJ.
 1219 | Path with Maximum Gold | Medium | [Solution](leetcode/1219.%20Path%20with%20Maximum%20Gold)
 1220 | Count Vowels Permutation | Hard | [Solution](leetcode/1220.%20Count%20Vowels%20Permutation)
 1221 | Split a String in Balanced Strings | Easy | [Solution](leetcode/1221.%20Split%20a%20String%20in%20Balanced%20Strings)
+1222 | Queens That Can Attack the King | Medium | [Solution](leetcode/1222.%20Queens%20That%20Can%20Attack%20the%20King)
 1233 | Remove Sub-Folders from the Filesystem | Medium | [Solution](leetcode/1233.%20Remove%20Sub-Folders%20from%20the%20Filesystem)
 1250 | Check If It Is a Good Array | Hard | [Solution](leetcode/1250.%20Check%20If%20It%20Is%20a%20Good%20Array)
 1252 | Cells with Odd Values in a Matrix | Easy | [Solution](leetcode/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix)
