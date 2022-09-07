@@ -218,6 +218,7 @@ My C++ Code for LeetCode OJ.
 463 | Island Perimeter | Easy | [Solution](leetcode/463.%20Island%20Perimeter)
 476 | Number Complement | Easy | [Solution](leetcode/476.%20Number%20Complement)
 477 | Total Hamming Distance | Medium | [Solution](leetcode/477.%20Total%20Hamming%20Distance)
+485 | Max Consecutive Ones | Easy | [Solution](leetcode/485.%20Max%20Consecutive%20Ones)
 492 | Construct the Rectangle | Easy | [Solution](leetcode/492.%20Construct%20the%20Rectangle)
 500 | Keyboard Row | Easy | [Solution](leetcode/500.%20Keyboard%20Row)
 501 | Find Mode in Binary Search Tree | Easy | [Solution](leetcode/501.%20Find%20Mode%20in%20Binary%20Search%20Tree)
