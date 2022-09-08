@@ -427,6 +427,7 @@ My C++ Code for LeetCode OJ.
 1154 | Day of the Year | Easy | [Solution](leetcode/1154.%20Day%20of%20the%20Year)
 1160 | Find Words That Can Be Formed by Characters | Easy | [Solution](leetcode/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters)
 1161 | Maximum Level Sum of a Binary Tree | Medium | [Solution](leetcode/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree)
+1162 | As Far from Land as Possible | Medium | [Solution](leetcode/1162.%20As%20Far%20from%20Land%20as%20Possible)
 1175 | Prime Arrangements | Easy | [Solution](leetcode/1175.%20Prime%20Arrangements)
 1184 | Distance Between Bus Stops | Easy | [Solution](leetcode/1184.%20Distance%20Between%20Bus%20Stops)
 1185 | Day of the Week | Easy | [Solution](leetcode/1185.%20Day%20of%20the%20Week)
