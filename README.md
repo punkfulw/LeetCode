@@ -230,6 +230,7 @@ My C++ Code for LeetCode OJ.
 506 | Relative Ranks | Easy | [Solution](leetcode/506.%20Relative%20Ranks)
 507 | Perfect Number | Easy | [Solution](leetcode/507.%20Perfect%20Number)
 509 | Fibonacci Number | Easy | [Solution](leetcode/509.%20Fibonacci%20Number)
+514 | Freedom Trail | Hard | [Solution](leetcode/514.%20Freedom%20Trail)
 515 | Find Largest Value in Each Tree Row | Medium | [Solution](leetcode/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row)
 520 | Detect Capital | Easy | [Solution](leetcode/520.%20Detect%20Capital)
 521 | Longest Uncommon Subsequence I | Easy | [Solution](leetcode/521.%20Longest%20Uncommon%20Subsequence%20I)
