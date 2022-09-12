@@ -47,7 +47,7 @@
 **Similar Questions**:
 * [Subsets (Medium)](https://leetcode.com/problems/subsets/)
 
-## Solution 1. Bitmask
+## Solution 1. 
 
 
 ```cpp
