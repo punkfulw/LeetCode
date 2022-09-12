@@ -225,6 +225,7 @@ My C++ Code for LeetCode OJ.
 492 | Construct the Rectangle | Easy | [Solution](leetcode/492.%20Construct%20the%20Rectangle)
 500 | Keyboard Row | Easy | [Solution](leetcode/500.%20Keyboard%20Row)
 501 | Find Mode in Binary Search Tree | Easy | [Solution](leetcode/501.%20Find%20Mode%20in%20Binary%20Search%20Tree)
+502 | IPO | Hard | [Solution](leetcode/502.%20IPO)
 503 | Next Greater Element II | Medium | [Solution](leetcode/503.%20Next%20Greater%20Element%20II)
 504 | Base 7 | Easy | [Solution](leetcode/504.%20Base%207)
 506 | Relative Ranks | Easy | [Solution](leetcode/506.%20Relative%20Ranks)
