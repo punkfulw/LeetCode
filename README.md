@@ -482,6 +482,7 @@ My C++ Code for LeetCode OJ.
 1323 | Maximum 69 Number | Easy | [Solution](leetcode/1323.%20Maximum%2069%20Number)
 1324 | Print Words Vertically | Medium | [Solution](leetcode/1324.%20Print%20Words%20Vertically)
 1329 | Sort the Matrix Diagonally | Medium | [Solution](leetcode/1329.%20Sort%20the%20Matrix%20Diagonally)
+1331 | Rank Transform of an Array | Easy | [Solution](leetcode/1331.%20Rank%20Transform%20of%20an%20Array)
 1332 | Remove Palindromic Subsequences | Easy | [Solution](leetcode/1332.%20Remove%20Palindromic%20Subsequences)
 1337 | The K Weakest Rows in a Matrix | Easy | [Solution](leetcode/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix)
 1338 | Reduce Array Size to The Half | Medium | [Solution](leetcode/1338.%20Reduce%20Array%20Size%20to%20The%20Half)
