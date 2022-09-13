@@ -602,6 +602,7 @@ My C++ Code for LeetCode OJ.
 1721 | Swapping Nodes in a Linked List | Medium | [Solution](leetcode/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List)
 1725 | Number Of Rectangles That Can Form The Largest Square | Easy | [Solution](leetcode/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square)
 1732 | Find the Highest Altitude | Easy | [Solution](leetcode/1732.%20Find%20the%20Highest%20Altitude)
+1736 | Latest Time by Replacing Hidden Digits | Easy | [Solution](leetcode/1736.%20Latest%20Time%20by%20Replacing%20Hidden%20Digits)
 1742 | Maximum Number of Balls in a Box | Easy | [Solution](leetcode/1742.%20Maximum%20Number%20of%20Balls%20in%20a%20Box)
 1743 | Restore the Array From Adjacent Pairs | Medium | [Solution](leetcode/1743.%20Restore%20the%20Array%20From%20Adjacent%20Pairs)
 1748 | Sum of Unique Elements | Easy | [Solution](leetcode/1748.%20Sum%20of%20Unique%20Elements)
