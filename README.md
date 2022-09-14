@@ -728,6 +728,7 @@ My C++ Code for LeetCode OJ.
 2091 | Removing Minimum and Maximum From Array | Medium | [Solution](leetcode/2091.%20Removing%20Minimum%20and%20Maximum%20From%20Array)
 2094 | Finding 3-Digit Even Numbers | Easy | [Solution](leetcode/2094.%20Finding%203-Digit%20Even%20Numbers)
 2100 | Find Good Days to Rob the Bank | Medium | [Solution](leetcode/2100.%20Find%20Good%20Days%20to%20Rob%20the%20Bank)
+2103 | Rings and Rods | Easy | [Solution](leetcode/2103.%20Rings%20and%20Rods)
 2108 | Find First Palindromic String in the Array | Easy | [Solution](leetcode/2108.%20Find%20First%20Palindromic%20String%20in%20the%20Array)
 2109 | Adding Spaces to a String | Medium | [Solution](leetcode/2109.%20Adding%20Spaces%20to%20a%20String)
 2119 | A Number After a Double Reversal | Easy | [Solution](leetcode/2119.%20A%20Number%20After%20a%20Double%20Reversal)
