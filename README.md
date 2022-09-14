@@ -482,6 +482,7 @@ My C++ Code for LeetCode OJ.
 1317 | Convert Integer to the Sum of Two No-Zero Integers | Easy | [Solution](leetcode/1317.%20Convert%20Integer%20to%20the%20Sum%20of%20Two%20No-Zero%20Integers)
 1323 | Maximum 69 Number | Easy | [Solution](leetcode/1323.%20Maximum%2069%20Number)
 1324 | Print Words Vertically | Medium | [Solution](leetcode/1324.%20Print%20Words%20Vertically)
+1325 | Delete Leaves With a Given Value | Medium | [Solution](leetcode/1325.%20Delete%20Leaves%20With%20a%20Given%20Value)
 1329 | Sort the Matrix Diagonally | Medium | [Solution](leetcode/1329.%20Sort%20the%20Matrix%20Diagonally)
 1331 | Rank Transform of an Array | Easy | [Solution](leetcode/1331.%20Rank%20Transform%20of%20an%20Array)
 1332 | Remove Palindromic Subsequences | Easy | [Solution](leetcode/1332.%20Remove%20Palindromic%20Subsequences)
