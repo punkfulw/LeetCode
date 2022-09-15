@@ -705,6 +705,7 @@ My C++ Code for LeetCode OJ.
 1996 | The Number of Weak Characters in the Game | Medium | [Solution](leetcode/1996.%20The%20Number%20of%20Weak%20Characters%20in%20the%20Game)
 2000 | Reverse Prefix of Word | Easy | [Solution](leetcode/2000.%20Reverse%20Prefix%20of%20Word)
 2001 | Number of Pairs of Interchangeable Rectangles | Medium | [Solution](leetcode/2001.%20Number%20of%20Pairs%20of%20Interchangeable%20Rectangles)
+2007 | Find Original Array From Doubled Array | Medium | [Solution](leetcode/2007.%20Find%20Original%20Array%20From%20Doubled%20Array)
 2008 | Maximum Earnings From Taxi | Medium | [Solution](leetcode/2008.%20Maximum%20Earnings%20From%20Taxi)
 2011 | Final Value of Variable After Performing Operations | Easy | [Solution](leetcode/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations)
 2013 | Detect Squares | Medium | [Solution](leetcode/2013.%20Detect%20Squares)
