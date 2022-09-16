@@ -372,6 +372,7 @@ My C++ Code for LeetCode OJ.
 931 | Minimum Falling Path Sum | Medium | [Solution](leetcode/931.%20Minimum%20Falling%20Path%20Sum)
 932 | Beautiful Array | Medium | [Solution](leetcode/932.%20Beautiful%20Array)
 933 | Number of Recent Calls | Easy | [Solution](leetcode/933.%20Number%20of%20Recent%20Calls)
+934 | Shortest Bridge | Medium | [Solution](leetcode/934.%20Shortest%20Bridge)
 938 | Range Sum of BST | Easy | [Solution](leetcode/938.%20Range%20Sum%20of%20BST)
 944 | Delete Columns to Make Sorted | Easy | [Solution](leetcode/944.%20Delete%20Columns%20to%20Make%20Sorted)
 946 | Validate Stack Sequences | Medium | [Solution](leetcode/946.%20Validate%20Stack%20Sequences)
