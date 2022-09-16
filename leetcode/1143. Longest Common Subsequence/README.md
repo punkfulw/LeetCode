@@ -6,7 +6,7 @@
 
 <ul>
 	<li>For example, <code>"ace"</code> is a subsequence of <code>"abcde"</code>.</li>
-</ul>
+</ul> 
 
 <p>A <strong>common subsequence</strong> of two strings is a subsequence that is common to both strings.</p>
 
