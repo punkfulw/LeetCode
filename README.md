@@ -374,6 +374,7 @@ My C++ Code for LeetCode OJ.
 933 | Number of Recent Calls | Easy | [Solution](leetcode/933.%20Number%20of%20Recent%20Calls)
 934 | Shortest Bridge | Medium | [Solution](leetcode/934.%20Shortest%20Bridge)
 938 | Range Sum of BST | Easy | [Solution](leetcode/938.%20Range%20Sum%20of%20BST)
+941 | Valid Mountain Array | Easy | [Solution](leetcode/941.%20Valid%20Mountain%20Array)
 944 | Delete Columns to Make Sorted | Easy | [Solution](leetcode/944.%20Delete%20Columns%20to%20Make%20Sorted)
 946 | Validate Stack Sequences | Medium | [Solution](leetcode/946.%20Validate%20Stack%20Sequences)
 947 | Most Stones Removed with Same Row or Column | Medium | [Solution](leetcode/947.%20Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column)
