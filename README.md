@@ -501,6 +501,7 @@ My C++ Code for LeetCode OJ.
 1346 | Check If N and Its Double Exist | Easy | [Solution](leetcode/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist)
 1347 | Minimum Number of Steps to Make Two Strings Anagram | Medium | [Solution](leetcode/1347.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram)
 1351 | Count Negative Numbers in a Sorted Matrix | Easy | [Solution](leetcode/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix)
+1352 | Product of the Last K Numbers | Medium | [Solution](leetcode/1352.%20Product%20of%20the%20Last%20K%20Numbers)
 1356 | Sort Integers by The Number of 1 Bits | Easy | [Solution](leetcode/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits)
 1357 | Apply Discount Every n Orders | Medium | [Solution](leetcode/1357.%20Apply%20Discount%20Every%20n%20Orders)
 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | [Solution](leetcode/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number)
