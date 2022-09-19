@@ -258,6 +258,7 @@ My C++ Code for LeetCode OJ.
 598 | Range Addition II | Easy | [Solution](leetcode/598.%20Range%20Addition%20II)
 600 | Non-negative Integers without Consecutive Ones | Hard | [Solution](leetcode/600.%20Non-negative%20Integers%20without%20Consecutive%20Ones)
 606 | Construct String from Binary Tree | Easy | [Solution](leetcode/606.%20Construct%20String%20from%20Binary%20Tree)
+609 | Find Duplicate File in System | Medium | [Solution](leetcode/609.%20Find%20Duplicate%20File%20in%20System)
 611 | Valid Triangle Number | Medium | [Solution](leetcode/611.%20Valid%20Triangle%20Number)
 617 | Merge Two Binary Trees | Easy | [Solution](leetcode/617.%20Merge%20Two%20Binary%20Trees)
 623 | Add One Row to Tree | Medium | [Solution](leetcode/623.%20Add%20One%20Row%20to%20Tree)
