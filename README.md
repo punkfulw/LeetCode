@@ -504,6 +504,7 @@ My C++ Code for LeetCode OJ.
 1352 | Product of the Last K Numbers | Medium | [Solution](leetcode/1352.%20Product%20of%20the%20Last%20K%20Numbers)
 1356 | Sort Integers by The Number of 1 Bits | Easy | [Solution](leetcode/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits)
 1357 | Apply Discount Every n Orders | Medium | [Solution](leetcode/1357.%20Apply%20Discount%20Every%20n%20Orders)
+1360 | Number of Days Between Two Dates | Easy | [Solution](leetcode/1360.%20Number%20of%20Days%20Between%20Two%20Dates)
 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | [Solution](leetcode/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number)
 1370 | Increasing Decreasing String | Easy | [Solution](leetcode/1370.%20Increasing%20Decreasing%20String)
 1374 | Generate a String With Characters That Have Odd Counts | Easy | [Solution](leetcode/1374.%20Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts)
