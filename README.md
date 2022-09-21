@@ -438,6 +438,7 @@ My C++ Code for LeetCode OJ.
 1130 | Minimum Cost Tree From Leaf Values | Medium | [Solution](leetcode/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values)
 1137 | N-th Tribonacci Number | Easy | [Solution](leetcode/1137.%20N-th%20Tribonacci%20Number)
 1138 | Alphabet Board Path | Medium | [Solution](leetcode/1138.%20Alphabet%20Board%20Path)
+1139 | Largest 1-Bordered Square | Medium | [Solution](leetcode/1139.%20Largest%201-Bordered%20Square)
 1143 | Longest Common Subsequence | Medium | [Solution](leetcode/1143.%20Longest%20Common%20Subsequence)
 1144 | Decrease Elements To Make Array Zigzag | Medium | [Solution](leetcode/1144.%20Decrease%20Elements%20To%20Make%20Array%20Zigzag)
 1154 | Day of the Year | Easy | [Solution](leetcode/1154.%20Day%20of%20the%20Year)
