@@ -690,6 +690,7 @@ My C++ Code for LeetCode OJ.
 1921 | Eliminate Maximum Number of Monsters | Medium | [Solution](leetcode/1921.%20Eliminate%20Maximum%20Number%20of%20Monsters)
 1922 | Count Good Numbers | Medium | [Solution](leetcode/1922.%20Count%20Good%20Numbers)
 1925 | Count Square Sum Triples | Easy | [Solution](leetcode/1925.%20Count%20Square%20Sum%20Triples)
+1926 | Nearest Exit from Entrance in Maze | Medium | [Solution](leetcode/1926.%20Nearest%20Exit%20from%20Entrance%20in%20Maze)
 1929 | Concatenation of Array | Easy | [Solution](leetcode/1929.%20Concatenation%20of%20Array)
 1930 | Unique Length-3 Palindromic Subsequences | Medium | [Solution](leetcode/1930.%20Unique%20Length-3%20Palindromic%20Subsequences)
 1935 | Maximum Number of Words You Can Type | Easy | [Solution](leetcode/1935.%20Maximum%20Number%20of%20Words%20You%20Can%20Type)
