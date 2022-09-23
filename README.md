@@ -479,6 +479,7 @@ My C++ Code for LeetCode OJ.
 1286 | Iterator for Combination | Medium | [Solution](leetcode/1286.%20Iterator%20for%20Combination)
 1287 | Element Appearing More Than 25% In Sorted Array | Easy | [Solution](leetcode/1287.%20Element%20Appearing%20More%20Than%2025%25%20In%20Sorted%20Array)
 1290 | Convert Binary Number in a Linked List to Integer | Easy | [Solution](leetcode/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer)
+1291 | Sequential Digits | Medium | [Solution](leetcode/1291.%20Sequential%20Digits)
 1295 | Find Numbers with Even Number of Digits | Easy | [Solution](leetcode/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits)
 1299 | Replace Elements with Greatest Element on Right Side | Easy | [Solution](leetcode/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side)
 1302 | Deepest Leaves Sum | Medium | [Solution](leetcode/1302.%20Deepest%20Leaves%20Sum)
