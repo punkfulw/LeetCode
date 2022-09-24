@@ -483,6 +483,7 @@ My C++ Code for LeetCode OJ.
 1291 | Sequential Digits | Medium | [Solution](leetcode/1291.%20Sequential%20Digits)
 1295 | Find Numbers with Even Number of Digits | Easy | [Solution](leetcode/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits)
 1299 | Replace Elements with Greatest Element on Right Side | Easy | [Solution](leetcode/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side)
+1300 | Sum of Mutated Array Closest to Target | Medium | [Solution](leetcode/1300.%20Sum%20of%20Mutated%20Array%20Closest%20to%20Target)
 1302 | Deepest Leaves Sum | Medium | [Solution](leetcode/1302.%20Deepest%20Leaves%20Sum)
 1304 | Find N Unique Integers Sum up to Zero | Easy | [Solution](leetcode/1304.%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero)
 1305 | All Elements in Two Binary Search Trees | Medium | [Solution](leetcode/1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees)
