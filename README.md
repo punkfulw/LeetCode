@@ -364,6 +364,7 @@ My C++ Code for LeetCode OJ.
 905 | Sort Array By Parity | Easy | [Solution](leetcode/905.%20Sort%20Array%20By%20Parity)
 908 | Smallest Range I | Easy | [Solution](leetcode/908.%20Smallest%20Range%20I)
 912 | Sort an Array | Medium | [Solution](leetcode/912.%20Sort%20an%20Array)
+914 | X of a Kind in a Deck of Cards | Easy | [Solution](leetcode/914.%20X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards)
 915 | Partition Array into Disjoint Intervals | Medium | [Solution](leetcode/915.%20Partition%20Array%20into%20Disjoint%20Intervals)
 916 | Word Subsets | Medium | [Solution](leetcode/916.%20Word%20Subsets)
 917 | Reverse Only Letters | Easy | [Solution](leetcode/917.%20Reverse%20Only%20Letters)
