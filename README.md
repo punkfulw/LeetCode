@@ -275,6 +275,7 @@ My C++ Code for LeetCode OJ.
 655 | Print Binary Tree | Medium | [Solution](leetcode/655.%20Print%20Binary%20Tree)
 657 | Robot Return to Origin | Easy | [Solution](leetcode/657.%20Robot%20Return%20to%20Origin)
 658 | Find K Closest Elements | Medium | [Solution](leetcode/658.%20Find%20K%20Closest%20Elements)
+661 | Image Smoother | Easy | [Solution](leetcode/661.%20Image%20Smoother)
 665 | Non-decreasing Array | Easy | [Solution](leetcode/665.%20Non-decreasing%20Array)
 669 | Trim a Binary Search Tree | Medium | [Solution](leetcode/669.%20Trim%20a%20Binary%20Search%20Tree)
 671 | Second Minimum Node In a Binary Tree | Easy | [Solution](leetcode/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree)
