@@ -735,6 +735,7 @@ My C++ Code for LeetCode OJ.
 2044 | Count Number of Maximum Bitwise-OR Subsets | Medium | [Solution](leetcode/2044.%20Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets)
 2047 | Number of Valid Words in a Sentence | Easy | [Solution](leetcode/2047.%20Number%20of%20Valid%20Words%20in%20a%20Sentence)
 2053 | Kth Distinct String in an Array | Easy | [Solution](leetcode/2053.%20Kth%20Distinct%20String%20in%20an%20Array)
+2059 | Minimum Operations to Convert Number | Medium | [Solution](leetcode/2059.%20Minimum%20Operations%20to%20Convert%20Number)
 2068 | Check Whether Two Strings are Almost Equivalent | Easy | [Solution](leetcode/2068.%20Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent)
 2070 | Most Beautiful Item for Each Query | Medium | [Solution](leetcode/2070.%20Most%20Beautiful%20Item%20for%20Each%20Query)
 2073 | Time Needed to Buy Tickets | Easy | [Solution](leetcode/2073.%20Time%20Needed%20to%20Buy%20Tickets)
