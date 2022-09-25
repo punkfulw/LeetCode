@@ -118,6 +118,7 @@ My C++ Code for LeetCode OJ.
 144 | Binary Tree Preorder Traversal | Easy | [Solution](leetcode/144.%20Binary%20Tree%20Preorder%20Traversal)
 145 | Binary Tree Postorder Traversal | Easy | [Solution](leetcode/145.%20Binary%20Tree%20Postorder%20Traversal)
 147 | Insertion Sort List | Medium | [Solution](leetcode/147.%20Insertion%20Sort%20List)
+149 | Max Points on a Line | Hard | [Solution](leetcode/149.%20Max%20Points%20on%20a%20Line)
 150 | Evaluate Reverse Polish Notation | Medium | [Solution](leetcode/150.%20Evaluate%20Reverse%20Polish%20Notation)
 152 | Maximum Product Subarray | Medium | [Solution](leetcode/152.%20Maximum%20Product%20Subarray)
 153 | Find Minimum in Rotated Sorted Array | Medium | [Solution](leetcode/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array)
