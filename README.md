@@ -311,6 +311,7 @@ My C++ Code for LeetCode OJ.
 752 | Open the Lock | Medium | [Solution](leetcode/752.%20Open%20the%20Lock)
 762 | Prime Number of Set Bits in Binary Representation | Easy | [Solution](leetcode/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation)
 763 | Partition Labels | Medium | [Solution](leetcode/763.%20Partition%20Labels)
+764 | Largest Plus Sign | Medium | [Solution](leetcode/764.%20Largest%20Plus%20Sign)
 766 | Toeplitz Matrix | Easy | [Solution](leetcode/766.%20Toeplitz%20Matrix)
 767 | Reorganize String | Medium | [Solution](leetcode/767.%20Reorganize%20String)
 769 | Max Chunks To Make Sorted | Medium | [Solution](leetcode/769.%20Max%20Chunks%20To%20Make%20Sorted)
