@@ -402,6 +402,7 @@ My C++ Code for LeetCode OJ.
 985 | Sum of Even Numbers After Queries | Easy | [Solution](leetcode/985.%20Sum%20of%20Even%20Numbers%20After%20Queries)
 987 | Vertical Order Traversal of a Binary Tree | Hard | [Solution](leetcode/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree)
 989 | Add to Array-Form of Integer | Easy | [Solution](leetcode/989.%20Add%20to%20Array-Form%20of%20Integer)
+990 | Satisfiability of Equality Equations | Medium | [Solution](leetcode/990.%20Satisfiability%20of%20Equality%20Equations)
 993 | Cousins in Binary Tree | Easy | [Solution](leetcode/993.%20Cousins%20in%20Binary%20Tree)
 994 | Rotting Oranges | Medium | [Solution](leetcode/994.%20Rotting%20Oranges)
 997 | Find the Town Judge | Easy | [Solution](leetcode/997.%20Find%20the%20Town%20Judge)
