@@ -33,22 +33,18 @@ public:
     }
     
     bool check(TrieNode *node, string &word, int idx){
+        if (!node)
+            return false;
         if (idx == word.size())
             return node->end == 1;
         bool ret = false;
         char c = word[idx];     
         
-        if (c == '.'){
-            for (int i = 0; i < 26 && !ret; i++){
-                if (node->child[i])
-                    ret |= check(node->child[i], word, idx + 1);
-            }
-        }
-        else {
-            if (node->child[c - 'a'] == nullptr)
-                    return false;
-                ret |= check(node->child[c - 'a'], word, idx + 1);
-        }
+        if (c == '.')
+            for (int i = 0; i < 26 && !ret; i++)
+                ret |= check(node->child[i], word, idx + 1);
+        else 
+            ret |= check(node->child[c - 'a'], word, idx + 1);
             
         return ret;
     }
