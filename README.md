@@ -150,6 +150,7 @@ My C++ Code for LeetCode OJ.
 206 | Reverse Linked List | Easy | [Solution](leetcode/206.%20Reverse%20Linked%20List)
 208 | Implement Trie (Prefix Tree) | Medium | [Solution](leetcode/208.%20Implement%20Trie%20%28Prefix%20Tree%29)
 209 | Minimum Size Subarray Sum | Medium | [Solution](leetcode/209.%20Minimum%20Size%20Subarray%20Sum)
+211 | Add and Search Word - Data structure design | Medium | [Solution](leetcode/211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design)
 213 | House Robber II | Medium | [Solution](leetcode/213.%20House%20Robber%20II)
 216 | Combination Sum III | Medium | [Solution](leetcode/216.%20Combination%20Sum%20III)
 217 | Contains Duplicate | Easy | [Solution](leetcode/217.%20Contains%20Duplicate)
