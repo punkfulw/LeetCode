@@ -179,6 +179,7 @@ My C++ Code for LeetCode OJ.
 287 | Find the Duplicate Number | Medium | [Solution](leetcode/287.%20Find%20the%20Duplicate%20Number)
 289 | Game of Life | Medium | [Solution](leetcode/289.%20Game%20of%20Life)
 295 | Find Median from Data Stream | Hard | [Solution](leetcode/295.%20Find%20Median%20from%20Data%20Stream)
+297 | Serialize and Deserialize Binary Tree | Hard | [Solution](leetcode/297.%20Serialize%20and%20Deserialize%20Binary%20Tree)
 300 | Longest Increasing Subsequence | Medium | [Solution](leetcode/300.%20Longest%20Increasing%20Subsequence)
 303 | Range Sum Query - Immutable | Easy | [Solution](leetcode/303.%20Range%20Sum%20Query%20-%20Immutable)
 316 | Remove Duplicate Letters | Medium | [Solution](leetcode/316.%20Remove%20Duplicate%20Letters)
