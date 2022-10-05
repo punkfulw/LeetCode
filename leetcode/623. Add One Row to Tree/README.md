@@ -64,24 +64,13 @@ A binary tree as following:
 **Related Topics**:  
 [Tree](https://leetcode.com/tag/tree/)
 
-## Solution 1.
+## Solution 1. DFS
 
 ```cpp
 // OJ: https://leetcode.com/problems/add-one-row-to-tree/
 // Author: github.com/punkfulw
 // Time: O(N)
 // Space: O(H)
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
     void dfs(TreeNode* root, int val, int depth, int lvl){
@@ -106,4 +95,48 @@ public:
         return root;
     }
 };
+```
+
+## Solution 2. BFS
+
+```cpp
+// OJ: https://leetcode.com/problems/add-one-row-to-tree/
+// Author: github.com/punkfulw
+// Time: O(N)
+// Space: O(H)
+class Solution {
+public:
+    TreeNode* addOneRow(TreeNode* root, int val, int depth) {
+        if (depth == 1){
+            TreeNode* newNode = new TreeNode(val);
+            newNode->left = root;
+            return newNode;
+        }
+        queue<TreeNode*> q;
+        q.push(root);
+        
+        int lvl = 1;
+        while (!q.empty() && lvl < depth){
+            int sz = q.size();
+            while (sz--){
+                TreeNode* node = q.front(); 
+                q.pop();
+                if (lvl == depth - 1){
+                    TreeNode* l = new TreeNode(val), *r = new TreeNode(val);
+                    l->left = node->left;
+                    r->right = node->right;
+                    node->left = l;
+                    node->right = r;
+                }
+                if (node->left)
+                    q.push(node->left);
+                if (node->right)
+                    q.push(node->right);
+            }
+            lvl++;
+        }
+        return root;
+    }
+};
+
 ```
