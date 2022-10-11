@@ -609,6 +609,7 @@ My C++ Code for LeetCode OJ.
 1614 | Maximum Nesting Depth of the Parentheses | Easy | [Solution](leetcode/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses)
 1615 | Maximal Network Rank | Medium | [Solution](leetcode/1615.%20Maximal%20Network%20Rank)
 1619 | Mean of Array After Removing Some Elements | Easy | [Solution](leetcode/1619.%20Mean%20of%20Array%20After%20Removing%20Some%20Elements)
+1624 | Largest Substring Between Two Equal Characters | Easy | [Solution](leetcode/1624.%20Largest%20Substring%20Between%20Two%20Equal%20Characters)
 1629 | Slowest Key | Easy | [Solution](leetcode/1629.%20Slowest%20Key)
 1630 | Arithmetic Subarrays | Medium | [Solution](leetcode/1630.%20Arithmetic%20Subarrays)
 1631 | Path With Minimum Effort | Medium | [Solution](leetcode/1631.%20Path%20With%20Minimum%20Effort)
