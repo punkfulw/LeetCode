@@ -187,6 +187,7 @@ My C++ Code for LeetCode OJ.
 326 | Power of Three | Easy | [Solution](leetcode/326.%20Power%20of%20Three)
 328 | Odd Even Linked List | Medium | [Solution](leetcode/328.%20Odd%20Even%20Linked%20List)
 329 | Longest Increasing Path in a Matrix | Hard | [Solution](leetcode/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix)
+334 | Increasing Triplet Subsequence | Medium | [Solution](leetcode/334.%20Increasing%20Triplet%20Subsequence)
 337 | House Robber III | Medium | [Solution](leetcode/337.%20House%20Robber%20III)
 338 | Counting Bits | Easy | [Solution](leetcode/338.%20Counting%20Bits)
 342 | Power of Four | Easy | [Solution](leetcode/342.%20Power%20of%20Four)
