@@ -51,11 +51,6 @@
 
 ## Solution 1.
 
-**Intuition**: Let `left[i]` be the greatest value in `A[0..i]`, and `right[i]` be the smallest value in `A[i..(N-1)]`. For the first condition, we just need to check if `A[i] > left[i - 1] && A[i] < right[i + 1]`.
-
-**Algorithm**:
-
-
 ```cpp
 // OJ: https://leetcode.com/problems/sum-of-beauty-in-the-array/
 // Author: github.com/punkfulw
