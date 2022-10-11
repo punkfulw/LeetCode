@@ -306,6 +306,7 @@ My C++ Code for LeetCode OJ.
 704 | Binary Search | Easy | [Solution](leetcode/704.%20Binary%20Search)
 706 | Design HashMap | Easy | [Solution](leetcode/706.%20Design%20HashMap)
 709 | To Lower Case | Easy | [Solution](leetcode/709.%20To%20Lower%20Case)
+714 | Best Time to Buy and Sell Stock with Transaction Fee | Medium | [Solution](leetcode/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee)
 717 | 1-bit and 2-bit Characters | Easy | [Solution](leetcode/717.%201-bit%20and%202-bit%20Characters)
 718 | Maximum Length of Repeated Subarray | Medium | [Solution](leetcode/718.%20Maximum%20Length%20of%20Repeated%20Subarray)
 724 | Find Pivot Index | Easy | [Solution](leetcode/724.%20Find%20Pivot%20Index)
