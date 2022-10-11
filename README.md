@@ -340,6 +340,7 @@ My C++ Code for LeetCode OJ.
 804 | Unique Morse Code Words | Easy | [Solution](leetcode/804.%20Unique%20Morse%20Code%20Words)
 806 | Number of Lines To Write String | Easy | [Solution](leetcode/806.%20Number%20of%20Lines%20To%20Write%20String)
 807 | Max Increase to Keep City Skyline | Medium | [Solution](leetcode/807.%20Max%20Increase%20to%20Keep%20City%20Skyline)
+812 | Largest Triangle Area | Easy | [Solution](leetcode/812.%20Largest%20Triangle%20Area)
 814 | Binary Tree Pruning | Medium | [Solution](leetcode/814.%20Binary%20Tree%20Pruning)
 819 | Most Common Word | Easy | [Solution](leetcode/819.%20Most%20Common%20Word)
 821 | Shortest Distance to a Character | Easy | [Solution](leetcode/821.%20Shortest%20Distance%20to%20a%20Character)
