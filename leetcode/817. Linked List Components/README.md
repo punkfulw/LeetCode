@@ -104,7 +104,7 @@ public:
 };
 ```
 
-## Solution s. Set
+## Solution 2. Set
 
 ```cpp
 // OJ: https://leetcode.com/problems/linked-list-components/
