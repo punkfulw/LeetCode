@@ -209,6 +209,7 @@ My C++ Code for LeetCode OJ.
 387 | First Unique Character in a String | Easy | [Solution](leetcode/387.%20First%20Unique%20Character%20in%20a%20String)
 389 | Find the Difference | Easy | [Solution](leetcode/389.%20Find%20the%20Difference)
 392 | Is Subsequence | Easy | [Solution](leetcode/392.%20Is%20Subsequence)
+394 | Decode String | Medium | [Solution](leetcode/394.%20Decode%20String)
 396 | Rotate Function | Medium | [Solution](leetcode/396.%20Rotate%20Function)
 398 | Random Pick Index | Medium | [Solution](leetcode/398.%20Random%20Pick%20Index)
 399 | Evaluate Division | Medium | [Solution](leetcode/399.%20Evaluate%20Division)
