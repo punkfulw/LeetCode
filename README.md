@@ -352,6 +352,7 @@ My C++ Code for LeetCode OJ.
 819 | Most Common Word | Easy | [Solution](leetcode/819.%20Most%20Common%20Word)
 821 | Shortest Distance to a Character | Easy | [Solution](leetcode/821.%20Shortest%20Distance%20to%20a%20Character)
 823 | Binary Trees With Factors | Medium | [Solution](leetcode/823.%20Binary%20Trees%20With%20Factors)
+826 | Most Profit Assigning Work | Medium | [Solution](leetcode/826.%20Most%20Profit%20Assigning%20Work)
 830 | Positions of Large Groups | Easy | [Solution](leetcode/830.%20Positions%20of%20Large%20Groups)
 832 | Flipping an Image | Easy | [Solution](leetcode/832.%20Flipping%20an%20Image)
 838 | Push Dominoes | Medium | [Solution](leetcode/838.%20Push%20Dominoes)
