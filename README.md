@@ -199,6 +199,7 @@ My C++ Code for LeetCode OJ.
 350 | Intersection of Two Arrays II | Easy | [Solution](leetcode/350.%20Intersection%20of%20Two%20Arrays%20II)
 367 | Valid Perfect Square | Easy | [Solution](leetcode/367.%20Valid%20Perfect%20Square)
 371 | Sum of Two Integers | Medium | [Solution](leetcode/371.%20Sum%20of%20Two%20Integers)
+372 | Super Pow | Medium | [Solution](leetcode/372.%20Super%20Pow)
 374 | Guess Number Higher or Lower | Easy | [Solution](leetcode/374.%20Guess%20Number%20Higher%20or%20Lower)
 376 | Wiggle Subsequence | Medium | [Solution](leetcode/376.%20Wiggle%20Subsequence)
 377 | Combination Sum IV | Medium | [Solution](leetcode/377.%20Combination%20Sum%20IV)
