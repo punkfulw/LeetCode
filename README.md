@@ -237,6 +237,7 @@ My C++ Code for LeetCode OJ.
 482 | License Key Formatting | Easy | [Solution](leetcode/482.%20License%20Key%20Formatting)
 485 | Max Consecutive Ones | Easy | [Solution](leetcode/485.%20Max%20Consecutive%20Ones)
 492 | Construct the Rectangle | Easy | [Solution](leetcode/492.%20Construct%20the%20Rectangle)
+498 | Diagonal Traverse | Medium | [Solution](leetcode/498.%20Diagonal%20Traverse)
 500 | Keyboard Row | Easy | [Solution](leetcode/500.%20Keyboard%20Row)
 501 | Find Mode in Binary Search Tree | Easy | [Solution](leetcode/501.%20Find%20Mode%20in%20Binary%20Search%20Tree)
 502 | IPO | Hard | [Solution](leetcode/502.%20IPO)
