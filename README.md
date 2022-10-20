@@ -299,6 +299,7 @@ My C++ Code for LeetCode OJ.
 680 | Valid Palindrome II | Easy | [Solution](leetcode/680.%20Valid%20Palindrome%20II)
 682 | Baseball Game | Easy | [Solution](leetcode/682.%20Baseball%20Game)
 684 | Redundant Connection | Medium | [Solution](leetcode/684.%20Redundant%20Connection)
+688 | Knight Probability in Chessboard | Medium | [Solution](leetcode/688.%20Knight%20Probability%20in%20Chessboard)
 690 | Employee Importance | Medium | [Solution](leetcode/690.%20Employee%20Importance)
 693 | Binary Number with Alternating Bits | Easy | [Solution](leetcode/693.%20Binary%20Number%20with%20Alternating%20Bits)
 692 | Top K Frequent Words | Medium | [Solution](leetcode/692.%20Top%20K%20Frequent%20Words)
