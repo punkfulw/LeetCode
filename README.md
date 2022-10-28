@@ -273,6 +273,7 @@ My C++ Code for LeetCode OJ.
 576 | Out of Boundary Paths | Medium | [Solution](leetcode/576.%20Out%20of%20Boundary%20Paths)
 581 | Shortest Unsorted Continuous Subarray | Medium | [Solution](leetcode/581.%20Shortest%20Unsorted%20Continuous%20Subarray)
 583 | Delete Operation for Two Strings | Medium | [Solution](leetcode/583.%20Delete%20Operation%20for%20Two%20Strings)
+594 | Longest Harmonious Subsequence | Easy | [Solution](leetcode/594.%20Longest%20Harmonious%20Subsequence)
 598 | Range Addition II | Easy | [Solution](leetcode/598.%20Range%20Addition%20II)
 600 | Non-negative Integers without Consecutive Ones | Hard | [Solution](leetcode/600.%20Non-negative%20Integers%20without%20Consecutive%20Ones)
 606 | Construct String from Binary Tree | Easy | [Solution](leetcode/606.%20Construct%20String%20from%20Binary%20Tree)
