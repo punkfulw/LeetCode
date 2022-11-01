@@ -795,6 +795,7 @@ My C++ Code for LeetCode OJ.
 2124 | Check if All A's Appears Before All B's | Easy | [Solution](leetcode/2124.%20Check%20if%20All%20A%27s%20Appears%20Before%20All%20B%27s)
 2125 | Number of Laser Beams in a Bank | Medium | [Solution](leetcode/2125.%20Number%20of%20Laser%20Beams%20in%20a%20Bank)
 2126 | Destroying Asteroids | Medium | [Solution](leetcode/2126.%20Destroying%20Asteroids)
+2138 | Divide a String Into Groups of Size k | Easy | [Solution](leetcode/2138.%20Divide%20a%20String%20Into%20Groups%20of%20Size%20k)
 2140 | Solving Questions With Brainpower | Medium | [Solution](leetcode/2140.%20Solving%20Questions%20With%20Brainpower)
 2144 | Minimum Cost of Buying Candies With Discount | Easy | [Solution](leetcode/2144.%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount)
 2146 | K Highest Ranked Items Within a Price Range | Medium | [Solution](leetcode/2146.%20K%20Highest%20Ranked%20Items%20Within%20a%20Price%20Range)
