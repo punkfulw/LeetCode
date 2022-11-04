@@ -373,6 +373,7 @@ My C++ Code for LeetCode OJ.
 852 | Peak Index in a Mountain Array | Easy | [Solution](leetcode/852.%20Peak%20Index%20in%20a%20Mountain%20Array)
 853 | Car Fleet | Medium | [Solution](leetcode/853.%20Car%20Fleet)
 858 | Mirror Reflection | Medium | [Solution](leetcode/858.%20Mirror%20Reflection)
+859 | Buddy Strings | Easy | [Solution](leetcode/859.%20Buddy%20Strings)
 860 | Lemonade Change | Easy | [Solution](leetcode/860.%20Lemonade%20Change)
 861 | Score After Flipping Matrix | Medium | [Solution](leetcode/861.%20Score%20After%20Flipping%20Matrix)
 865 | Smallest Subtree with all the Deepest Nodes | Medium | [Solution](leetcode/865.%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes)
