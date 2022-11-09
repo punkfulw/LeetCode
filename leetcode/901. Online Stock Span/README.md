@@ -57,7 +57,7 @@ Note that (for example) S.next(75) returned 4, because the last 4 prices
 ```cpp
 // OJ: https://leetcode.com/problems/online-stock-span/
 // Author: github.com/punkfulw
-// Time: O(N) 
+// Time: O(N^2) 
 // Space: O(N)
 class StockSpanner {
 public:
@@ -84,7 +84,7 @@ public:
 // OJ: https://leetcode.com/problems/online-stock-span/
 // Author: github.com/punkfulw
 // Ref: https://leetcode.com/problems/online-stock-span/discuss/168311/C%2B%2BJavaPython-O(1)
-// Time: O(1) amortized
+// Time: O(N) 
 // Space: O(N)
 class StockSpanner {
 public:
@@ -101,3 +101,29 @@ public:
     }
 };
 ```
+
+## Solution 3. Monotonic Stack 2022
+
+
+```cpp
+// OJ: https://leetcode.com/problems/online-stock-span/
+// Author: github.com/punkfulw
+// Time: O(N) 
+// Space: O(N)
+class StockSpanner {
+public:
+    StockSpanner() {}    
+    stack<pair<int, int>> stk;  // i, price
+    int i = 0;
+    
+    int next(int price) {
+        i++;
+        while (!stk.empty() && price >= stk.top().second)
+            stk.pop();
+        int ans = stk.empty() ? i : i - stk.top().first;
+        stk.push({i, price});
+        return ans;
+    }
+};
+```
+
