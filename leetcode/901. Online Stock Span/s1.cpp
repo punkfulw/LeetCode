@@ -1,6 +1,6 @@
 // OJ: https://leetcode.com/problems/online-stock-span/
 // Author: github.com/punkfulw
-// Time: O(N) 
+// Time: O(N^2) 
 // Space: O(N)
 class StockSpanner {
 public:
