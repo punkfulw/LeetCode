@@ -464,6 +464,7 @@ My C++ Code for LeetCode OJ.
 1078 | Occurrences After Bigram | Easy | [Solution](leetcode/1078.%20Occurrences%20After%20Bigram)
 1079 | Letter Tile Possibilities | Medium | [Solution](leetcode/1079.%20Letter%20Tile%20Possibilities)
 1089 | Duplicate Zeros | Easy | [Solution](leetcode/1089.%20Duplicate%20Zeros)
+1090 | Largest Values From Labels | Medium | [Solution](leetcode/1090.%20Largest%20Values%20From%20Labels)
 1091 | Shortest Path in Binary Matrix | Medium | [Solution](leetcode/1091.%20Shortest%20Path%20in%20Binary%20Matrix)
 1094 | Car Pooling | Medium | [Solution](leetcode/1094.%20Car%20Pooling)
 1103 | Distribute Candies to People | Easy | [Solution](leetcode/1103.%20Distribute%20Candies%20to%20People)
