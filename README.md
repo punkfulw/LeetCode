@@ -651,6 +651,7 @@ My C++ Code for LeetCode OJ.
 1664 | Ways to Make a Fair Array | Medium | [Solution](leetcode/1664.%20Ways%20to%20Make%20a%20Fair%20Array)
 1668 | Maximum Repeating Substring | Easy | [Solution](leetcode/1668.%20Maximum%20Repeating%20Substring)
 1669 | Merge In Between Linked Lists | Medium | [Solution](leetcode/1669.%20Merge%20In%20Between%20Linked%20Lists)
+1670 | Design Front Middle Back Queue | Medium | [Solution](leetcode/1670.%20Design%20Front%20Middle%20Back%20Queue)
 1671 | Minimum Number of Removals to Make Mountain Array | Hard | [Solution](leetcode/1671.%20Minimum%20Number%20of%20Removals%20to%20Make%20Mountain%20Array)
 1672 | Richest Customer Wealth | Easy | [Solution](leetcode/1672.%20Richest%20Customer%20Wealth)
 1678 | Goal Parser Interpretation | Easy | [Solution](leetcode/1678.%20Goal%20Parser%20Interpretation)
