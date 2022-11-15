@@ -613,6 +613,7 @@ My C++ Code for LeetCode OJ.
 1537 | Get the Maximum Score | Hard | [Solution](leetcode/1537.%20Get%20the%20Maximum%20Score)
 1539 | Kth Missing Positive Number | Easy | [Solution](leetcode/1539.%20Kth%20Missing%20Positive%20Number)
 1544 | Make The String Great | Easy | [Solution](leetcode/1544.%20Make%20The%20String%20Great)
+1545 | Find Kth Bit in Nth Binary String | Medium | [Solution](leetcode/1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String)
 1550 | Three Consecutive Odds | Easy | [Solution](leetcode/1550.%20Three%20Consecutive%20Odds)
 1551 | Minimum Operations to Make Array Equal | Medium | [Solution](leetcode/1551.%20Minimum%20Operations%20to%20Make%20Array%20Equal)
 1556 | Thousand Separator | Easy | [Solution](leetcode/1556.%20Thousand%20Separator)
