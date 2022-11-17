@@ -781,6 +781,7 @@ My C++ Code for LeetCode OJ.
 2013 | Detect Squares | Medium | [Solution](leetcode/2013.%20Detect%20Squares)
 2022 | Convert 1D Array Into 2D Array | Easy | [Solution](leetcode/2022.%20Convert%201D%20Array%20Into%202D%20Array)
 2023 | Number of Pairs of Strings With Concatenation Equal to Target | Medium | [Solution](leetcode/2023.%20Number%20of%20Pairs%20of%20Strings%20With%20Concatenation%20Equal%20to%20Target)
+2024 | Maximize the Confusion of an Exam | Medium | [Solution](leetcode/2024.%20Maximize%20the%20Confusion%20of%20an%20Exam)
 2027 | Minimum Moves to Convert String | Easy | [Solution](leetcode/2027.%20Minimum%20Moves%20to%20Convert%20String)
 2028 | Find Missing Observations | Medium | [Solution](leetcode/2028.%20Find%20Missing%20Observations)
 2032 | Two Out of Three | Easy | [Solution](leetcode/2032.%20Two%20Out%20of%20Three)
