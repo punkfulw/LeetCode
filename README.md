@@ -665,6 +665,7 @@ My C++ Code for LeetCode OJ.
 1696 | Jump Game VI | Medium | [Solution](leetcode/1696.%20Jump%20Game%20VI)
 1700 | Number of Students Unable to Eat Lunch | Easy | [Solution](leetcode/1700.%20Number%20of%20Students%20Unable%20to%20Eat%20Lunch)
 1701 | Average Waiting Time | Medium | [Solution](leetcode/1701.%20Average%20Waiting%20Time)
+1702 | Maximum Binary String After Change | Medium | [Solution](leetcode/1702.%20Maximum%20Binary%20String%20After%20Change)
 1704 | Determine if String Halves Are Alike | Easy | [Solution](leetcode/1704.%20Determine%20if%20String%20Halves%20Are%20Alike)
 1706 | Where Will the Ball Fall | Medium | [Solution](leetcode/1706.%20Where%20Will%20the%20Ball%20Fall)
 1710 | Maximum Units on a Truck | Easy | [Solution](leetcode/1710.%20Maximum%20Units%20on%20a%20Truck)
