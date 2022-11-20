@@ -278,6 +278,7 @@ My C++ Code for LeetCode OJ.
 598 | Range Addition II | Easy | [Solution](leetcode/598.%20Range%20Addition%20II)
 599 | Minimum Index Sum of Two Lists | Easy | [Solution](leetcode/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists)
 600 | Non-negative Integers without Consecutive Ones | Hard | [Solution](leetcode/600.%20Non-negative%20Integers%20without%20Consecutive%20Ones)
+605 | Can Place Flowers | Easy | [Solution](leetcode/605.%20Can%20Place%20Flowers)
 606 | Construct String from Binary Tree | Easy | [Solution](leetcode/606.%20Construct%20String%20from%20Binary%20Tree)
 609 | Find Duplicate File in System | Medium | [Solution](leetcode/609.%20Find%20Duplicate%20File%20in%20System)
 611 | Valid Triangle Number | Medium | [Solution](leetcode/611.%20Valid%20Triangle%20Number)
