@@ -374,6 +374,7 @@ My C++ Code for LeetCode OJ.
 844 | Backspace String Compare | Easy | [Solution](leetcode/844.%20Backspace%20String%20Compare)
 846 | Hand of Straights | Medium | [Solution](leetcode/846.%20Hand%20of%20Straights)
 848 | Shifting Letters | Medium | [Solution](leetcode/848.%20Shifting%20Letters)
+849 | Maximize Distance to Closest Person | Medium | [Solution](leetcode/849.%20Maximize%20Distance%20to%20Closest%20Person)
 852 | Peak Index in a Mountain Array | Easy | [Solution](leetcode/852.%20Peak%20Index%20in%20a%20Mountain%20Array)
 853 | Car Fleet | Medium | [Solution](leetcode/853.%20Car%20Fleet)
 858 | Mirror Reflection | Medium | [Solution](leetcode/858.%20Mirror%20Reflection)
