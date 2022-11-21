@@ -454,6 +454,7 @@ My C++ Code for LeetCode OJ.
 1020 | Number of Enclaves | Medium | [Solution](leetcode/1020.%20Number%20of%20Enclaves)
 1021 | Remove Outermost Parentheses | Easy | [Solution](leetcode/1021.%20Remove%20Outermost%20Parentheses)
 1022 | Sum of Root To Leaf Binary Numbers | Easy | [Solution](leetcode/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers)
+1025 | Divisor Game | Easy | [Solution](leetcode/1025.%20Divisor%20Game)
 1028 | Recover a Tree From Preorder Traversal | Hard | [Solution](leetcode/1028.%20Recover%20a%20Tree%20From%20Preorder%20Traversal)
 1030 | Matrix Cells in Distance Order | Easy | [Solution](leetcode/1030.%20Matrix%20Cells%20in%20Distance%20Order)
 1037 | Valid Boomerang | Easy | [Solution](leetcode/1037.%20Valid%20Boomerang)
