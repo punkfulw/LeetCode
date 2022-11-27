@@ -399,6 +399,7 @@ My C++ Code for LeetCode OJ.
 897 | Increasing Order Search Tree | Easy | [Solution](leetcode/897.%20Increasing%20Order%20Search%20Tree)
 899 | Orderly Queue | Hard | [Solution](leetcode/899.%20Orderly%20Queue)
 901 | Online Stock Span | Medium | [Solution](leetcode/901.%20Online%20Stock%20Span)
+904 | Fruit Into Baskets | Medium | [Solution](leetcode/904.%20Fruit%20Into%20Baskets)
 905 | Sort Array By Parity | Easy | [Solution](leetcode/905.%20Sort%20Array%20By%20Parity)
 908 | Smallest Range I | Easy | [Solution](leetcode/908.%20Smallest%20Range%20I)
 912 | Sort an Array | Medium | [Solution](leetcode/912.%20Sort%20an%20Array)
