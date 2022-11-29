@@ -818,6 +818,7 @@ My C++ Code for LeetCode OJ.
 2124 | Check if All A's Appears Before All B's | Easy | [Solution](leetcode/2124.%20Check%20if%20All%20A%27s%20Appears%20Before%20All%20B%27s)
 2125 | Number of Laser Beams in a Bank | Medium | [Solution](leetcode/2125.%20Number%20of%20Laser%20Beams%20in%20a%20Bank)
 2126 | Destroying Asteroids | Medium | [Solution](leetcode/2126.%20Destroying%20Asteroids)
+2129 | Capitalize the Title | Easy | [Solution](leetcode/2129.%20Capitalize%20the%20Title)
 2131 | Longest Palindrome by Concatenating Two Letter Words | Medium | [Solution](leetcode/2131.%20Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words)
 2138 | Divide a String Into Groups of Size k | Easy | [Solution](leetcode/2138.%20Divide%20a%20String%20Into%20Groups%20of%20Size%20k)
 2140 | Solving Questions With Brainpower | Medium | [Solution](leetcode/2140.%20Solving%20Questions%20With%20Brainpower)
