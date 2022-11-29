@@ -5,18 +5,15 @@
 class Solution {
 public:
     int reverse(int x) {
-        int ans = x;
-        int i {};
-   
-        while (ans != 0){
-            i++;
-            ans /= 10;
-        }
-        while (x != 0){
-            if (ans + x % 10 * pow(10, i-1) > 2147483647 || ans + x % 10 * pow(10, i-1) < -2147483648)
+        int ans = 0, limit1 = INT_MAX / 10, limit2 = INT_MIN / 10, remain1 = INT_MAX % 10, remain2 = INT_MIN % 10;
+        while (x){
+            if (ans > limit1 || ans < limit2)
                 return 0;
-            ans += x % 10 * pow(10, i-1);
-            i--;
+            if (ans == limit1 && x % 10 == remain1)
+                return 0;
+            if (ans == limit2 && x % 10 == remain2)
+                return 0;
+            ans = ans * 10 + x % 10;
             x /= 10;
         }
         return ans;
