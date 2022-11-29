@@ -301,6 +301,7 @@ My C++ Code for LeetCode OJ.
 669 | Trim a Binary Search Tree | Medium | [Solution](leetcode/669.%20Trim%20a%20Binary%20Search%20Tree)
 671 | Second Minimum Node In a Binary Tree | Easy | [Solution](leetcode/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree)
 674 | Longest Continuous Increasing Subsequence | Easy | [Solution](leetcode/674.%20Longest%20Continuous%20Increasing%20Subsequence)
+675 | Cut Off Trees for Golf Event | Hard | [Solution](leetcode/675.%20Cut%20Off%20Trees%20for%20Golf%20Event)
 676 | Implement Magic Dictionary | Medium | [Solution](leetcode/676.%20Implement%20Magic%20Dictionary)
 677 | Map Sum Pairs | Medium | [Solution](leetcode/677.%20Map%20Sum%20Pairs)
 680 | Valid Palindrome II | Easy | [Solution](leetcode/680.%20Valid%20Palindrome%20II)
