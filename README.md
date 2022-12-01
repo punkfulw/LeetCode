@@ -369,6 +369,7 @@ My C++ Code for LeetCode OJ.
 826 | Most Profit Assigning Work | Medium | [Solution](leetcode/826.%20Most%20Profit%20Assigning%20Work)
 830 | Positions of Large Groups | Easy | [Solution](leetcode/830.%20Positions%20of%20Large%20Groups)
 832 | Flipping an Image | Easy | [Solution](leetcode/832.%20Flipping%20an%20Image)
+833 | Find And Replace in String | Medium | [Solution](leetcode/833.%20Find%20And%20Replace%20in%20String)
 835 | Image Overlap | Medium | [Solution](leetcode/835.%20Image%20Overlap)
 838 | Push Dominoes | Medium | [Solution](leetcode/838.%20Push%20Dominoes)
 841 | Keys and Rooms | Medium | [Solution](leetcode/841.%20Keys%20and%20Rooms)
