@@ -69,7 +69,6 @@ public:
     }
     string findReplaceString(string s, vector<int>& idxs, vector<string>& srs, vector<string>& tars) {
         int k = idxs.size();
-        string ans = "";
         map<int, pair<string, string>> mp;
         
         for (int i = 0; i < k; i++){
@@ -78,16 +77,14 @@ public:
             mp[-idx] = {ss, tar};
         }
         
-        for (auto p: mp){
+        for (auto &p: mp){
             int idx = -p.first;
             string ss = p.second.first, tar = p.second.second;
-            // cout << idx << " " << ss << " " << tar << endl;
             if (!check(s, idx, ss))
                 continue;
             string head = s.substr(0, idx), tail = s.substr(idx + ss.size());
-            // cout << head << " " << tail << endl;
             s = head + tar + tail;
-        } 
+        }
         return s;
     }
 };
