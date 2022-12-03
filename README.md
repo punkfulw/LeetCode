@@ -453,6 +453,7 @@ My C++ Code for LeetCode OJ.
 1005 | Maximize Sum Of Array After K Negations | Easy | [Solution](leetcode/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations)
 1008 | Construct Binary Search Tree from Preorder Traversal | Medium | [Solution](leetcode/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal)
 1009 | Complement of Base 10 Integer | Easy | [Solution](leetcode/1009.%20Complement%20of%20Base%2010%20Integer)
+1010 | Pairs of Songs With Total Durations Divisible by 60 | Medium | [Solution](leetcode/1010.%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060)
 1013 | Partition Array Into Three Parts With Equal Sum | Easy | [Solution](leetcode/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum)
 1014 | Best Sightseeing Pair | Medium | [Solution](leetcode/1014.%20Best%20Sightseeing%20Pair)
 1018 | Binary Prefix Divisible By 5 | Easy | [Solution](leetcode/1018.%20Binary%20Prefix%20Divisible%20By%205)
