@@ -204,6 +204,7 @@ My C++ Code for LeetCode OJ.
 376 | Wiggle Subsequence | Medium | [Solution](leetcode/376.%20Wiggle%20Subsequence)
 377 | Combination Sum IV | Medium | [Solution](leetcode/377.%20Combination%20Sum%20IV)
 378 | Kth Smallest Element in a Sorted Matrix | Medium | [Solution](leetcode/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix)
+382 | Linked List Random Node | Medium | [Solution](leetcode/382.%20Linked%20List%20Random%20Node)
 383 | Ransom Note | Easy | [Solution](leetcode/383.%20Ransom%20Note)
 384 | Shuffle an Array | Medium | [Solution](leetcode/384.%20Shuffle%20an%20Array)
 386 | Lexicographical Numbers | Medium | [Solution](leetcode/386.%20Lexicographical%20Numbers)
