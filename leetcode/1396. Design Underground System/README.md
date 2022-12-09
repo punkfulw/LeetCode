@@ -99,7 +99,7 @@ undergroundSystem.getAverageTime("Leyton", "Paradise"); // return 6.66667, (5 + 
 ```cpp
 // OJ: https://leetcode.com/problems/design-underground-system/
 // Author: github.com/punkfulw
-// Time: O(1) 
+// Time: O(N) 
 // Space: O(N)
 class UndergroundSystem {
 public:
@@ -133,7 +133,7 @@ public:
 ```python3
 # OJ: https://leetcode.com/problems/design-underground-system/
 # Author: github.com/punkfulw
-# Time: O(1) 
+# Time: O(N) 
 # Space: O(N)
 class UndergroundSystem:
 
@@ -154,4 +154,34 @@ class UndergroundSystem:
         for t in self.time[(startStation, endStation)]:
             sum += t
         return sum / len(self.time[(startStation, endStation)])
+```
+
+## Solution 2.
+
+```cpp
+// OJ: https://leetcode.com/problems/design-underground-system/
+// Author: github.com/punkfulw
+// Time: O(1) 
+// Space: O(N)
+class UndergroundSystem {
+public:
+    UndergroundSystem() {}
+    
+    unordered_map<int, pair<string, int>> id2info; // id -> {station, time};
+    map<pair<string, string>, pair<double, int>> station; // {sta1, sta2} -> {time, cntTrip};
+    
+    void checkIn(int id, string stationName, int t) {
+        id2info[id] = {stationName, t};
+    }
+    
+    void checkOut(int id, string to, int end) {
+        auto [from, start] = id2info[id];
+        station[{from, to}].first += (end - start);
+        station[{from, to}].second++;
+    }
+    
+    double getAverageTime(string from, string to) {
+        return station[{from, to}].first / station[{from, to}].second;
+    }
+};
 ```
