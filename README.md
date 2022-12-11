@@ -477,6 +477,7 @@ My C++ Code for LeetCode OJ.
 1071 | Greatest Common Divisor of Strings | Easy | [Solution](leetcode/1071.%20Greatest%20Common%20Divisor%20of%20Strings)
 1078 | Occurrences After Bigram | Easy | [Solution](leetcode/1078.%20Occurrences%20After%20Bigram)
 1079 | Letter Tile Possibilities | Medium | [Solution](leetcode/1079.%20Letter%20Tile%20Possibilities)
+1080 | Insufficient Nodes in Root to Leaf Paths | Medium | [Solution](leetcode/1080.%20Insufficient%20Nodes%20in%20Root%20to%20Leaf%20Paths)
 1089 | Duplicate Zeros | Easy | [Solution](leetcode/1089.%20Duplicate%20Zeros)
 1090 | Largest Values From Labels | Medium | [Solution](leetcode/1090.%20Largest%20Values%20From%20Labels)
 1091 | Shortest Path in Binary Matrix | Medium | [Solution](leetcode/1091.%20Shortest%20Path%20in%20Binary%20Matrix)
