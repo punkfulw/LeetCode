@@ -571,6 +571,7 @@ My C++ Code for LeetCode OJ.
 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | [Solution](leetcode/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number)
 1370 | Increasing Decreasing String | Easy | [Solution](leetcode/1370.%20Increasing%20Decreasing%20String)
 1374 | Generate a String With Characters That Have Odd Counts | Easy | [Solution](leetcode/1374.%20Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts)
+1376 | Time Needed to Inform All Employees | Medium | [Solution](leetcode/1376.%20Time%20Needed%20to%20Inform%20All%20Employees)
 1379 | Find a Corresponding Node of a Binary Tree in a Clone of That Tree | Medium | [Solution](leetcode/1379.%20Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree)
 1380 | Lucky Numbers in a Matrix | Easy | [Solution](leetcode/1380.%20Lucky%20Numbers%20in%20a%20Matrix)
 1381 | Design a Stack With Increment Operation | Medium | [Solution](leetcode/1381.%20Design%20a%20Stack%20With%20Increment%20Operation)
