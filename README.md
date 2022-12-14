@@ -595,6 +595,7 @@ My C++ Code for LeetCode OJ.
 1431 | Kids With the Greatest Number of Candies | Easy | [Solution](leetcode/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies)
 1436 | Destination City | Easy | [Solution](leetcode/1436.%20Destination%20City)
 1437 | Check If All 1's Are at Least Length K Places Away | Easy | [Solution](leetcode/1437.%20Check%20If%20All%201%27s%20Are%20at%20Least%20Length%20K%20Places%20Away)
+1438 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Medium | [Solution](leetcode/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit)
 1441 | Build an Array With Stack Operations | Easy | [Solution](leetcode/1441.%20Build%20an%20Array%20With%20Stack%20Operations)
 1446 | Consecutive Characters | Easy | [Solution](leetcode/1446.%20Consecutive%20Characters)
 1447 | Simplified Fractions | Medium | [Solution](leetcode/1447.%20Simplified%20Fractions)
