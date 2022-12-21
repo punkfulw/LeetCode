@@ -699,6 +699,7 @@ My C++ Code for LeetCode OJ.
 1758 | Minimum Changes To Make Alternating Binary String | Easy | [Solution](leetcode/1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String)
 1763 | Longest Nice Substring | Easy | [Solution](leetcode/1763.%20Longest%20Nice%20Substring)
 1765 | Map of Highest Peak | Medium | [Solution](leetcode/1765.%20Map%20of%20Highest%20Peak)
+1766 | Tree of Coprimes | Hard | [Solution](leetcode/1766.%20Tree%20of%20Coprimes)
 1768 | Merge Strings Alternately | Easy | [Solution](leetcode/1768.%20Merge%20Strings%20Alternately)
 1769 | Minimum Number of Operations to Move All Balls to Each Box | Medium | [Solution](leetcode/1769.%20Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box)
 1773 | Count Items Matching a Rule | Easy | [Solution](leetcode/1773.%20Count%20Items%20Matching%20a%20Rule)
