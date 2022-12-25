@@ -816,6 +816,7 @@ My C++ Code for LeetCode OJ.
 2078 | Two Furthest Houses With Different Colors | Easy | [Solution](leetcode/2078.%20Two%20Furthest%20Houses%20With%20Different%20Colors)
 2079 | Watering Plants | Medium | [Solution](leetcode/2079.%20Watering%20Plants)
 2085 | Count Common Words With One Occurrence | Easy | [Solution](leetcode/2085.%20Count%20Common%20Words%20With%20One%20Occurrence)
+2086 | Minimum Number of Buckets Required to Collect Rainwater from Houses | Medium | [Solution](leetcode/2086.%20Minimum%20Number%20of%20Buckets%20Required%20to%20Collect%20Rainwater%20from%20Houses)
 2087 | Minimum Cost Homecoming of a Robot in a Grid | Medium | [Solution](leetcode/2087.%20Minimum%20Cost%20Homecoming%20of%20a%20Robot%20in%20a%20Grid)
 2089 | Find Target Indices After Sorting Array | Easy | [Solution](leetcode/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array)
 2090 | K Radius Subarray Averages | Medium | [Solution](leetcode/2090.%20K%20Radius%20Subarray%20Averages)
