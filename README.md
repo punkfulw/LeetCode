@@ -638,6 +638,7 @@ My C++ Code for LeetCode OJ.
 1558 | Minimum Numbers of Function Calls to Make Target Array | Medium | [Solution](leetcode/1558.%20Minimum%20Numbers%20of%20Function%20Calls%20to%20Make%20Target%20Array)
 1560 | Most Visited Sector in a Circular Track | Easy | [Solution](leetcode/1560.%20Most%20Visited%20Sector%20in%20a%20Circular%20Track)
 1561 | Maximum Number of Coins You Can Get | Medium | [Solution](leetcode/1561.%20Maximum%20Number%20of%20Coins%20You%20Can%20Get)
+1568 | Minimum Number of Days to Disconnect Island | Medium | [Solution](leetcode/1568.%20Minimum%20Number%20of%20Days%20to%20Disconnect%20Island)
 1572 | Matrix Diagonal Sum | Easy | [Solution](leetcode/1572.%20Matrix%20Diagonal%20Sum)
 1578 | Minimum Deletion Cost to Avoid Repeating Letters | Medium | [Solution](leetcode/1578.%20Minimum%20Deletion%20Cost%20to%20Avoid%20Repeating%20Letters)
 1582 | Special Positions in a Binary Matrix | Easy | [Solution](leetcode/1582.%20Special%20Positions%20in%20a%20Binary%20Matrix)
