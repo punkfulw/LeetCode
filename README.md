@@ -483,6 +483,7 @@ My C++ Code for LeetCode OJ.
 1090 | Largest Values From Labels | Medium | [Solution](leetcode/1090.%20Largest%20Values%20From%20Labels)
 1091 | Shortest Path in Binary Matrix | Medium | [Solution](leetcode/1091.%20Shortest%20Path%20in%20Binary%20Matrix)
 1094 | Car Pooling | Medium | [Solution](leetcode/1094.%20Car%20Pooling)
+1095 | Find in Mountain Array | Hard | [Solution](leetcode/1095.%20Find%20in%20Mountain%20Array)
 1103 | Distribute Candies to People | Easy | [Solution](leetcode/1103.%20Distribute%20Candies%20to%20People)
 1104 | Path In Zigzag Labelled Binary Tree | Medium | [Solution](leetcode/1104.%20Path%20In%20Zigzag%20Labelled%20Binary%20Tree)
 1108 | Defanging an IP Address | Easy | [Solution](leetcode/1108.%20Defanging%20an%20IP%20Address)
