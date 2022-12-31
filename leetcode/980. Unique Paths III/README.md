@@ -73,39 +73,44 @@ Note that the starting and ending square can be anywhere in the grid.
 // Space: O(MN) 
 class Solution {
 public:
-    int n, m, dirs[4][2] = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}}, ans = 0, end_x, end_y, ttl = 1;
+    int ans = 0, dirs[5] = {1, 0, -1, 0, 1}, n, m, space = 0;
+    vector<vector<int>> grid;
     
-    void dfs(int x, int y, int cnt, vector<vector<int>>& grid){
-        if (grid[x][y] == -1)
-            return;
-        if (grid[x][y] == 2){
-            ans += cnt == ttl;
+    void dfs(int i, int j, int end[]){
+        if (i == end[0] && j == end[1]){
+            ans += space == 0;
             return;
         }
+        int ori = grid[i][j];
+        grid[i][j] = -1;
         
-        grid[x][y] = 1;
         for (int d = 0; d < 4; d++){
-            int r = x + dirs[d][0], c = y + dirs[d][1];
-            if (r >= 0 && r < n && c >= 0 && c < m && grid[r][c] != 1)
-                dfs(r, c, cnt + 1, grid);
+            int r = i + dirs[d], c = j + dirs[d + 1];
+            if (r >= 0 && r < n && c >= 0 && c < m && grid[r][c] != -1){
+                space -= grid[r][c] == 0;
+                dfs(r, c, end);
+                space += grid[r][c] == 0;
+            }
         }
-        grid[x][y] = 0;
+        grid[i][j] = ori;
     }
     
     int uniquePathsIII(vector<vector<int>>& grid) {
         n = grid.size(), m = grid[0].size();
-        int x, y;
-        for (int i = 0; i < n; i++){
+        this->grid = grid;
+        
+        int start[2], end[2];
+        
+        for (int i = 0; i < n; i++)
             for (int j = 0; j < m; j++){
+                space += grid[i][j] == 0;
                 if (grid[i][j] == 1)
-                    x = i, y = j;
+                    start[0] = i, start[1] = j;
                 else if (grid[i][j] == 2)
-                    end_x = i, end_y = j;
-                else if (grid[i][j] == 0)
-                    ttl++;
+                    end[0] = i, end[1] = j;
             }
-        }
-        dfs(x, y, 0, grid);
+
+        dfs(start[0], start[1], end);
         return ans;
     }
 };
