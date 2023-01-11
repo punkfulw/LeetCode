@@ -602,6 +602,7 @@ My C++ Code for LeetCode OJ.
 1437 | Check If All 1's Are at Least Length K Places Away | Easy | [Solution](leetcode/1437.%20Check%20If%20All%201%27s%20Are%20at%20Least%20Length%20K%20Places%20Away)
 1438 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Medium | [Solution](leetcode/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit)
 1441 | Build an Array With Stack Operations | Easy | [Solution](leetcode/1441.%20Build%20an%20Array%20With%20Stack%20Operations)
+1443 | Minimum Time to Collect All Apples in a Tree | Medium | [Solution](leetcode/1443.%20Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree)
 1446 | Consecutive Characters | Easy | [Solution](leetcode/1446.%20Consecutive%20Characters)
 1447 | Simplified Fractions | Medium | [Solution](leetcode/1447.%20Simplified%20Fractions)
 1448 | Count Good Nodes in Binary Tree | Medium | [Solution](leetcode/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree)
