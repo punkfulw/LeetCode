@@ -626,6 +626,7 @@ My C++ Code for LeetCode OJ.
 1507 | Reformat Date | Easy | [Solution](leetcode/1507.%20Reformat%20Date)
 1512 | Number of Good Pairs | Easy | [Solution](leetcode/1512.%20Number%20of%20Good%20Pairs)
 1518 | Water Bottles | Easy | [Solution](leetcode/1518.%20Water%20Bottles)
+1519 | Number of Nodes in the Sub-Tree With the Same Label | Medium | [Solution](leetcode/1519.%20Number%20of%20Nodes%20in%20the%20Sub-Tree%20With%20the%20Same%20Label)
 1523 | Count Odd Numbers in an Interval Range | Easy | [Solution](leetcode/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range)
 1525 | Number of Good Ways to Split a String | Medium | [Solution](leetcode/1525.%20Number%20of%20Good%20Ways%20to%20Split%20a%20String)
 1526 | Minimum Number of Increments on Subarrays to Form a Target Array | Hard | [Solution](leetcode/1526.%20Minimum%20Number%20of%20Increments%20on%20Subarrays%20to%20Form%20a%20Target%20Array)
