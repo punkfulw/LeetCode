@@ -236,6 +236,7 @@ My C++ Code for LeetCode OJ.
 461 | Hamming Distance | Easy | [Solution](leetcode/461.%20Hamming%20Distance)
 462 | Minimum Moves to Equal Array Elements II | Medium | [Solution](leetcode/462.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II)
 463 | Island Perimeter | Easy | [Solution](leetcode/463.%20Island%20Perimeter)
+472 | Concatenated Words | Hard | [Solution](leetcode/472.%20Concatenated%20Words)
 476 | Number Complement | Easy | [Solution](leetcode/476.%20Number%20Complement)
 477 | Total Hamming Distance | Medium | [Solution](leetcode/477.%20Total%20Hamming%20Distance)
 482 | License Key Formatting | Easy | [Solution](leetcode/482.%20License%20Key%20Formatting)
