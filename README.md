@@ -472,6 +472,7 @@ My C++ Code for LeetCode OJ.
 1026 | Maximum Difference Between Node and Ancestor | Medium | [Solution](leetcode/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor)
 1028 | Recover a Tree From Preorder Traversal | Hard | [Solution](leetcode/1028.%20Recover%20a%20Tree%20From%20Preorder%20Traversal)
 1030 | Matrix Cells in Distance Order | Easy | [Solution](leetcode/1030.%20Matrix%20Cells%20in%20Distance%20Order)
+1033 | Moving Stones Until Consecutive | Easy | [Solution](leetcode/1033.%20Moving%20Stones%20Until%20Consecutive)
 1037 | Valid Boomerang | Easy | [Solution](leetcode/1037.%20Valid%20Boomerang)
 1038 | Binary Search Tree to Greater Sum Tree | Medium | [Solution](leetcode/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree)
 1042 | Flower Planting With No Adjacent | Medium | [Solution](leetcode/1042.%20Flower%20Planting%20With%20No%20Adjacent)
