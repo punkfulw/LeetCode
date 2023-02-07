@@ -79,24 +79,23 @@ If we started at the first tree, we would only collect [0, 1].</span>
 // Space: O(1)
 class Solution {
 public:
-    int totalFruit(vector<int>& nums) {
-        int ans = 0, i = 0, j = 0, n = nums.size();
+    int totalFruit(vector<int>& fruits) {
         unordered_map<int, int> mp;
-        while (j < n){
-            while (j < n && mp.size() <= 2){
-                mp[nums[j]]++;
-                j++;
-            }
-            ans = max(ans, j - i - 1);
+        int ans = 0, cnt = 0, n = fruits.size();
+        
+        for (int i = 0, j = 0; i < n; i++){
+            int type = fruits[i];
+            mp[type]++;
+            cnt += 1;
             while (mp.size() > 2){
-                mp[nums[i]]--;
-                if (mp[nums[i]] == 0)
-                    mp.erase(nums[i]);
-                
-                i++;
+                int pre_fruit = fruits[j++];
+                mp[pre_fruit]--;
+                cnt--;
+                if (mp[pre_fruit] == 0)
+                    mp.erase(pre_fruit);
             }
+            ans = max(ans, cnt);
         }
-        ans = max(ans, j - i);
         return ans;
     }
 };
