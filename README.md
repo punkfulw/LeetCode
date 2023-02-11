@@ -497,6 +497,7 @@ My C++ Code for LeetCode OJ.
 1122 | Relative Sort Array | Easy | [Solution](leetcode/1122.%20Relative%20Sort%20Array)
 1123 | Lowest Common Ancestor of Deepest Leaves | Medium | [Solution](leetcode/1123.%20Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves)
 1128 | Number of Equivalent Domino Pairs | Easy | [Solution](leetcode/1128.%20Number%20of%20Equivalent%20Domino%20Pairs)
+1129 | Shortest Path with Alternating Colors | Medium | [Solution](leetcode/1129.%20Shortest%20Path%20with%20Alternating%20Colors)
 1130 | Minimum Cost Tree From Leaf Values | Medium | [Solution](leetcode/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values)
 1137 | N-th Tribonacci Number | Easy | [Solution](leetcode/1137.%20N-th%20Tribonacci%20Number)
 1138 | Alphabet Board Path | Medium | [Solution](leetcode/1138.%20Alphabet%20Board%20Path)
