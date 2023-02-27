@@ -224,6 +224,7 @@ My C++ Code for LeetCode OJ.
 414 | Third Maximum Number | Easy | [Solution](leetcode/414.%20Third%20Maximum%20Number)
 415 | Add Strings | Easy | [Solution](leetcode/415.%20Add%20Strings)
 419 | Battleships in a Board | Medium | [Solution](leetcode/419.%20Battleships%20in%20a%20Board)
+427 | Construct Quad Tree | Medium | [Solution](leetcode/427.%20Construct%20Quad%20Tree)
 429 | N-ary Tree Level Order Traversal | Medium | [Solution](leetcode/429.%20N-ary%20Tree%20Level%20Order%20Traversal)
 433 | Minimum Genetic Mutation | Medium | [Solution](leetcode/433.%20Minimum%20Genetic%20Mutation)
 434 | Number of Segments in a String | Easy | [Solution](leetcode/434.%20Number%20of%20Segments%20in%20a%20String)
