@@ -571,6 +571,7 @@ My C++ Code for LeetCode OJ.
 1342 | Number of Steps to Reduce a Number to Zero | Easy | [Solution](leetcode/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero)
 1343 | Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | Medium | [Solution](leetcode/1343.%20Number%20of%20Sub-arrays%20of%20Size%20K%20and%20Average%20Greater%20than%20or%20Equal%20to%20Threshold)
 1344 | Angle Between Hands of a Clock | Medium | [Solution](leetcode/1344.%20Angle%20Between%20Hands%20of%20a%20Clock)
+1345 | Jump Game IV | Hard | [Solution](leetcode/1345.%20Jump%20Game%20IV)
 1346 | Check If N and Its Double Exist | Easy | [Solution](leetcode/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist)
 1347 | Minimum Number of Steps to Make Two Strings Anagram | Medium | [Solution](leetcode/1347.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram)
 1351 | Count Negative Numbers in a Sorted Matrix | Easy | [Solution](leetcode/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix)
