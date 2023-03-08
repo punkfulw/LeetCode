@@ -395,6 +395,7 @@ My C++ Code for LeetCode OJ.
 867 | Transpose Matrix | Easy | [Solution](leetcode/867.%20Transpose%20Matrix)
 868 | Binary Gap | Easy | [Solution](leetcode/868.%20Binary%20Gap)
 872 | Leaf-Similar Trees | Easy | [Solution](leetcode/872.%20Leaf-Similar%20Trees)
+875 | Koko Eating Bananas | Medium | [Solution](leetcode/875.%20Koko%20Eating%20Bananas)
 876 | Middle of the Linked List | Easy | [Solution](leetcode/876.%20Middle%20of%20the%20Linked%20List)
 881 | Boats to Save People | Medium | [Solution](leetcode/881.%20Boats%20to%20Save%20People)
 883 | Projection Area of 3D Shapes | Easy | [Solution](leetcode/883.%20Projection%20Area%20of%203D%20Shapes)
