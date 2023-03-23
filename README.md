@@ -559,6 +559,7 @@ My C++ Code for LeetCode OJ.
 1313 | Decompress Run-Length Encoded List | Easy | [Solution](leetcode/1313.%20Decompress%20Run-Length%20Encoded%20List)
 1315 | Sum of Nodes with Even-Valued Grandparent | Medium | [Solution](leetcode/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent)
 1317 | Convert Integer to the Sum of Two No-Zero Integers | Easy | [Solution](leetcode/1317.%20Convert%20Integer%20to%20the%20Sum%20of%20Two%20No-Zero%20Integers)
+1319 | Number of Operations to Make Network Connected | Medium | [Solution](leetcode/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected)
 1323 | Maximum 69 Number | Easy | [Solution](leetcode/1323.%20Maximum%2069%20Number)
 1324 | Print Words Vertically | Medium | [Solution](leetcode/1324.%20Print%20Words%20Vertically)
 1325 | Delete Leaves With a Given Value | Medium | [Solution](leetcode/1325.%20Delete%20Leaves%20With%20a%20Given%20Value)
