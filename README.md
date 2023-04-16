@@ -675,6 +675,7 @@ My C++ Code for LeetCode OJ.
 1631 | Path With Minimum Effort | Medium | [Solution](leetcode/1631.%20Path%20With%20Minimum%20Effort)
 1636 | Sort Array by Increasing Frequency | Easy | [Solution](leetcode/1636.%20Sort%20Array%20by%20Increasing%20Frequency)
 1637 | Widest Vertical Area Between Two Points Containing No Points | Medium | [Solution](leetcode/1637.%20Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points)
+1639 | Number of Ways to Form a Target String Given a Dictionary | Hard | [Solution](leetcode/1639.%20Number%20of%20Ways%20to%20Form%20a%20Target%20String%20Given%20a%20Dictionary)
 1641 | Count Sorted Vowel Strings | Medium | [Solution](leetcode/1641.%20Count%20Sorted%20Vowel%20Strings)
 1642 | Furthest Building You Can Reach | Medium | [Solution](leetcode/1642.%20Furthest%20Building%20You%20Can%20Reach)
 1652 | Defuse the Bomb | Easy | [Solution](leetcode/1652.%20Defuse%20the%20Bomb)
