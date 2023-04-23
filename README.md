@@ -603,6 +603,7 @@ My C++ Code for LeetCode OJ.
 1408 | String Matching in an Array | Easy | [Solution](leetcode/1408.%20String%20Matching%20in%20an%20Array)
 1409 | Queries on a Permutation With Key | Medium | [Solution](leetcode/1409.%20Queries%20on%20a%20Permutation%20With%20Key)
 1413 | Minimum Value to Get Positive Step by Step Sum | Easy | [Solution](leetcode/1413.%20Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum)
+1416 | Restore The Array | Hard | [Solution](leetcode/1416.%20Restore%20The%20Array)
 1417 | Reformat The String | Easy | [Solution](leetcode/1417.%20Reformat%20The%20String)
 1422 | Maximum Score After Splitting a String | Easy | [Solution](leetcode/1422.%20Maximum%20Score%20After%20Splitting%20a%20String)
 1423 | Maximum Points You Can Obtain from Cards | Medium | [Solution](leetcode/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards)
